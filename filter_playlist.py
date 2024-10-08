@@ -7,6 +7,10 @@ m3u_url = "http://line.protv.cc/get.php?username=9338741459&password=79615db6da3
 response = requests.get(m3u_url)
 m3u_content = response.text
 
+# save the original file
+with open("original_playlist.m3u", "w") as f:
+    f.write(m3u_content)
+
 # Filter the content (save lines starting with "pippo" and the next line)
 filtered_lines = []
 lines = m3u_content.splitlines()
