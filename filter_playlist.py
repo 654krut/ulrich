@@ -3,6 +3,10 @@ import requests
 # Define the URL of the M3U playlist
 m3u_url = "http://line.protv.cc/get.php?username=9338741459&password=79615db6da37&type=m3u_plus&output=ts"  # Replace with your M3U URL
 
+# Download the M3U file
+response = requests.get(m3u_url)
+m3u_content = response.text
+
 # Define a dictionary mapping filenames to search strings
 file_conditions = {
     "ita.m3u": 'tvg-name="IT',  # File 1: Contains "tvg-name=\"IT\""
