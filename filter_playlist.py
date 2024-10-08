@@ -15,7 +15,7 @@ lines = m3u_content.splitlines()
 filtered_lines.append(lines[0])
 i = 1
 while i < len(lines):
-    if lines[i].startswith("#EXTINF:-1,IT"):  # Check if the line starts with "pippo"
+    if lines[i].find('tvg-name="IT')>-1:  # Check if the line contains tvg-name=IT
         filtered_lines.append(lines[i])  # Save the current line
         if i + 1 < len(lines):  # Ensure the next line exists
             filtered_lines.append(lines[i + 1])  # Save the following line
