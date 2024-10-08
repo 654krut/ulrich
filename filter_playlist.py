@@ -1,21 +1,19 @@
 import requests
 
 # Define the URL of the M3U playlist
-m3u_url = "http://line.protv.cc/get.php?username=9338741459&password=79615db6da37&type=m3u&output=ts"  # Replace with your M3U URL
+m3u_url = "http://line.protv.cc/get.php?username=9338741459&password=79615db6da37&type=m3u_plus&output=ts"  # Replace with your M3U URL
 
 # Download the M3U file
 response = requests.get(m3u_url)
 m3u_content = response.text
 
-# save the original file
-with open("original_playlist.m3u", "w") as f:
-    f.write(m3u_content)
 
 # Filter the content (save lines starting with "pippo" and the next line)
 filtered_lines = []
 lines = m3u_content.splitlines()
 
-i = 0
+filtered_lines.append(lines[0])
+i = 1
 while i < len(lines):
     if lines[i].startswith("#EXTINF:-1,IT"):  # Check if the line starts with "pippo"
         filtered_lines.append(lines[i])  # Save the current line
@@ -25,5 +23,5 @@ while i < len(lines):
     i += 1
 
 # Save the filtered content to a new M3U file
-with open("filtered_playlist.m3u", "w") as f:
+with open("ita.m3u", "w") as f:
     f.write("\n".join(filtered_lines))
