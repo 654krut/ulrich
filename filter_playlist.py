@@ -7,18 +7,21 @@ m3u_url = "http://line.protv.cc/get.php?username=9338741459&password=79615db6da3
 response = requests.get(m3u_url)
 m3u_content = response.text
 
-
-# Filter the content (save lines starting with "pippo" and the next line)
+# Filter the content (save lines containing "tvg-name=\"IT\"" and the next line)
 filtered_lines = []
 lines = m3u_content.splitlines()
 
-filtered_lines.append(lines[0])
+# Keep the first line (if it's a #EXTM3U line)
+if lines:
+    filtered_lines.append(lines[0])
+
+# Iterate over the rest of the lines, starting from the second line
 i = 1
 while i < len(lines):
-    if lines[i].find('tvg-name="IT')>-1:  # Check if the line contains tvg-name=IT
+    if 'tvg-name="IT' in lines[i]:  # Check if the line contains tvg-name="IT"
         filtered_lines.append(lines[i])  # Save the current line
         if i + 1 < len(lines):  # Ensure the next line exists
-            filtered_lines.append(lines[i + 1])  # Save the following line
+            filtered_lines.append(lines[i + 1])  # Save the following line (the URL)
         i += 1  # Skip the next line, since it's already added
     i += 1
 
