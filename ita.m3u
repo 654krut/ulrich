@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="##### ITALY UHD/4K #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="ITALY UHD/4K",##### ITALY UHD/4K #####
-http://line.protv.cc:80/9338741459/79615db6da37/691402
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| RAI 1 UHD" tvg-logo="http://logo.protv.cc/piconsnew/rai1.png" group-title="ITALY UHD/4K",IT| RAI 1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691401
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| RAI 1 4K" tvg-logo="http://logo.protv.cc/piconsnew/rai1.png" group-title="ITALY UHD/4K",IT| RAI 1 4K
@@ -353,8 +351,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/691193
 http://line.protv.cc:80/9338741459/79615db6da37/691192
 #EXTINF:-1 tvg-id="TGNorba24.it" tvg-name="IT| TG NORBA 24" tvg-logo="http://logo.protv.cc/picons/logos/tgnorba24.png" group-title="ITALY UHD/4K",IT| TG NORBA 24
 http://line.protv.cc:80/9338741459/79615db6da37/691196
-#EXTINF:-1 tvg-id="" tvg-name="##### ITALY FHD/HEVC #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="ITALY FHD/HEVC",##### ITALY FHD/HEVC #####
-http://line.protv.cc:80/9338741459/79615db6da37/691598
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| RAI 1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/rai1hd.png" group-title="ITALY FHD/HEVC",IT| RAI 1 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691597
 #EXTINF:-1 tvg-id="RaiDue.it" tvg-name="IT| RAI 2 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/rai2hd.png" group-title="ITALY FHD/HEVC",IT| RAI 2 HEVC
@@ -487,8 +483,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/691520
 http://line.protv.cc:80/9338741459/79615db6da37/691519
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DOCUMENTARIES HEVC" tvg-logo="http://logo.protv.cc/picons/logos/SKY-DOCUMENTARIES.png" group-title="ITALY FHD/HEVC",IT| SKY DOCUMENTARIES HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691518
-#EXTINF:-1 tvg-id="" tvg-name="##### GENERALE HD/4K #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| GENERALE",##### GENERALE HD/4K #####
-http://line.protv.cc:80/9338741459/79615db6da37/692604
 #EXTINF:-1 tvg-id="" tvg-name="IT| MEDIASET ITALIA (NA)" tvg-logo="http://logo.protv.cc/piconsnew/mediasetitalia.png" group-title="IT| GENERALE",IT| MEDIASET ITALIA (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/692857
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="IT| RAI ITALIA HD (NA)" tvg-logo="http://logo.protv.cc/piconsnew/raiitalia.png" group-title="IT| GENERALE",IT| RAI ITALIA HD (NA)
@@ -703,8 +697,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/721162
 http://line.protv.cc:80/9338741459/79615db6da37/721161
 #EXTINF:-1 tvg-id="" tvg-name="IT| GRANDE FRATELLO GF VIP PARTY" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/GRANDE-FRATELLO-VIP-DIRETTA-2.png" group-title="IT| GENERALE",IT| GRANDE FRATELLO GF VIP PARTY
 http://line.protv.cc:80/9338741459/79615db6da37/721160
-#EXTINF:-1 tvg-id="" tvg-name="##### ITALY REGIONALI #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| REGIONALI",##### ITALY REGIONALI #####
-http://line.protv.cc:80/9338741459/79615db6da37/728772
 #EXTINF:-1 tvg-id="" tvg-name="IT| 51 RADIO TV" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/51-RADIO-TV.png" group-title="IT| REGIONALI",IT| 51 RADIO TV
 http://line.protv.cc:80/9338741459/79615db6da37/728771
 #EXTINF:-1 tvg-id="" tvg-name="IT| AURORA ARTE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/AURORA-ARTE.png" group-title="IT| REGIONALI",IT| AURORA ARTE
@@ -793,8 +785,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/728688
 http://line.protv.cc:80/9338741459/79615db6da37/728687
 #EXTINF:-1 tvg-id="" tvg-name="IT| VIDEOLINA (SARDEGNA)" tvg-logo="http://logo.protv.cc/picons/logos/videolina.png" group-title="IT| REGIONALI",IT| VIDEOLINA (SARDEGNA)
 http://line.protv.cc:80/9338741459/79615db6da37/728686
-#EXTINF:-1 tvg-id="" tvg-name="##### CINEMA HD/4K #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| CINEMA",##### CINEMA HD/4K #####
-http://line.protv.cc:80/9338741459/79615db6da37/692106
 #EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION 4K" tvg-logo="http://logo.protv.cc/piconsnew/skycinemaaction.png" group-title="IT| CINEMA",IT| SKY CINEMA ACTION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692105
 #EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION HD" tvg-logo="http://logo.protv.cc/piconsnew/skycinemaaction.png" group-title="IT| CINEMA",IT| SKY CINEMA ACTION HD
@@ -1117,8 +1107,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/468023
 http://line.protv.cc:80/9338741459/79615db6da37/468024
 #EXTINF:-1 tvg-id="Primafila9.it" tvg-name="IT| SKY PRIMAFILA 9 4K+" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-PRIMAFILA-9.png" group-title="IT| CINEMA",IT| SKY PRIMAFILA 9 4K+
 http://line.protv.cc:80/9338741459/79615db6da37/468025
-#EXTINF:-1 tvg-id="" tvg-name="##### AMAZON PRIME 4K #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| AMAZON PRIME",##### AMAZON PRIME 4K #####
-http://line.protv.cc:80/9338741459/79615db6da37/721151
 #EXTINF:-1 tvg-id="" tvg-name="IT| PRIM 1 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="IT| AMAZON PRIME",IT| PRIM 1 FHD [LIVE-EVENT]
 http://line.protv.cc:80/9338741459/79615db6da37/721152
 #EXTINF:-1 tvg-id="" tvg-name="IT| PRIM 1 HD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="IT| AMAZON PRIME",IT| PRIM 1 HD [LIVE-EVENT]
@@ -1129,98 +1117,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/699225
 http://line.protv.cc:80/9338741459/79615db6da37/699224
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR PRIMEVIDEO SD" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="IT| AMAZON PRIME",IT| SKY SPORT BAR PRIMEVIDEO SD
 http://line.protv.cc:80/9338741459/79615db6da37/699223
-#EXTINF:-1 tvg-id="" tvg-name="##### SKY GO ITALY #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| SKYGO SPORTS",##### SKY GO ITALY #####
-http://line.protv.cc:80/9338741459/79615db6da37/1433186
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT ARENA 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-ARENA.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT ARENA 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433187
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT ARENA HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-ARENA.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT ARENA HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433188
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT CALCIO 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-CALCIO.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT CALCIO 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433189
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT CALCIO HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-CALCIO.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT CALCIO HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433190
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT F1 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-F1.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT F1 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433191
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT F1 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-F1.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT F1 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433192
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT GOLF 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-GOLF.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT GOLF 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433195
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT GOLF HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-GOLF.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT GOLF HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433196
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT MAX 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-MAX.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT MAX 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433193
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-MAX.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT MAX HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433194
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT MOTOGP 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-MOTOGP.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT MOTOGP 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433197
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT MOTOGP HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-MOTOGP.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT MOTOGP HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433198
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT NBA HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-NBA.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT NBA HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433200
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT TENNIS 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-TENNIS.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT TENNIS 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433201
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT TENNIS HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-TENNIS.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT TENNIS HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433202
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT UNO 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-UNO.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT UNO 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433203
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT UNO HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-UNO.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT UNO HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433204
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT24 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT24 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433205
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKYGO| SKY SPORT24 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT24 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433206
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPOSKRT NBA 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-NBA.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPOSKRT NBA 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433199
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 251 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 251 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433207
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 251 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 251 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433208
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 252 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 252 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433209
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 252 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 252 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433210
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 253 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 253 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433211
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 253 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 253 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433212
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 254 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 254 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433213
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 254 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 254 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433214
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 255 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 255 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433215
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 255 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 255 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433216
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 256 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 256 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433217
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 256 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 256 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433218
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 257 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 257 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433219
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SKY SPORT 257 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT.png" group-title="IT| SKYGO SPORTS",SKYGO| SKY SPORT 257 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433220
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 1 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 1 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433221
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 1 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433222
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 2 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 2 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433223
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 2 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433224
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 3 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 3 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433225
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 3 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433226
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 4 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 4 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433227
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 4 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433228
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 5 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 5 4K
-http://line.protv.cc:80/9338741459/79615db6da37/1433229
-#EXTINF:-1 tvg-id="" tvg-name="SKYGO| SERIE A TIM FEMMINILE 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SERIE-A.png" group-title="IT| SKYGO SPORTS",SKYGO| SERIE A TIM FEMMINILE 5 HD
-http://line.protv.cc:80/9338741459/79615db6da37/1433230
-#EXTINF:-1 tvg-id="" tvg-name="##### ITALY DAZN HD/FHD #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN",##### ITALY DAZN HD/FHD #####
-http://line.protv.cc:80/9338741459/79615db6da37/920098
 #EXTINF:-1 tvg-id="" tvg-name="IT| DAZN REDBULL FHD" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN REDBULL FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920099
 #EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN CHANNEL FHD
@@ -1355,8 +1251,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/920032
 http://line.protv.cc:80/9338741459/79615db6da37/920031
 #EXTINF:-1 tvg-id="" tvg-name="IT| VETRINA DAZN" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="IT| DAZN",IT| VETRINA DAZN
 http://line.protv.cc:80/9338741459/79615db6da37/920030
-#EXTINF:-1 tvg-id="" tvg-name="##### DAZN PPV #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",##### DAZN PPV #####
-http://line.protv.cc:80/9338741459/79615db6da37/1630325
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN INTER HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN INTER HD
 http://line.protv.cc:80/9338741459/79615db6da37/1630324
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN MILAN TV HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN MILAN TV HD
@@ -1367,7 +1261,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1630322
 http://line.protv.cc:80/9338741459/79615db6da37/1630321
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN EUROSPORT 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1630320
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 3 - GLOBAL CHESS LEAGUE - DAY 6, SESSION 2 | Tue 08 Oct 16:20 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 3 - GLOBAL CHESS LEAGUE - DAY 6, SESSION 2 | Tue 08 Oct 16:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630319
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 4 - WOLVES - ULM | Tue 08 Oct 17:50 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 4 - WOLVES - ULM | Tue 08 Oct 17:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630318
@@ -1383,11 +1277,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/1630314
 http://line.protv.cc:80/9338741459/79615db6da37/1630313
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 10 - GRAND ARRIVALS | Tue 08 Oct 19:35 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 10 - GRAND ARRIVALS | Tue 08 Oct 19:35 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630312
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 11 - CELTIC V TWENTE | Tue 08 Oct 20:50 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 11 - CELTIC V TWENTE | Tue 08 Oct 20:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630311
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 12 - CHELSEA V REAL MADRID | Tue 08 Oct 20:50 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 12 - CHELSEA V REAL MADRID | Tue 08 Oct 20:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630310
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 13 - CELTIC V TWENTE (DUTCH COMMENTARY) | Tue 08 Oct 20:50 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 13 - CELTIC V TWENTE (DUTCH COMMENTARY) | Tue 08 Oct 20:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630309
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630308
@@ -1463,8 +1357,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/1630274
 http://line.protv.cc:80/9338741459/79615db6da37/1630273
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630272
-#EXTINF:-1 tvg-id="" tvg-name="####### D+ PPV #######" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="IT| DISCOVERY+",####### D+ PPV #######
-http://line.protv.cc:80/9338741459/79615db6da37/1637174
 #EXTINF:-1 tvg-id="" tvg-name="IT: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="IT| DISCOVERY+",IT: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1637173
 #EXTINF:-1 tvg-id="" tvg-name="IT: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="IT| DISCOVERY+",IT: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
@@ -1565,8 +1457,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/1637126
 http://line.protv.cc:80/9338741459/79615db6da37/1637125
 #EXTINF:-1 tvg-id="" tvg-name="IT: D+ PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="IT| DISCOVERY+",IT: D+ PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1637124
-#EXTINF:-1 tvg-id="" tvg-name="##### SPORT HD/4K #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| SPORT",##### SPORT HD/4K #####
-http://line.protv.cc:80/9338741459/79615db6da37/692443
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT ACTION 4K" tvg-logo="http://logo.protv.cc/picons/logos/skysportsactionhd.png" group-title="IT| SPORT",IT| SKY SPORT ACTION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692442
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/skysportsactionhd.png" group-title="IT| SPORT",IT| SKY SPORT ACTION HD
@@ -1889,13 +1779,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/997090
 http://line.protv.cc:80/9338741459/79615db6da37/997091
 #EXTINF:-1 tvg-id="" tvg-name="IT| HELBIZ SERIE B LIVE 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/HELBIZ-LIVE-TV.png" group-title="IT| SPORT",IT| HELBIZ SERIE B LIVE 10 HD
 http://line.protv.cc:80/9338741459/79615db6da37/997092
-#EXTINF:-1 tvg-id="" tvg-name="####### NOW TV PPV #######" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",####### NOW TV PPV #######
-http://line.protv.cc:80/9338741459/79615db6da37/1648356
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648355
-#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 2 - TENNIS: ATP & WTA (DIRETTA) | Tue 08 Oct 06:00 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 2 - TENNIS: ATP & WTA (DIRETTA) | Tue 08 Oct 06:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648354
-#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 3 - CICLISMO: TRE VALLI VARESINE (DIRETTA) | Tue 08 Oct 15:30 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 3 - CICLISMO: TRE VALLI VARESINE (DIRETTA) | Tue 08 Oct 15:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648353
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648352
@@ -1949,50 +1837,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/1648329
 http://line.protv.cc:80/9338741459/79615db6da37/1648328
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648327
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648326
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648325
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648324
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648323
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648322
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648321
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648320
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648319
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648318
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648317
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648316
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648315
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648314
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648313
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648312
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648311
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648310
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648309
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648308
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648307
-#EXTINF:-1 tvg-id="" tvg-name="UK: NOW TV PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",UK: NOW TV PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://line.protv.cc:80/9338741459/79615db6da37/1648306
-#EXTINF:-1 tvg-id="" tvg-name="#### BAMBINI HD/4K #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| BAMBINI",#### BAMBINI HD/4K #####
-http://line.protv.cc:80/9338741459/79615db6da37/692444
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="IT| RAI GULP 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/RAI-GULP.png" group-title="IT| BAMBINI",IT| RAI GULP 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692483
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="IT| RAI GULP HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/RAI-GULP.png" group-title="IT| BAMBINI",IT| RAI GULP HD
@@ -2045,8 +1889,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/692446
 http://line.protv.cc:80/9338741459/79615db6da37/692445
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="IT| FRISBEE" tvg-logo="http://logo.protv.cc/piconsnew/frisbee.png" group-title="IT| BAMBINI",IT| FRISBEE
 http://line.protv.cc:80/9338741459/79615db6da37/117294
-#EXTINF:-1 tvg-id="" tvg-name="##### DOCUMENTARIO HD/4K #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| DOCUMENTARIO",##### DOCUMENTARIO HD/4K #####
-http://line.protv.cc:80/9338741459/79615db6da37/692473
 #EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT| SKY CRIME INVESTIGATION 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-CRIME-INVESTIGATION.png" group-title="IT| DOCUMENTARIO",IT| SKY CRIME INVESTIGATION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692510
 #EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT| SKY CRIME INVESTIGATION HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-CRIME-INVESTIGATION.png" group-title="IT| DOCUMENTARIO",IT| SKY CRIME INVESTIGATION HD
@@ -2089,8 +1931,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/692486
 http://line.protv.cc:80/9338741459/79615db6da37/692484
 #EXTINF:-1 tvg-id="" tvg-name="IT| DISNEY PLUS NATURE HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DISNEY-PLUS-NATURE.png" group-title="IT| DOCUMENTARIO",IT| DISNEY PLUS NATURE HD
 http://line.protv.cc:80/9338741459/79615db6da37/468148
-#EXTINF:-1 tvg-id="" tvg-name="#####  BASKET- SERIE A #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| BASKET",#####  BASKET- SERIE A #####
-http://line.protv.cc:80/9338741459/79615db6da37/715596
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-A]  CARPEGNA PROSCIUTTO PESARO" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-A]  CARPEGNA PROSCIUTTO PESARO
 http://line.protv.cc:80/9338741459/79615db6da37/715595
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-A] VIRTUS SEGAFREDO BOLOGNA" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-A] VIRTUS SEGAFREDO BOLOGNA
@@ -2123,8 +1963,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/715582
 http://line.protv.cc:80/9338741459/79615db6da37/715581
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-A] UMANA REYER VENEZIA" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-A] UMANA REYER VENEZIA
 http://line.protv.cc:80/9338741459/79615db6da37/715580
-#EXTINF:-1 tvg-id="" tvg-name="#####  BASKET- SERIE A2 #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| BASKET",#####  BASKET- SERIE A2 #####
-http://line.protv.cc:80/9338741459/79615db6da37/715579
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-A2] EDILNOL PALLACANESTRO BIELLA GIRONE VERDE" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-A2] EDILNOL PALLACANESTRO BIELLA GIRONE VERDE
 http://line.protv.cc:80/9338741459/79615db6da37/715578
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-A2] ORLANDINA BASKET CAPO D ORLANDO GIRONE VERDE" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-A2] ORLANDINA BASKET CAPO D ORLANDO GIRONE VERDE
@@ -2181,8 +2019,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/715553
 http://line.protv.cc:80/9338741459/79615db6da37/715552
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-A2] UMANA SAN GIOBBE BASKET CHIUSI GIRONE ROSSO" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-A2] UMANA SAN GIOBBE BASKET CHIUSI GIRONE ROSSO
 http://line.protv.cc:80/9338741459/79615db6da37/715551
-#EXTINF:-1 tvg-id="" tvg-name="#####  BASKET- SERIE B #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| BASKET",#####  BASKET- SERIE B #####
-http://line.protv.cc:80/9338741459/79615db6da37/715550
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-B] GOLFO BASKET PIOMBINO GIRONE A" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-B] GOLFO BASKET PIOMBINO GIRONE A
 http://line.protv.cc:80/9338741459/79615db6da37/715549
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-B] OLIMPIO BASKET BERNARDO ALBA GIRONE A" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-B] OLIMPIO BASKET BERNARDO ALBA GIRONE A
@@ -2309,8 +2145,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/715489
 http://line.protv.cc:80/9338741459/79615db6da37/715488
 #EXTINF:-1 tvg-id="" tvg-name="IT| [BASKET-B] FORÌO BASKET 1977 GIRONE D" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/116.png" group-title="IT| BASKET",IT| [BASKET-B] FORÌO BASKET 1977 GIRONE D
 http://line.protv.cc:80/9338741459/79615db6da37/715487
-#EXTINF:-1 tvg-id="" tvg-name="##### FORMULA 1 #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| FORMULA 1 / MOTOGP",##### FORMULA 1 #####
-http://line.protv.cc:80/9338741459/79615db6da37/737880
 #EXTINF:-1 tvg-id="" tvg-name="IT| F1 TV MAIN ENGLISH" tvg-logo="http://logo.protv.cc/picons/logos/f1.jpg" group-title="IT| FORMULA 1 / MOTOGP",IT| F1 TV MAIN ENGLISH
 http://line.protv.cc:80/9338741459/79615db6da37/737879
 #EXTINF:-1 tvg-id="" tvg-name="IT| F1 TV MAIN FRANCE" tvg-logo="http://logo.protv.cc/picons/logos/f1.jpg" group-title="IT| FORMULA 1 / MOTOGP",IT| F1 TV MAIN FRANCE
@@ -2365,8 +2199,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/737855
 http://line.protv.cc:80/9338741459/79615db6da37/737854
 #EXTINF:-1 tvg-id="" tvg-name="IT| F1 DATA CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/f1.jpg" group-title="IT| FORMULA 1 / MOTOGP",IT| F1 DATA CHANNEL
 http://line.protv.cc:80/9338741459/79615db6da37/737853
-#EXTINF:-1 tvg-id="" tvg-name="##### MOTOGP #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALY.png" group-title="IT| FORMULA 1 / MOTOGP",##### MOTOGP #####
-http://line.protv.cc:80/9338741459/79615db6da37/737852
 #EXTINF:-1 tvg-id="" tvg-name="IT| MOTOGP COMMENTARY" tvg-logo="http://logo.protv.cc/picons/logos/motogp.png" group-title="IT| FORMULA 1 / MOTOGP",IT| MOTOGP COMMENTARY
 http://line.protv.cc:80/9338741459/79615db6da37/737851
 #EXTINF:-1 tvg-id="" tvg-name="IT| MOTOGP AMBIENT" tvg-logo="http://logo.protv.cc/picons/logos/motogp.png" group-title="IT| FORMULA 1 / MOTOGP",IT| MOTOGP AMBIENT
@@ -2387,8 +2219,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/737844
 http://line.protv.cc:80/9338741459/79615db6da37/737843
 #EXTINF:-1 tvg-id="" tvg-name="IT| MOTOGP LIVE TRACKING" tvg-logo="http://logo.protv.cc/picons/logos/motogp.png" group-title="IT| FORMULA 1 / MOTOGP",IT| MOTOGP LIVE TRACKING
 http://line.protv.cc:80/9338741459/79615db6da37/737842
-#EXTINF:-1 tvg-id="" tvg-name="##### IT 24/7 #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/ITALIA.png" group-title="IT| CINEMA",##### IT 24/7 #####
-http://line.protv.cc:80/9338741459/79615db6da37/1011036
 #EXTINF:-1 tvg-id="" tvg-name="IT| NETFLIX 1 FHD" tvg-logo="http://logo.protv.cc/piconsnew/netflix.png" group-title="IT| CINEMA",IT| NETFLIX 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1010968
 #EXTINF:-1 tvg-id="" tvg-name="IT| NETFLIX 2 FHD" tvg-logo="http://logo.protv.cc/piconsnew/netflix.png" group-title="IT| CINEMA",IT| NETFLIX 2 FHD
@@ -2437,8 +2267,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/1187730
 http://line.protv.cc:80/9338741459/79615db6da37/1187729
 #EXTINF:-1 tvg-id="" tvg-name="IT| TOP CALCIO" tvg-logo="https://1.bp.blogspot.com/-HZG1YgoBtkY/WFAZOHpSyII/AAAAAAAABNE/xuOO2uWvUe84ByzyK_YAnP1RVQhULH1UACLcB/s1600/Top%2Bclacio%2B.jpg" group-title="IT| SPORT",IT| TOP CALCIO
 http://line.protv.cc:80/9338741459/79615db6da37/841094
-#EXTINF:-1 tvg-id="" tvg-name="##### SERIE A/B/C #####" tvg-logo="http://logo.protv.cc/picons/logos/ITALY/ITALY.png" group-title="IT| SERIE A/B/C",##### SERIE A/B/C #####
-http://line.protv.cc:80/9338741459/79615db6da37/1273588
 #EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 4K" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ZONA-DAZN.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/1273581
 #EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ZONA-DAZN.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 HD
@@ -2627,160 +2455,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/1273496
 http://line.protv.cc:80/9338741459/79615db6da37/1273495
 #EXTINF:-1 tvg-id="" tvg-name="IT| GIUGLIANO GIRONE C" tvg-logo="http://logo.protv.cc/picons/logos/ITALY/GIUGLIANO-GIRONE-C.png" group-title="IT| SERIE A/B/C",IT| GIUGLIANO GIRONE C
 http://line.protv.cc:80/9338741459/79615db6da37/1273494
-#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| F1 TV FHD
-http://line.protv.cc:80/9338741459/79615db6da37/317187
-#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV GERMANY" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| F1 TV GERMANY
-http://line.protv.cc:80/9338741459/79615db6da37/920205
-#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV MAIN ENGLISH" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| F1 TV MAIN ENGLISH
-http://line.protv.cc:80/9338741459/79615db6da37/920203
-#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV MAIN FRANCE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| F1 TV MAIN FRANCE
-http://line.protv.cc:80/9338741459/79615db6da37/920204
-#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV SPANISH" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| F1 TV SPANISH
-http://line.protv.cc:80/9338741459/79615db6da37/920206
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="F1| MOVISTAR F1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| MOVISTAR F1
-http://line.protv.cc:80/9338741459/79615db6da37/317783
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="F1| MOVISTAR FORMULA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| MOVISTAR FORMULA 1 HD
-http://line.protv.cc:80/9338741459/79615db6da37/317784
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="F1| SKY SPORT F1 IT" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORT F1 IT
-http://line.protv.cc:80/9338741459/79615db6da37/317778
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="F1| SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1
-http://line.protv.cc:80/9338741459/79615db6da37/317781
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="F1| SKY SPORTS F1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 FHD
-http://line.protv.cc:80/9338741459/79615db6da37/317779
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="F1| SKY SPORTS F1 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 HD
-http://line.protv.cc:80/9338741459/79615db6da37/317782
-#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="F1| SKY SPORTS F1 HD DE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 HD DE
-http://line.protv.cc:80/9338741459/79615db6da37/317780
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="F1| SKY SPORTS FORMULA 1 HD IT" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS FORMULA 1 HD IT
-http://line.protv.cc:80/9338741459/79615db6da37/317777
-#EXTINF:-1 tvg-id="" tvg-name="F1| VIAPLAY 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| VIAPLAY 1 FHD
-http://line.protv.cc:80/9338741459/79615db6da37/920209
-#EXTINF:-1 tvg-id="" tvg-name="F1| VIAPLAY 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| VIAPLAY 2 FHD
-http://line.protv.cc:80/9338741459/79615db6da37/920210
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 PIT" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 PIT
-http://line.protv.cc:80/9338741459/79615db6da37/317209
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 DATA" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 DATA
-http://line.protv.cc:80/9338741459/79615db6da37/317208
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 DRIVER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 DRIVER
-http://line.protv.cc:80/9338741459/79615db6da37/317210
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 1
-http://line.protv.cc:80/9338741459/79615db6da37/317188
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 2" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 2
-http://line.protv.cc:80/9338741459/79615db6da37/317189
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 3" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 3
-http://line.protv.cc:80/9338741459/79615db6da37/317190
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 4" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 4
-http://line.protv.cc:80/9338741459/79615db6da37/317191
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 5" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 5
-http://line.protv.cc:80/9338741459/79615db6da37/317192
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 6" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 6
-http://line.protv.cc:80/9338741459/79615db6da37/317193
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 7" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 7
-http://line.protv.cc:80/9338741459/79615db6da37/317194
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 8" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 8
-http://line.protv.cc:80/9338741459/79615db6da37/317195
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 9" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 9
-http://line.protv.cc:80/9338741459/79615db6da37/317196
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 10" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 10
-http://line.protv.cc:80/9338741459/79615db6da37/317197
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 11" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 11
-http://line.protv.cc:80/9338741459/79615db6da37/317198
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 12" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 12
-http://line.protv.cc:80/9338741459/79615db6da37/317199
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 13" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 13
-http://line.protv.cc:80/9338741459/79615db6da37/317200
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 14" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 14
-http://line.protv.cc:80/9338741459/79615db6da37/317201
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 15" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 15
-http://line.protv.cc:80/9338741459/79615db6da37/317202
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 16" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 16
-http://line.protv.cc:80/9338741459/79615db6da37/317203
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 17" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 17
-http://line.protv.cc:80/9338741459/79615db6da37/317204
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 18" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 18
-http://line.protv.cc:80/9338741459/79615db6da37/317205
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 19" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 19
-http://line.protv.cc:80/9338741459/79615db6da37/317206
-#EXTINF:-1 tvg-id="" tvg-name="F1| FORMULA 1 EVENT 20" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 20
-http://line.protv.cc:80/9338741459/79615db6da37/317207
-#EXTINF:-1 tvg-id="" tvg-name="F1| TV DRIVER TRACKER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TV DRIVER TRACKER
-http://line.protv.cc:80/9338741459/79615db6da37/920208
-#EXTINF:-1 tvg-id="" tvg-name="F1| TV PIT LANE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TV PIT LANE
-http://line.protv.cc:80/9338741459/79615db6da37/920207
-#EXTINF:-1 tvg-id="" tvg-name="F1| HAM HAMILTON MERCEDES" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| HAM HAMILTON MERCEDES
-http://line.protv.cc:80/9338741459/79615db6da37/317804
-#EXTINF:-1 tvg-id="" tvg-name="F1| ALB ALBON WILLIAMS" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| ALB ALBON WILLIAMS
-http://line.protv.cc:80/9338741459/79615db6da37/317807
-#EXTINF:-1 tvg-id="" tvg-name="F1| SAR SARGEANT WILLIAMS" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SAR SARGEANT WILLIAMS
-http://line.protv.cc:80/9338741459/79615db6da37/317803
-#EXTINF:-1 tvg-id="" tvg-name="F1| TRACKER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TRACKER
-http://line.protv.cc:80/9338741459/79615db6da37/317808
-#EXTINF:-1 tvg-id="" tvg-name="F1| ALO ALONSO ASTON MARTIN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| ALO ALONSO ASTON MARTIN
-http://line.protv.cc:80/9338741459/79615db6da37/317806
-#EXTINF:-1 tvg-id="" tvg-name="F1| TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TV FHD
-http://line.protv.cc:80/9338741459/79615db6da37/920185
-#EXTINF:-1 tvg-id="" tvg-name="F1| BOT BOTTAS ALFAROMEO" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| BOT BOTTAS ALFAROMEO
-http://line.protv.cc:80/9338741459/79615db6da37/317805
-#EXTINF:-1 tvg-id="" tvg-name="F1| DATA" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| DATA
-http://line.protv.cc:80/9338741459/79615db6da37/920180
-#EXTINF:-1 tvg-id="" tvg-name="F1| GAS GASLY ALPINE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| GAS GASLY ALPINE
-http://line.protv.cc:80/9338741459/79615db6da37/317802
-#EXTINF:-1 tvg-id="" tvg-name="F1| LEC LECLERC FERRARI" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| LEC LECLERC FERRARI
-http://line.protv.cc:80/9338741459/79615db6da37/317801
-#EXTINF:-1 tvg-id="" tvg-name="F1| MAG MAGNUSSEN HAAS F1 TEAM" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| MAG MAGNUSSEN HAAS F1 TEAM
-http://line.protv.cc:80/9338741459/79615db6da37/317800
-#EXTINF:-1 tvg-id="" tvg-name="F1| HULK HULKENBURG HAAS F1 TEAM" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| HULK HULKENBURG HAAS F1 TEAM
-http://line.protv.cc:80/9338741459/79615db6da37/317799
-#EXTINF:-1 tvg-id="" tvg-name="F1| NOR NORRIS MCLAREN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| NOR NORRIS MCLAREN
-http://line.protv.cc:80/9338741459/79615db6da37/317798
-#EXTINF:-1 tvg-id="" tvg-name="F1| OCO OCON ALPINE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| OCO OCON ALPINE
-http://line.protv.cc:80/9338741459/79615db6da37/317797
-#EXTINF:-1 tvg-id="" tvg-name="F1| PER PEREZ REDBULLRACING" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| PER PEREZ REDBULLRACING
-http://line.protv.cc:80/9338741459/79615db6da37/317796
-#EXTINF:-1 tvg-id="" tvg-name="F1| PIA PIASTRY MCLAREN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| PIA PIASTRY MCLAREN
-http://line.protv.cc:80/9338741459/79615db6da37/317795
-#EXTINF:-1 tvg-id="" tvg-name="F1| RUS RUSSELL MERCEDES" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| RUS RUSSELL MERCEDES
-http://line.protv.cc:80/9338741459/79615db6da37/317794
-#EXTINF:-1 tvg-id="" tvg-name="F1| SAI SAINZ FERRARI" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SAI SAINZ FERRARI
-http://line.protv.cc:80/9338741459/79615db6da37/317793
-#EXTINF:-1 tvg-id="" tvg-name="F1| DEV DE VRIES ALPHA TAURI" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| DEV DE VRIES ALPHA TAURI
-http://line.protv.cc:80/9338741459/79615db6da37/1142815
-#EXTINF:-1 tvg-id="" tvg-name="F1| STR STROLL ASTONMARTIN" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| STR STROLL ASTONMARTIN
-http://line.protv.cc:80/9338741459/79615db6da37/317792
-#EXTINF:-1 tvg-id="" tvg-name="F1| TSU TSUNODA ALPHATAURI" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TSU TSUNODA ALPHATAURI
-http://line.protv.cc:80/9338741459/79615db6da37/317791
-#EXTINF:-1 tvg-id="" tvg-name="F1| VER VERSTAPPEN REDBULLRACING" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| VER VERSTAPPEN REDBULLRACING
-http://line.protv.cc:80/9338741459/79615db6da37/317790
-#EXTINF:-1 tvg-id="" tvg-name="F1| ZHO ZHOU ALFAROMEO" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| ZHO ZHOU ALFAROMEO
-http://line.protv.cc:80/9338741459/79615db6da37/317789
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP CANAL+" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP CANAL+
-http://line.protv.cc:80/9338741459/79615db6da37/317816
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP 360" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP 360
-http://line.protv.cc:80/9338741459/79615db6da37/920218
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP HELICOPTER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP HELICOPTER
-http://line.protv.cc:80/9338741459/79615db6da37/920217
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP AMBIENT" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP AMBIENT
-http://line.protv.cc:80/9338741459/79615db6da37/920216
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP COMMENTARY" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP COMMENTARY
-http://line.protv.cc:80/9338741459/79615db6da37/920215
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP LIVE TRACKING" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP LIVE TRACKING
-http://line.protv.cc:80/9338741459/79615db6da37/920214
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP LIVE TIMING" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP LIVE TIMING
-http://line.protv.cc:80/9338741459/79615db6da37/920213
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP EVENT 1
-http://line.protv.cc:80/9338741459/79615db6da37/317813
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 2" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP EVENT 2
-http://line.protv.cc:80/9338741459/79615db6da37/920211
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 3" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP EVENT 3
-http://line.protv.cc:80/9338741459/79615db6da37/920212
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP ON BOARD 1
-http://line.protv.cc:80/9338741459/79615db6da37/317809
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 2" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP ON BOARD 2
-http://line.protv.cc:80/9338741459/79615db6da37/317810
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 3" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP ON BOARD 3
-http://line.protv.cc:80/9338741459/79615db6da37/317811
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 4" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP ON BOARD 4
-http://line.protv.cc:80/9338741459/79615db6da37/317812
 #EXTINF:-1 tvg-id="" tvg-name="IT - Alien vs. Predator" tvg-logo="http://logo.protv.cc/images/movies//jKFzLRQPu3b7peGeLtwxTLwILKx.jpg" group-title="|IT| 4K FILM",IT - Alien vs. Predator
 http://line.protv.cc:80/movie/9338741459/79615db6da37/229918.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Alita - Angelo della battaglia" tvg-logo="http://logo.protv.cc/images/movies//bWOmzd1pUkSsP2efOtiocN9YUQq.jpg" group-title="|IT| 4K FILM",IT - Alita - Angelo della battaglia
@@ -8761,20 +8435,6 @@ http://line.protv.cc:80/series/9338741459/79615db6da37/1144260.mp4
 http://line.protv.cc:80/series/9338741459/79615db6da37/1144261.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Breaking Bad - Reazioni collaterali S05 E16" tvg-logo="https://image.tmdb.org/t/p/w185/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg" group-title="|IT| ITALIAN SERIES",IT - Breaking Bad - Reazioni collaterali S05 E16
 http://line.protv.cc:80/series/9338741459/79615db6da37/1144262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Il Signore degli Anelli - Gli anelli del potere S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/15UCiKw7ujYq0W7nQ4u06l6oENn.jpg" group-title="|IT| ITALIAN SERIES",Il Signore degli Anelli - Gli anelli del potere S01 E01
-http://line.protv.cc:80/series/9338741459/79615db6da37/1144153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Il Signore degli Anelli - Gli anelli del potere S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/pxxm7FTgVXj6Yh6Iq9Dj40854cN.jpg" group-title="|IT| ITALIAN SERIES",Il Signore degli Anelli - Gli anelli del potere S01 E02
-http://line.protv.cc:80/series/9338741459/79615db6da37/1144154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Il Signore degli Anelli - Gli anelli del potere S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/phPzXd42PjpcZc5jkVGVwxTY1kA.jpg" group-title="|IT| ITALIAN SERIES",Il Signore degli Anelli - Gli anelli del potere S01 E03
-http://line.protv.cc:80/series/9338741459/79615db6da37/1144155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Il Signore degli Anelli - Gli anelli del potere S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/hkdQY91zh0fSXbYZ8IU1uEPvzAe.jpg" group-title="|IT| ITALIAN SERIES",Il Signore degli Anelli - Gli anelli del potere S01 E04
-http://line.protv.cc:80/series/9338741459/79615db6da37/1144156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Il Signore degli Anelli - Gli anelli del potere S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/jLxeqABrd8nqKq6aLa7wPIszRMU.jpg" group-title="|IT| ITALIAN SERIES",Il Signore degli Anelli - Gli anelli del potere S01 E05
-http://line.protv.cc:80/series/9338741459/79615db6da37/1144157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Il Signore degli Anelli - Gli anelli del potere S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/gS6ziDnTQv14AIcZHGrN09Ojfqn.jpg" group-title="|IT| ITALIAN SERIES",Il Signore degli Anelli - Gli anelli del potere S01 E07
-http://line.protv.cc:80/series/9338741459/79615db6da37/1144158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Il Signore degli Anelli - Gli anelli del potere S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/cmkGbFRwFKoU6ktkp3YwPlNfJyk.jpg" group-title="|IT| ITALIAN SERIES",Il Signore degli Anelli - Gli anelli del potere S01 E08
-http://line.protv.cc:80/series/9338741459/79615db6da37/1144159.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Reacher S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg" group-title="|IT| ITALIAN SERIES",IT - Reacher S01 E01
 http://line.protv.cc:80/series/9338741459/79615db6da37/1144239.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Reacher S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/4nfnpqWMX8dHI1bYZcdxLEvy2c9.jpg" group-title="|IT| ITALIAN SERIES",IT - Reacher S01 E02
