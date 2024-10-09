@@ -14,7 +14,7 @@ if response.status_code == 200 and response.headers['Content-Type'].startswith('
     # Define a dictionary mapping filenames to search strings
     file_conditions = {
         "ita.m3u": 'tvg-name="IT',  # File 1: Contains "tvg-name=\"IT\""
-        "pol.m3u": 'tvg-name="PL',  # File 2: Contains "tvg-name=\"PL\""
+        "pol.m3u": 'group-title="PL|',  # File 2: Contains "tvg-name=\"PL\""
     }
 
     # Create a dictionary to hold the filtered lines for each file
