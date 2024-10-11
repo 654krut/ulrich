@@ -1,296 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SVT1.se" tvg-name="PLAY+| SVT 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/svt1.png" group-title="SWEDEN PLAY+ RAW",PLAY+| SVT 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606064
-#EXTINF:-1 tvg-id="SVT2.se" tvg-name="PLAY+| SVT 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/svt2.png" group-title="SWEDEN PLAY+ RAW",PLAY+| SVT 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606063
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV3 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv3.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV3 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606061
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv4.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV4 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606057
-#EXTINF:-1 tvg-id="Kanal5.se" tvg-name="PLAY+| KANAL 5 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/kanal5.png" group-title="SWEDEN PLAY+ RAW",PLAY+| KANAL 5 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606070
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV6 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv6.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV6 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606056
-#EXTINF:-1 tvg-id="Sjuan.se" tvg-name="PLAY+| SJUAN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/sjuan.png" group-title="SWEDEN PLAY+ RAW",PLAY+| SJUAN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606065
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV8 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv8.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV8 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606055
-#EXTINF:-1 tvg-id="Kanal9.se" tvg-name="PLAY+| KANAL 9 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/kanal9.png" group-title="SWEDEN PLAY+ RAW",PLAY+| KANAL 9 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606069
-#EXTINF:-1 tvg-id="TV10.se" tvg-name="PLAY+| TV 10 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv10.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV 10 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606054
-#EXTINF:-1 tvg-id="Kanal11.se" tvg-name="PLAY+| KANAL 11 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/kanal11.png" group-title="SWEDEN PLAY+ RAW",PLAY+| KANAL 11 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606068
-#EXTINF:-1 tvg-id="TV12.se" tvg-name="PLAY+| TV 12 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv12hd.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV 12 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606053
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| AXESS TV ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/axesstv.png" group-title="SWEDEN PLAY+ RAW",PLAY+| AXESS TV ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606071
-#EXTINF:-1 tvg-id="Kunskapskanalen.se" tvg-name="PLAY+| KUNSKAPSKANALEN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/kunskapskanalen.png" group-title="SWEDEN PLAY+ RAW",PLAY+| KUNSKAPSKANALEN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606067
-#EXTINF:-1 tvg-id="SFkanalen.se" tvg-name="PLAY+| SF-KANALEN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/sfkanalen.png" group-title="SWEDEN PLAY+ RAW",PLAY+| SF-KANALEN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606066
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| SVT BARN/SVT24 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/svtbarnsvt24hdtalandetext.png" group-title="SWEDEN PLAY+ RAW",PLAY+| SVT BARN/SVT24 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606062
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 FILM ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv4film.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV4 FILM ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606060
-#EXTINF:-1 tvg-id="TV4Hits.se" tvg-name="PLAY+| TV4 HITS ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-HITS.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV4 HITS ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606059
-#EXTINF:-1 tvg-id="TV4Stars.se" tvg-name="PLAY+| TV4 STARS ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-STARS.png" group-title="SWEDEN PLAY+ RAW",PLAY+| TV4 STARS ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606058
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V FILM ACTION ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vfilmaction.png" group-title="SWEDEN PLAY+ RAW",PLAY+| V FILM ACTION ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606052
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V FILM FAMILY ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vfilmfamily.png" group-title="SWEDEN PLAY+ RAW",PLAY+| V FILM FAMILY ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606051
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V FILM HITS ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vfilmhitshd.png" group-title="SWEDEN PLAY+ RAW",PLAY+| V FILM HITS ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606050
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V FILM PREMIERE ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vfilmpremierehd.png" group-title="SWEDEN PLAY+ RAW",PLAY+| V FILM PREMIERE ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606049
-#EXTINF:-1 tvg-id="ViasatSeries.se" tvg-name="PLAY+| V SERIES ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vserieshd.png" group-title="SWEDEN PLAY+ RAW",PLAY+| V SERIES ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606048
-#EXTINF:-1 tvg-id="TV4Fotboll.se" tvg-name="PLAY+| TV4 FOTBOLL ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-FOTBOLL.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 FOTBOLL ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606092
-#EXTINF:-1 tvg-id="TV4Hockey.se" tvg-name="PLAY+| TV4 HOCKEY ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-HOCKEY.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 HOCKEY ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606091
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 MOTOR ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-MOTOR.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 MOTOR ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606090
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 SPORT LIVE 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-SPORT-LIVE-1.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 SPORT LIVE 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606088
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 SPORT LIVE 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-SPORT-LIVE-1.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 SPORT LIVE 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606087
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 SPORT LIVE 3 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-SPORT-LIVE-1.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 SPORT LIVE 3 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606086
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 SPORT LIVE 4 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-SPORT-LIVE-1.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 SPORT LIVE 4 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606085
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 SPORTKANALEN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-SPORTKANALEN.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 SPORTKANALEN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606089
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 TENNIS ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-TENNIS.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| TV4 TENNIS ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606084
-#EXTINF:-1 tvg-id="VSportLive1.se" tvg-name="PLAY+| V SPORT 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsport1hd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| V SPORT 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606080
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT EXTRA ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportextrahd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| V SPORT EXTRA ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606079
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT FOOTBALL ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportfootballhd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| V SPORT FOOTBALL ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606078
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT GOLF ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportgolfhd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| V SPORT GOLF ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606077
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT MOTOR ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportmotorhd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| V SPORT MOTOR ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606076
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT PREMIUM ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportpremiumhd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| V SPORT PREMIUM ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606075
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT VINTER ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportvinterhd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| V SPORT VINTER ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606074
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT ᵁᴴᴰ ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/vsport1.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| V SPORT ᵁᴴᴰ ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606073
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| VIAPLAY 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/viaplay1hd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| VIAPLAY 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606083
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| VIAPLAY 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/viaplay2hd.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| VIAPLAY 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606082
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| VIAPLAY FOTBOLLSLÖRDAG ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/viaplay.png" group-title="SWEDEN PLAY+ SPORTS RAW",PLAY+| VIAPLAY FOTBOLLSLÖRDAG ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606081
-#EXTINF:-1 tvg-id="6eren.dk" tvg-name="PLAY+| 6'EREN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/6eren.png" group-title="DENMARK PLAY+ RAW",PLAY+| 6'EREN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606155
-#EXTINF:-1 tvg-id="AnimalPlanet.dk" tvg-name="PLAY+| ANIMAL PLANET ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/animalplanet.png" group-title="DENMARK PLAY+ RAW",PLAY+| ANIMAL PLANET ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606154
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| BBC NEWS ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/bbcnews.png" group-title="DENMARK PLAY+ RAW",PLAY+| BBC NEWS ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606153
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| BBC NORDIC ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/bbcnordic.png" group-title="DENMARK PLAY+ RAW",PLAY+| BBC NORDIC ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606152
-#EXTINF:-1 tvg-id="Canal9.dk" tvg-name="PLAY+| CANAL 9 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/canal9.png" group-title="DENMARK PLAY+ RAW",PLAY+| CANAL 9 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606151
-#EXTINF:-1 tvg-id="CartoonNetwork.dk" tvg-name="PLAY+| CARTOON NETWORK ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/cartoonnetwork.png" group-title="DENMARK PLAY+ RAW",PLAY+| CARTOON NETWORK ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606150
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CNN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/cnn.png" group-title="DENMARK PLAY+ RAW",PLAY+| CNN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606149
-#EXTINF:-1 tvg-id="DiscoveryChannel.dk" tvg-name="PLAY+| DISCOVERY CHANNEL DK ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/discoverychannel.png" group-title="DENMARK PLAY+ RAW",PLAY+| DISCOVERY CHANNEL DK ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606148
-#EXTINF:-1 tvg-id="DiscoveryScience.dk" tvg-name="PLAY+| DISCOVERY SCIENCE ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/discoveryscience.png" group-title="DENMARK PLAY+ RAW",PLAY+| DISCOVERY SCIENCE ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606147
-#EXTINF:-1 tvg-id="DisneyChannel.dk" tvg-name="PLAY+| DISNEY CHANNEL ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/disneychannel.png" group-title="DENMARK PLAY+ RAW",PLAY+| DISNEY CHANNEL ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606146
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| DR1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/dr1.png" group-title="DENMARK PLAY+ RAW",PLAY+| DR1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606145
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| DR2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/dr2.png" group-title="DENMARK PLAY+ RAW",PLAY+| DR2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606144
-#EXTINF:-1 tvg-id="DRRamasjang.dk" tvg-name="PLAY+| DR RAMASJANG ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/drramasjang.png" group-title="DENMARK PLAY+ RAW",PLAY+| DR RAMASJANG ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606143
-#EXTINF:-1 tvg-id="Eurosport2.dk" tvg-name="PLAY+| EUROSPORT 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/eurosport2.png" group-title="DENMARK PLAY+ RAW",PLAY+| EUROSPORT 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606142
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| EUROSPORT ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/eurosporthd.png" group-title="DENMARK PLAY+ RAW",PLAY+| EUROSPORT ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606141
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| FOLKETINGSKANALEN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/folketinget.png" group-title="DENMARK PLAY+ RAW",PLAY+| FOLKETINGSKANALEN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606140
-#EXTINF:-1 tvg-id="HistoryChannel.dk" tvg-name="PLAY+| HISTORY CHANNEL ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/historychannel.png" group-title="DENMARK PLAY+ RAW",PLAY+| HISTORY CHANNEL ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606139
-#EXTINF:-1 tvg-id="InvestigationDiscovery.dk" tvg-name="PLAY+| INVESTIGATION DISCOVERY ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/investigationdiscovery.png" group-title="DENMARK PLAY+ RAW",PLAY+| INVESTIGATION DISCOVERY ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606138
-#EXTINF:-1 tvg-id="Kanal4.dk" tvg-name="PLAY+| KANAL 4 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/kanal4.png" group-title="DENMARK PLAY+ RAW",PLAY+| KANAL 4 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606137
-#EXTINF:-1 tvg-id="Kanal5.dk" tvg-name="PLAY+| KANAL 5 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/kanal5.png" group-title="DENMARK PLAY+ RAW",PLAY+| KANAL 5 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606136
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV 00'S ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/mtv00s.png" group-title="DENMARK PLAY+ RAW",PLAY+| MTV 00'S ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606135
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV DENMARK ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/mtv.png" group-title="DENMARK PLAY+ RAW",PLAY+| MTV DENMARK ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606134
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="DENMARK PLAY+ RAW",PLAY+| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606133
-#EXTINF:-1 tvg-id="NationalGeographic.dk" tvg-name="PLAY+| NATIONAL GEOGRAPHIC ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="DENMARK PLAY+ RAW",PLAY+| NATIONAL GEOGRAPHIC ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606132
-#EXTINF:-1 tvg-id="Nickelodeon.dk" tvg-name="PLAY+| NICKELODEON ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/nickelodeon.png" group-title="DENMARK PLAY+ RAW",PLAY+| NICKELODEON ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606131
-#EXTINF:-1 tvg-id="NRK1.dk" tvg-name="PLAY+| NRK1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/nrk1.png" group-title="DENMARK PLAY+ RAW",PLAY+| NRK1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606130
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| RTL ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/rtl.png" group-title="DENMARK PLAY+ RAW",PLAY+| RTL ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606129
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| SVT 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/svt1.png" group-title="DENMARK PLAY+ RAW",PLAY+| SVT 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606128
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| SVT 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/svt2.png" group-title="DENMARK PLAY+ RAW",PLAY+| SVT 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606127
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| SVT BARN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/svtbarnhd.png" group-title="DENMARK PLAY+ RAW",PLAY+| SVT BARN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606126
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TLC ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tlc.png" group-title="DENMARK PLAY+ RAW",PLAY+| TLC ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606125
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV2 CHARLIE ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv2charlie.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV2 CHARLIE ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606124
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV2 ECHO ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV2-ECHO.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV2 ECHO ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606123
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV2 FRI ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv2fri.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV2 FRI ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606122
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV 2 LORRY ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv2lorry.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV 2 LORRY ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606120
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV 2 LORRY ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv2lorry.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV 2 LORRY ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606121
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV2 NEWS ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv2news.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV2 NEWS ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606119
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV2 NORGE ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv2norgehd.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV2 NORGE ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606118
-#EXTINF:-1 tvg-id="TV2SportX.dk" tvg-name="PLAY+| TV2 SPORT X ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv2sportx.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV2 SPORT X ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606117
-#EXTINF:-1 tvg-id="TV2SportX.dk" tvg-name="PLAY+| TV2 SPORT ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv2sport.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV2 SPORT ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606116
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 SVERIGE ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/TV4-SVERIGE.png" group-title="DENMARK PLAY+ RAW",PLAY+| TV4 SVERIGE ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606115
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ZDF ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/zdf.png" group-title="DENMARK PLAY+ RAW",PLAY+| ZDF ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606114
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CARTOONITO ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/cartoonito.png" group-title="FINLAND PLAY+ RAW",PLAY+| CARTOONITO ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606193
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CARTOON NETWORK ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/cartoonnetwork.png" group-title="FINLAND PLAY+ RAW",PLAY+| CARTOON NETWORK ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606192
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CNN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/cnn.png" group-title="FINLAND PLAY+ RAW",PLAY+| CNN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606191
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| DISNEY CHANNEL ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/disneychannel.png" group-title="FINLAND PLAY+ RAW",PLAY+| DISNEY CHANNEL ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606190
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| FRANCE 24 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/france24.png" group-title="FINLAND PLAY+ RAW",PLAY+| FRANCE 24 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606189
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| FRII ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/frii.png" group-title="FINLAND PLAY+ RAW",PLAY+| FRII ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606188
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| HERO ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/hero.png" group-title="FINLAND PLAY+ RAW",PLAY+| HERO ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606187
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| HIMLEN TV7 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/himlentv7.png" group-title="FINLAND PLAY+ RAW",PLAY+| HIMLEN TV7 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606186
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| JIM ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/jim.png" group-title="FINLAND PLAY+ RAW",PLAY+| JIM ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606185
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| KUTONEN  ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/kutonen.png" group-title="FINLAND PLAY+ RAW",PLAY+| KUTONEN  ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606184
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| LIV ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/liv.png" group-title="FINLAND PLAY+ RAW",PLAY+| LIV ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606183
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV 3 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/mtv3.png" group-title="FINLAND PLAY+ RAW",PLAY+| MTV 3 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606182
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV AITIO ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-AITIO.png" group-title="FINLAND PLAY+ RAW",PLAY+| MTV AITIO ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606181
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV AVA ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-AVA.png" group-title="FINLAND PLAY+ RAW",PLAY+| MTV AVA ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606180
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV JUNIORI ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-JUNIORI.png" group-title="FINLAND PLAY+ RAW",PLAY+| MTV JUNIORI ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606179
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV MAX ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-MAX.png" group-title="FINLAND PLAY+ RAW",PLAY+| MTV MAX ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606178
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV SUB ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/mtvsub.png" group-title="FINLAND PLAY+ RAW",PLAY+| MTV SUB ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606177
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV Viihde ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-Viihde.png" group-title="FINLAND PLAY+ RAW",PLAY+| MTV Viihde ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606176
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| NAT GEO WILD ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/natgeowild.png" group-title="FINLAND PLAY+ RAW",PLAY+| NAT GEO WILD ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606175
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| NAT GEO ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/natgeo.png" group-title="FINLAND PLAY+ RAW",PLAY+| NAT GEO ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606174
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| NELONEN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/nelonen.png" group-title="FINLAND PLAY+ RAW",PLAY+| NELONEN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606173
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ONNITV ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/ONNITV.png" group-title="FINLAND PLAY+ RAW",PLAY+| ONNITV ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606172
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| SF KANALEN ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/sfkanalen.png" group-title="FINLAND PLAY+ RAW",PLAY+| SF KANALEN ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606171
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| STAR CHANNEL ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/starchannel.png" group-title="FINLAND PLAY+ RAW",PLAY+| STAR CHANNEL ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606170
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TLC ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tlc.png" group-title="FINLAND PLAY+ RAW",PLAY+| TLC ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606169
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV5 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv5.png" group-title="FINLAND PLAY+ RAW",PLAY+| TV5 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606168
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV7 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/tv7.png" group-title="FINLAND PLAY+ RAW",PLAY+| TV7 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606167
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V FILM ACTION ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vfilmaction.png" group-title="FINLAND PLAY+ RAW",PLAY+| V FILM ACTION ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606166
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V FILM FAMILY ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vfilmfamily.png" group-title="FINLAND PLAY+ RAW",PLAY+| V FILM FAMILY ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606165
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V FILM HITS ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vfilmhitshd.png" group-title="FINLAND PLAY+ RAW",PLAY+| V FILM HITS ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606164
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V FILM PREMIERE ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vfilmpremierehd.png" group-title="FINLAND PLAY+ RAW",PLAY+| V FILM PREMIERE ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606163
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| VIASAT EXPLORE ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/viasatexplore.png" group-title="FINLAND PLAY+ RAW",PLAY+| VIASAT EXPLORE ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606162
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| VIASAT HISTORY ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/viasathistory.png" group-title="FINLAND PLAY+ RAW",PLAY+| VIASAT HISTORY ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606161
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| VIASAT NATURE ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/viasatnature.png" group-title="FINLAND PLAY+ RAW",PLAY+| VIASAT NATURE ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606160
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| YLE TEEMA & FEM ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/yleteemaandfem.png" group-title="FINLAND PLAY+ RAW",PLAY+| YLE TEEMA & FEM ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606159
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| YLE TV1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/yletv1.png" group-title="FINLAND PLAY+ RAW",PLAY+| YLE TV1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606158
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV LIIGA 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-LIIGA-1.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV LIIGA 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606218
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV LIIGA 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-LIIGA-2.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV LIIGA 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606217
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV LIIGA 3 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-LIIGA-3.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV LIIGA 3 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606216
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV LIIGA 4 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-LIIGA-4.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV LIIGA 4 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606215
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV LIIGA 5 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-LIIGA-5.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV LIIGA 5 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606214
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV LIIGA 6 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-LIIGA-6.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV LIIGA 6 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606213
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV LIIGA 7 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-LIIGA-7.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV LIIGA 7 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606212
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV LIIGA UHD ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-LIIGA-1.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV LIIGA UHD ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606211
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV URHEILU 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-URHEILU-1.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV URHEILU 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606210
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV URHEILU 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-URHEILU-2.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV URHEILU 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606209
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| MTV URHEILU 3 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV-URHEILU-3.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| MTV URHEILU 3 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606208
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsport1hd.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606206
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT FOOTBALL ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportfootballhd.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT FOOTBALL ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606205
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT GOLF ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportgolfhd.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT GOLF ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606204
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT LIVE 1 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportlive1.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT LIVE 1 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606203
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT LIVE 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportlive2.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT LIVE 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606202
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT LIVE 3 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportlive3.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT LIVE 3 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606201
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT LIVE 4 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportlive4.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT LIVE 4 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606200
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT LIVE 5 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportlive5.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT LIVE 5 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606199
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT PREMIUM ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportpremiumhd.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT PREMIUM ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606198
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT SUOMI ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsport1hd.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT SUOMI ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606196
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT 1 SUOMI ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsport1hd.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT 1 SUOMI ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606207
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT SUOMI 2 ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/picons/logos/logos/VSPORT-SUOMI-2.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT SUOMI 2 ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606197
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| V SPORT VINTER ᴿᴬᵂ" tvg-logo="http://logo.protv.cc/piconsnew/vsportvinterhd.png" group-title="FINLAND PLAY+ SPORTS RAW",PLAY+| V SPORT VINTER ᴿᴬᵂ
-http://line.protv.cc:80/9338741459/79615db6da37/1606195
 #EXTINF:-1 tvg-id="TVN.pl" tvg-name="PL-VIP| TVN RAW" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN.png" group-title="PL| POLAND VIP",PL-VIP| TVN RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530234
 #EXTINF:-1 tvg-id="" tvg-name="PL-VIP| TVN 7 RAW" tvg-logo="http://logo.protv.cc/picons/logos/logos/tvn7.png" group-title="PL| POLAND VIP",PL-VIP| TVN 7 RAW
@@ -579,6 +287,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530256
 http://line.protv.cc:80/9338741459/79615db6da37/1530255
 #EXTINF:-1 tvg-id="TVP3.pl" tvg-name="PL-VIP|TVP 3 RAW" tvg-logo="http://logo.protv.cc/picons/logos/logos/tvp3.png" group-title="PL| POLAND VIP",PL-VIP|TVP 3 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530239
+#EXTINF:-1 tvg-id="" tvg-name="##### PL KANAŁY (NA) #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| KANAŁY (NA)",##### PL KANAŁY (NA) #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288923
 #EXTINF:-1 tvg-id="iTVN.pl" tvg-name="PL| ITVN HD (NA)" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ITVN.png" group-title="PL| KANAŁY (NA)",PL| ITVN HD (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/897006
 #EXTINF:-1 tvg-id="" tvg-name="PL| ITVN EXTRA (NA)" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ITVN-EXTRA.png" group-title="PL| KANAŁY (NA)",PL| ITVN EXTRA (NA)
@@ -665,6 +375,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/882091
 http://line.protv.cc:80/9338741459/79615db6da37/882089
 #EXTINF:-1 tvg-id="" tvg-name="PL| KUCHNIA+ HD (NA)" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KUCHNIA+.png" group-title="PL| KANAŁY (NA)",PL| KUCHNIA+ HD (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/882097
+#EXTINF:-1 tvg-id="" tvg-name="##### PL OGÓLNOTEMATYCZNE #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| OGÓLNOTEMATYCZNE",##### PL OGÓLNOTEMATYCZNE #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288922
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PL| TVP 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP--1-HD.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880520
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PL| TVP 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP--1-HD.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 1 HD
@@ -809,6 +521,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/880242
 http://line.protv.cc:80/9338741459/79615db6da37/880241
 #EXTINF:-1 tvg-id="TvTrwam.pl" tvg-name="PL| TRWAM TV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TRWAM-PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TRWAM TV
 http://line.protv.cc:80/9338741459/79615db6da37/884764
+#EXTINF:-1 tvg-id="" tvg-name="##### PL FILMOWE #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| FILMOWE",##### PL FILMOWE #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288921
 #EXTINF:-1 tvg-id="C+Premium.pl" tvg-name="PL| CANAL+ PREMIUM FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalpluspremiumhd.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880498
 #EXTINF:-1 tvg-id="C+Premium.pl" tvg-name="PL| CANAL+ PREMIUM HD" tvg-logo="http://logo.protv.cc/piconsnew/canalpluspremiumhd.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM HD
@@ -971,6 +685,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/880196
 http://line.protv.cc:80/9338741459/79615db6da37/880195
 #EXTINF:-1 tvg-id="" tvg-name="PL| VOD 208" tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="PL| FILMOWE",PL| VOD 208
 http://line.protv.cc:80/9338741459/79615db6da37/880194
+#EXTINF:-1 tvg-id="" tvg-name="##### KANAŁY TVN PLAYER ᵁᴴᴰ/ᴴᴰ #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| KANAŁY TVN PLAYER",##### KANAŁY TVN PLAYER ᵁᴴᴰ/ᴴᴰ #####
+http://line.protv.cc:80/9338741459/79615db6da37/1433873
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN CZAS NA ŚLUB ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN CZAS NA ŚLUB ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1649893
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN CZAS NA ŚLUB ᵁᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN CZAS NA ŚLUB ᵁᴴᴰ
@@ -1047,6 +763,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/1496497
 http://line.protv.cc:80/9338741459/79615db6da37/1433902
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433903
+#EXTINF:-1 tvg-id="" tvg-name="##### PL DLA DZIECI #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| DLA DZIECI",##### PL DLA DZIECI #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288920
 #EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="PL| DA VINCI LEARNING" tvg-logo="http://logo.protv.cc/picons/logos/DA-VINCI-POLSKA.png" group-title="PL| DLA DZIECI",PL| DA VINCI LEARNING
 http://line.protv.cc:80/9338741459/79615db6da37/880224
 #EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL| TVP ABC" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP--ABC.png" group-title="PL| DLA DZIECI",PL| TVP ABC
@@ -1103,6 +821,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/880274
 http://line.protv.cc:80/9338741459/79615db6da37/880432
 #EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="PL| CARTOON NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/CARTOON-NETWORK-POLSKA.png" group-title="PL| DLA DZIECI",PL| CARTOON NETWORK HD
 http://line.protv.cc:80/9338741459/79615db6da37/880292
+#EXTINF:-1 tvg-id="" tvg-name="##### PL DOKUMENTALNE #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| DOKUMENTALNE",##### PL DOKUMENTALNE #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288919
 #EXTINF:-1 tvg-id="LoveNature4K.pl" tvg-name="PL| LOVE NATURE 4K+" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/LOVE-NATURE.png" group-title="PL| DOKUMENTALNE",PL| LOVE NATURE 4K+
 http://line.protv.cc:80/9338741459/79615db6da37/1131804
 #EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="PL| TRAVEL CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TRAVEL--PL.png" group-title="PL| DOKUMENTALNE",PL| TRAVEL CHANNEL FHD
@@ -1225,6 +945,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/880248
 http://line.protv.cc:80/9338741459/79615db6da37/880238
 #EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL| TVP HISTORIA 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-HISTORIA.png" group-title="PL| DOKUMENTALNE",PL| TVP HISTORIA 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121743
+#EXTINF:-1 tvg-id="" tvg-name="##### PL SPORTOWE #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| SPORTOWE",##### PL SPORTOWE #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288918
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="PL| ELEVEN SPORTS 1 4K/UHD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K/UHD
 http://line.protv.cc:80/9338741459/79615db6da37/1498959
 #EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="PL| ELEVEN SPORTS 1 4K+" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K+
@@ -1375,6 +1097,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/880279
 http://line.protv.cc:80/9338741459/79615db6da37/880413
 #EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="PL| MOTOWIZJA HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880273
+#EXTINF:-1 tvg-id="" tvg-name="#### EURO SPORT OLYMPICS ####" tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png" group-title="PL| EUROSPORTS",#### EURO SPORT OLYMPICS ####
+http://line.protv.cc:80/9338741459/79615db6da37/1602004
 #EXTINF:-1 tvg-id="" tvg-name="PL| EUROSPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png" group-title="PL| EUROSPORTS",PL| EUROSPORT UHD
 http://line.protv.cc:80/9338741459/79615db6da37/1602078
 #EXTINF:-1 tvg-id="" tvg-name="PL| EUROSPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 1 FHD
@@ -1395,27 +1119,29 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602011
 http://line.protv.cc:80/9338741459/79615db6da37/1602012
 #EXTINF:-1 tvg-id="" tvg-name="PL| EUROSPORT 9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 9 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - MAJOR LEAGUE BASEBALL PADRES - DODGERS | Wed 09 Oct 03:00 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - MAJOR LEAGUE BASEBALL PADRES - DODGERS | Wed 09 Oct 03:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
+http://line.protv.cc:80/9338741459/79615db6da37/1592508
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL SAN JOSE - ST. LOUIS | Fri 11 Oct 04:35 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL SAN JOSE - ST. LOUIS | Fri 11 Oct 04:35 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL UTAH - CHICAGO | Wed 09 Oct 04:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL UTAH - CHICAGO | Wed 09 Oct 04:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - MAJOR LEAGUE BASEBALL TIGERS - GUARDIANS | Fri 11 Oct 00:00 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - MAJOR LEAGUE BASEBALL TIGERS - GUARDIANS | Fri 11 Oct 00:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL NEW JERSEY - TORONTO | Fri 11 Oct 01:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL NEW JERSEY - TORONTO | Fri 11 Oct 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL FLORIDA - BOSTON | Wed 09 Oct 01:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL FLORIDA - BOSTON | Wed 09 Oct 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL OTTAWA - FLORIDA | Fri 11 Oct 01:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL OTTAWA - FLORIDA | Fri 11 Oct 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NHL BUFFALO - LOS ANGELES | Fri 11 Oct 01:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NHL BUFFALO - LOS ANGELES | Fri 11 Oct 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NHL BOSTON - MONTREAL | Fri 11 Oct 01:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NHL BOSTON - MONTREAL | Fri 11 Oct 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592514
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NHL NY ISLANDERS - UTAH | Fri 11 Oct 01:35 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NHL NY ISLANDERS - UTAH | Fri 11 Oct 01:35 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592515
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 8 - MAJOR LEAGUE BASEBALL ROYALS - YANKEES | Fri 11 Oct 02:00 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 8 - MAJOR LEAGUE BASEBALL ROYALS - YANKEES | Fri 11 Oct 02:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592516
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 9 - NHL DETROIT - PITTSBURGH | Fri 11 Oct 02:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 9 - NHL DETROIT - PITTSBURGH | Fri 11 Oct 02:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592517
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 10 - NHL MINNESOTA - COLUMBUS | Fri 11 Oct 02:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 10 - NHL MINNESOTA - COLUMBUS | Fri 11 Oct 02:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592518
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 11 - NHL NASHVILLE - DALLAS | Fri 11 Oct 02:05 | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 11 - NHL NASHVILLE - DALLAS | Fri 11 Oct 02:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592519
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592520
@@ -1495,6 +1221,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/1592556
 http://line.protv.cc:80/9338741459/79615db6da37/1592557
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592558
+#EXTINF:-1 tvg-id="" tvg-name="##### PL INFORMACYJNE #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| INFORMACYJNE",##### PL INFORMACYJNE #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288917
 #EXTINF:-1 tvg-id="TVN24BiS.pl" tvg-name="PL| TVN24 FHD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN24.png" group-title="PL| INFORMACYJNE",PL| TVN24 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880512
 #EXTINF:-1 tvg-id="TVN24.pl" tvg-name="PL| TVN24 HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN24.png" group-title="PL| INFORMACYJNE",PL| TVN24 HD
@@ -1535,6 +1263,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/880203
 http://line.protv.cc:80/9338741459/79615db6da37/880391
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="PL| POLSAT NEWS POLITYKA HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/POLSAT-NEWS-POLITYKA.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880251
+#EXTINF:-1 tvg-id="" tvg-name="##### PL MUZYCZNE #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| MUZYCZNE",##### PL MUZYCZNE #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288916
 #EXTINF:-1 tvg-id="EskaTv.pl" tvg-name="PL| ESKA TV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ESKA-TV.png" group-title="PL| MUZYCZNE",PL| ESKA TV
 http://line.protv.cc:80/9338741459/79615db6da37/880216
 #EXTINF:-1 tvg-id="EskaTvExtra.pl" tvg-name="PL| ESKA TV EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ESKA-TV-EXTRA.png" group-title="PL| MUZYCZNE",PL| ESKA TV EXTRA
@@ -1595,6 +1325,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/1121754
 http://line.protv.cc:80/9338741459/79615db6da37/1121752
 #EXTINF:-1 tvg-id="MezzoLive.pl" tvg-name="PL| MEZZO LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MEZZO-LIVE-PL.png" group-title="PL| MUZYCZNE",PL| MEZZO LIVE HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121753
+#EXTINF:-1 tvg-id="" tvg-name="##### PL REGIONALNE #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| REGIONALNE",##### PL REGIONALNE #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288915
 #EXTINF:-1 tvg-id="TVP3Białystok.pl" tvg-name="PL| TVP3 BIALYSTOK" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-BIALYSTOK.png" group-title="PL| REGIONALNE",PL| TVP3 BIALYSTOK
 http://line.protv.cc:80/9338741459/79615db6da37/936815
 #EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-name="PL| TVP3 BYDGOSZCZ" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-BYDGOSZCZ.png" group-title="PL| REGIONALNE",PL| TVP3 BYDGOSZCZ
@@ -1625,6 +1357,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/936839
 http://line.protv.cc:80/9338741459/79615db6da37/936948
 #EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="PL| TVP3 WARSZAWA" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-WARSZAWA.png" group-title="PL| REGIONALNE",PL| TVP3 WARSZAWA
 http://line.protv.cc:80/9338741459/79615db6da37/936950
+#EXTINF:-1 tvg-id="" tvg-name="##### PL VIAPLAY #####" tvg-logo="http://logo.protv.cc/piconsnew/viaplay.png" group-title="PL| VIAPLAY",##### PL VIAPLAY #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288914
 #EXTINF:-1 tvg-id="" tvg-name="PL| PREMIER LEAGUE TOP EVENT FHD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY",PL| PREMIER LEAGUE TOP EVENT FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1111763
 #EXTINF:-1 tvg-id="" tvg-name="PL| PREMIER LEAGUE TOP EVENT HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY",PL| PREMIER LEAGUE TOP EVENT HD
@@ -1737,6 +1471,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/1111710
 http://line.protv.cc:80/9338741459/79615db6da37/1111709
 #EXTINF:-1 tvg-id="" tvg-name="PL| NFL HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY",PL| NFL HD
 http://line.protv.cc:80/9338741459/79615db6da37/1111708
+#EXTINF:-1 tvg-id="" tvg-name="##### PL WALKI PPV #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/POLAND.png" group-title="PL| WALKI PPV",##### PL WALKI PPV #####
+http://line.protv.cc:80/9338741459/79615db6da37/1288912
 #EXTINF:-1 tvg-id="" tvg-name="PL| HIGH LEAGUE 6" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HIGH-LEAGUE.png" group-title="PL| WALKI PPV",PL| HIGH LEAGUE 6
 http://line.protv.cc:80/9338741459/79615db6da37/1142450
 #EXTINF:-1 tvg-id="" tvg-name="PL| HIGH LEAGUE 6 BACKUP 1" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HIGH-LEAGUE.png" group-title="PL| WALKI PPV",PL| HIGH LEAGUE 6 BACKUP 1
@@ -1767,6 +1503,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/1311423
 http://line.protv.cc:80/9338741459/79615db6da37/1293996
 #EXTINF:-1 tvg-id="" tvg-name="PL| WALKI 2 (LIVE EVENT ONLY)" tvg-logo="http://logo.protv.cc/picons/logos/logos/WALKI.png" group-title="PL| WALKI PPV",PL| WALKI 2 (LIVE EVENT ONLY)
 http://line.protv.cc:80/9338741459/79615db6da37/1293995
+#EXTINF:-1 tvg-id="" tvg-name="####### MAX PPV #######" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",####### MAX PPV #######
+http://line.protv.cc:80/9338741459/79615db6da37/1640751
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640750
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
@@ -1967,6 +1705,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/1640653
 http://line.protv.cc:80/9338741459/79615db6da37/1640652
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640651
+#EXTINF:-1 tvg-id="" tvg-name="###### PL RADIO ######" tvg-logo="http://logo.protv.cc/picons/logos/logos/PL-RADIO.png" group-title="PL| MUZYCZNE",###### PL RADIO ######
+http://line.protv.cc:80/9338741459/79615db6da37/882113
 #EXTINF:-1 tvg-id="" tvg-name="PL| ZŁOTE PRZEBOJE" tvg-logo="http://logo.protv.cc/picons/logos/RADIO-ZLOTE-PRZEBOJE.jpeg" group-title="PL| MUZYCZNE",PL| ZŁOTE PRZEBOJE
 http://line.protv.cc:80/9338741459/79615db6da37/953570
 #EXTINF:-1 tvg-id="" tvg-name="PL| RMF DEPECHE MODE" tvg-logo="http://logo.protv.cc/picons/logos/RMF-Depeche-Mode.png" group-title="PL| MUZYCZNE",PL| RMF DEPECHE MODE
@@ -2005,9 +1745,3 @@ http://line.protv.cc:80/9338741459/79615db6da37/953591
 http://line.protv.cc:80/9338741459/79615db6da37/953592
 #EXTINF:-1 tvg-id="" tvg-name="PL|  RADIO ZET" tvg-logo="http://logo.protv.cc/picons/logos/radiozet.png" group-title="PL| MUZYCZNE",PL|  RADIO ZET
 http://line.protv.cc:80/9338741459/79615db6da37/953594
-#EXTINF:-1 tvg-id="" tvg-name="PLUS RADIO 102.6" tvg-logo="" group-title="GR| ΓΕΝΙΚΆ/GENERAL",PLUS RADIO 102.6
-http://eco.onestreaming.com:8039/stream
-#EXTINF:-1 tvg-id="" tvg-name="PLANET RADIO 90.6" tvg-logo="" group-title="GR| ΓΕΝΙΚΆ/GENERAL",PLANET RADIO 90.6
-http://s5.onweb.gr:8858/;
-#EXTINF:-1 tvg-id="" tvg-name="PLANET RADIO 90.6" tvg-logo="" group-title="GR| ΓΕΝΙΚΆ/GENERAL",PLANET RADIO 90.6
-http://s5.onweb.gr:8858/;
