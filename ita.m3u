@@ -683,7 +683,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692512
 http://line.protv.cc:80/9338741459/79615db6da37/692511
 #EXTINF:-1 tvg-id="" tvg-name="IT| TELE NORBA" tvg-logo="http://103.176.90.118/piconsnew/telenorba.png" group-title="IT| GENERALE",IT| TELE NORBA
 http://line.protv.cc:80/9338741459/79615db6da37/721175
-#EXTINF:-1 tvg-id="" tvg-name="IT| LOMBARDIA" tvg-logo="http://103.176.90.118/piconsnew/lombardiasat.png" group-title="IT| GENERALE",IT| LOMBARDIA
+#EXTINF:-1 tvg-id="" tvg-name="IT| REGGIO TV HD" tvg-logo="" group-title="IT| GENERALE",IT| REGGIO TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/721174
 #EXTINF:-1 tvg-id="" tvg-name="IT| GRANDE FRATELLO DIRETTA 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GRANDE-FRATELLO-VIP-DIRETTA-2.png" group-title="IT| GENERALE",IT| GRANDE FRATELLO DIRETTA 1
 http://line.protv.cc:80/9338741459/79615db6da37/721165
@@ -1781,11 +1781,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/997091
 http://line.protv.cc:80/9338741459/79615db6da37/997092
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648355
-#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 2 - NBA:GOLDEN STATE - NEW ORLEANS (DIRETTA) | Thu 31 Oct 03:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 2 - NBA:GOLDEN STATE - NEW ORLEANS (DIRETTA) | Thu 31 Oct 03:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648354
-#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 3 - BASEBALL:LA DODGERS-NY YANKEES (DIRETTA) | Wed 30 Oct 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 3 - BASEBALL:LA DODGERS-NY YANKEES (DIRETTA) | Wed 30 Oct 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 3 - NBA: MIAMI - NEW YORK (DIRETTA) | Thu 31 Oct 00:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 3 - NBA: MIAMI - NEW YORK (DIRETTA) | Thu 31 Oct 00:30 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648353
-#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 1 - BASEBALL:LA DODGERS-NY YANKEES (DIRETTA) | Thu 31 Oct 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 1 - BASEBALL:LA DODGERS-NY YANKEES (DIRETTA) | Thu 31 Oct 01:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648352
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648351
@@ -1797,7 +1797,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1648349
 http://line.protv.cc:80/9338741459/79615db6da37/1648348
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648347
-#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 10 - JUVENTUS - PARMA (DIRETTA) | Wed 30 Oct 20:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 10 - JUVENTUS - PARMA (DIRETTA) | Wed 30 Oct 20:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648346
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648345
@@ -1809,9 +1809,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/1648343
 http://line.protv.cc:80/9338741459/79615db6da37/1648342
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648341
-#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 16 - TENNIS: ATP & WTA (DIRETTA) | Tue 29 Oct 22:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 16 - TENNIS: ATP & WTA (DIRETTA) | Tue 29 Oct 22:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648340
-#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 17 - NBA: BROOKLYN - DENVER (DIRETTA) | Wed 30 Oct 00:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 17 - NBA: BROOKLYN - DENVER (DIRETTA) | Wed 30 Oct 00:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648339
 #EXTINF:-1 tvg-id="" tvg-name="IT: NOW TV PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/NOWTV.png" group-title="IT| NOW TV PPV",IT: NOW TV PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1648338
