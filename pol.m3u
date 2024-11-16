@@ -865,7 +865,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880442
 http://line.protv.cc:80/9338741459/79615db6da37/880302
 #EXTINF:-1 tvg-id="Discovery.pl" tvg-name="PL| DISCOVERY FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880428
-#EXTINF:-1 tvg-id="" tvg-name="PL| DISCOVERY HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY HD
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="PL| DISCOVERY HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY HD
 http://line.protv.cc:80/9338741459/79615db6da37/880288
 #EXTINF:-1 tvg-id="Science.pl" tvg-name="PL| DISCOVERY SCIENCE FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY-SCIENCE--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY SCIENCE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880426
@@ -1095,13 +1095,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL PITTSBURGH - DALLAS | Tue 12 Nov 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL PITTSBURGH - DALLAS | Tue 12 Nov 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - SNOOKER CHAMPION OF CHAMPIONS | Fri 15 Nov 19:45 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - SNOOKER CHAMPION OF CHAMPIONS | Fri 15 Nov 19:45 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - SNOOKER CHAMPION OF CHAMPIONS | Mon 11 Nov 19:45 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - SNOOKER CHAMPION OF CHAMPIONS | Mon 11 Nov 19:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - PDC DART GRAND SLAM OF DARTS | Fri 15 Nov 20:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - PDC DART GRAND SLAM OF DARTS | Fri 15 Nov 20:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL PHILADELPHIA - SAN JOSE | Tue 12 Nov 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL PHILADELPHIA - SAN JOSE | Tue 12 Nov 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL COLUMBUS - PITTSBURGH | Sat 16 Nov 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL COLUMBUS - PITTSBURGH | Sat 16 Nov 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - PDC DART GRAND SLAM OF DARTS | Mon 11 Nov 20:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - PDC DART GRAND SLAM OF DARTS | Mon 11 Nov 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
