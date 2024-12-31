@@ -231,8 +231,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530149
 http://line.protv.cc:80/9338741459/79615db6da37/1530150
 #EXTINF:-1 tvg-id="" tvg-name="PL-VIP| DISCOVERY RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY.png" group-title="PL| POLAND VIP",PL-VIP| DISCOVERY RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530151
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| DISCOVERY SCIENCE POLSKA RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-SCIENCE.png" group-title="PL| POLAND VIP",PL-VIP| DISCOVERY SCIENCE POLSKA RAW
-http://line.protv.cc:80/9338741459/79615db6da37/1530152
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PL-VIP| DISNEY CHANNEL RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/disneychannel.png" group-title="PL| POLAND VIP",PL-VIP| DISNEY CHANNEL RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530153
 #EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="PL-VIP| DISNEY JUNIOR RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/disneyjunior.png" group-title="PL| POLAND VIP",PL-VIP| DISNEY JUNIOR RAW
@@ -389,8 +387,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/882108
 http://line.protv.cc:80/9338741459/79615db6da37/882109
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVP ROZRYWKA (NA)" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-ROZ-PL.png" group-title="PL| KANAŁY (NA)",PL| TVP ROZRYWKA (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/882106
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL| EWTN POLSKA" tvg-logo="http://103.176.90.118/picons/logos/logos/EWTN-POLSKA.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| EWTN POLSKA
-http://line.protv.cc:80/9338741459/79615db6da37/1679452
 #EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SERIALE HD (NA)" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SERIALE.png" group-title="PL| KANAŁY (NA)",PL| POLSAT SERIALE HD (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/882078
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN HD (NA)" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png" group-title="PL| KANAŁY (NA)",PL| TVN HD (NA)
@@ -547,6 +543,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/880511
 http://line.protv.cc:80/9338741459/79615db6da37/880371
 #EXTINF:-1 tvg-id="Tele5.pl" tvg-name="PL| TELE 5" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TELE-5.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TELE 5
 http://line.protv.cc:80/9338741459/79615db6da37/880230
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL| EWTN POLSKA" tvg-logo="http://103.176.90.118/picons/logos/logos/EWTN-POLSKA.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| EWTN POLSKA
+http://line.protv.cc:80/9338741459/79615db6da37/1679452
 #EXTINF:-1 tvg-id="Antena.pl" tvg-name="PL| ANTENA TV" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Antenna_TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| ANTENA TV
 http://line.protv.cc:80/9338741459/79615db6da37/1060637
 #EXTINF:-1 tvg-id="TLC.pl" tvg-name="PL| TLC FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TLC--PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TLC FHD
@@ -609,10 +607,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/880361
 http://line.protv.cc:80/9338741459/79615db6da37/880491
 #EXTINF:-1 tvg-id="C+Film.pl" tvg-name="PL| CANAL+ FILM HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusfamily.png" group-title="PL| FILMOWE",PL| CANAL+ FILM HD
 http://line.protv.cc:80/9338741459/79615db6da37/880351
-#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ 360 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 FHD
-http://line.protv.cc:80/9338741459/79615db6da37/880500
-#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ 360 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 HD
-http://line.protv.cc:80/9338741459/79615db6da37/880360
 #EXTINF:-1 tvg-id="C+Seriale.pl" tvg-name="PL| CANAL+ SERIALE FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplusseriale.png" group-title="PL| FILMOWE",PL| CANAL+ SERIALE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880497
 #EXTINF:-1 tvg-id="C+Seriale.pl" tvg-name="PL| CANAL+ SERIALE HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusseriale.png" group-title="PL| FILMOWE",PL| CANAL+ SERIALE HD
@@ -1049,6 +1043,10 @@ http://line.protv.cc:80/9338741459/79615db6da37/880313
 http://line.protv.cc:80/9338741459/79615db6da37/880452
 #EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="PL| EUROSPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-2--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880312
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ 360 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 FHD
+http://line.protv.cc:80/9338741459/79615db6da37/880500
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ 360 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 HD
+http://line.protv.cc:80/9338741459/79615db6da37/880360
 #EXTINF:-1 tvg-id="C+Now.pl" tvg-name="PL| CANAL+ NOW FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-NOW.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880499
 #EXTINF:-1 tvg-id="C+Now.pl" tvg-name="PL| CANAL+ NOW HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-NOW.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW HD
@@ -1167,15 +1165,15 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - PREMIER LEAGUE WEST HAM - LIVERPOOL | Sun 29 Dec 18:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - PREMIER LEAGUE WEST HAM - LIVERPOOL | Sun 29 Dec 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - PDC DART WORLD DARTS CHAMPIONSHIP | Mon 30 Dec 20:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - PDC DART WORLD DARTS CHAMPIONSHIP | Mon 30 Dec 20:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - PDC DART WORLD DARTS CHAMPIONSHIP | Sun 29 Dec 20:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - PDC DART WORLD DARTS CHAMPIONSHIP | Sun 29 Dec 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL FLORIDA - NY RANGERS | Tue 31 Dec 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL FLORIDA - NY RANGERS | Tue 31 Dec 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - CHAMPIONSHIP MIDDLESBROUGH - BURNLEY | Sun 29 Dec 20:55 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - CHAMPIONSHIP MIDDLESBROUGH - BURNLEY | Sun 29 Dec 20:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - PREMIER LEAGUE MULTILIGA PREMIER LEAGUE | Mon 30 Dec 19:55 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - PREMIER LEAGUE MULTILIGA PREMIER LEAGUE | Mon 30 Dec 19:55 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL ST. LOUIS - BUFFALO | Sun 29 Dec 21:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL ST. LOUIS - BUFFALO | Sun 29 Dec 21:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL WINNIPEG - NASHVILLE | Tue 31 Dec 01:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL WINNIPEG - NASHVILLE | Tue 31 Dec 01:35 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NHL ANAHEIM - EDMONTON | Sun 29 Dec 22:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NHL ANAHEIM - EDMONTON | Sun 29 Dec 22:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592514
