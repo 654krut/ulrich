@@ -15,6 +15,7 @@ if response.status_code == 200 and response.headers['Content-Type'].startswith('
     file_conditions = {
         "ita.m3u": 'tvg-name="IT',  # File 1: Contains "tvg-name=\"IT\""
         "pol.m3u": 'group-title="PL|',  # File 2: Contains "tvg-name=\"PL\""
+        "eng.m3u": 'tvg-name="EN'  # File 3: Contains "tvg-name=\"EN\""
     }
 
     # Create a dictionary to hold the filtered lines for each file
