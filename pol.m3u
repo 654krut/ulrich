@@ -73,7 +73,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1735056
 http://line.protv.cc:80/9338741459/79615db6da37/1735055
 #EXTINF:-1 tvg-id="TVN.pl" tvg-name="PL-VIP| TVN RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN.png" group-title="PL| POLAND VIP",PL-VIP| TVN RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530234
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| TVN 7 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/tvn7.png" group-title="PL| POLAND VIP",PL-VIP| TVN 7 RAW
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="PL-VIP| TVN 7 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/tvn7.png" group-title="PL| POLAND VIP",PL-VIP| TVN 7 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530230
 #EXTINF:-1 tvg-id="" tvg-name="PL-VIP| TVN 24 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/tvn24.png" group-title="PL| POLAND VIP",PL-VIP| TVN 24 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530232
@@ -111,7 +111,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530194
 http://line.protv.cc:80/9338741459/79615db6da37/1530195
 #EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="PL-VIP| POLSAT GAMES RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatgames.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT GAMES RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530196
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| POLSAT JIM JAM RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-JIM-JAM.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT JIM JAM RAW
+#EXTINF:-1 tvg-id="JimJam.pl" tvg-name="PL-VIP| POLSAT JIM JAM RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-JIM-JAM.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT JIM JAM RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530197
 #EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="PL-VIP| POLSAT MUSIC RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatmusichd.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT MUSIC RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530198
@@ -145,7 +145,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530214
 http://line.protv.cc:80/9338741459/79615db6da37/1530216
 #EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="PL-VIP|  POLSAT SPORT PREMIUM PPV4 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv4.png" group-title="PL| POLAND VIP",PL-VIP|  POLSAT SPORT PREMIUM PPV4 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530213
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP|  POLSAT SPORT PREMIUM PPV6 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv6.png" group-title="PL| POLAND VIP",PL-VIP|  POLSAT SPORT PREMIUM PPV6 RAW
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="PL-VIP|  POLSAT SPORT PREMIUM PPV6 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv6.png" group-title="PL| POLAND VIP",PL-VIP|  POLSAT SPORT PREMIUM PPV6 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530215
 #EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="PL-VIP| CANAL+ 1 RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplus1.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ 1 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530127
@@ -167,11 +167,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530134
 http://line.protv.cc:80/9338741459/79615db6da37/1530135
 #EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="PL-VIP| CANAL+ SPORT 2 POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplussport2.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ SPORT 2 POLSKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530136
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| CANAL+ SPORT 3 POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplussport3hd.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ SPORT 3 POLSKA RAW
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="PL-VIP| CANAL+ SPORT 3 POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplussport3hd.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ SPORT 3 POLSKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530137
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| CANAL+ SPORT 4 POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplussport4hd.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ SPORT 4 POLSKA RAW
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="PL-VIP| CANAL+ SPORT 4 POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplussport4hd.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ SPORT 4 POLSKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530138
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| CANAL+ SPORT 5 POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplussport5hd.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ SPORT 5 POLSKA RAW
+#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="PL-VIP| CANAL+ SPORT 5 POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplussport5hd.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ SPORT 5 POLSKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530139
 #EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL-VIP| CANAL+ SPORT POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ SPORT POLSKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530140
@@ -183,15 +183,15 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530158
 http://line.protv.cc:80/9338741459/79615db6da37/1530159
 #EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL-VIP| 13 ULICA RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/13ulica.png" group-title="PL| POLAND VIP",PL-VIP| 13 ULICA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530115
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| 4 FUN DANCE RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/4fundance.png" group-title="PL| POLAND VIP",PL-VIP| 4 FUN DANCE RAW
+#EXTINF:-1 tvg-id="4FunDance.pl" tvg-name="PL-VIP| 4 FUN DANCE RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/4fundance.png" group-title="PL| POLAND VIP",PL-VIP| 4 FUN DANCE RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530112
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| 4 FUN KIDS RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/4funkids.png" group-title="PL| POLAND VIP",PL-VIP| 4 FUN KIDS RAW
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="PL-VIP| 4 FUN KIDS RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/4funkids.png" group-title="PL| POLAND VIP",PL-VIP| 4 FUN KIDS RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530113
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| 4 FUN TV RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/4funtv.png" group-title="PL| POLAND VIP",PL-VIP| 4 FUN TV RAW
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="PL-VIP| 4 FUN TV RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/4funtv.png" group-title="PL| POLAND VIP",PL-VIP| 4 FUN TV RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530114
 #EXTINF:-1 tvg-id="" tvg-name="PL-VIP| AlLE INO+ RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/AlLE-INO-PLUS.png" group-title="PL| POLAND VIP",PL-VIP| AlLE INO+ RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530116
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| AMC POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PL| POLAND VIP",PL-VIP| AMC POLSKA RAW
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL-VIP| AMC POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PL| POLAND VIP",PL-VIP| AMC POLSKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530117
 #EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="PL-VIP| ANIMAL PLANET RAW" tvg-logo="http://103.176.90.118/piconsnew/animalplanet.png" group-title="PL| POLAND VIP",PL-VIP| ANIMAL PLANET RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530118
@@ -241,7 +241,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530155
 http://line.protv.cc:80/9338741459/79615db6da37/1530156
 #EXTINF:-1 tvg-id="EpicDrama.pl" tvg-name="PL-VIP| EPIC DRAMA RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/epicdrama.png" group-title="PL| POLAND VIP",PL-VIP| EPIC DRAMA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530160
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| ESKA ROCK TV RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/eskarock.png" group-title="PL| POLAND VIP",PL-VIP| ESKA ROCK TV RAW
+#EXTINF:-1 tvg-id="EskaRock.pl" tvg-name="PL-VIP| ESKA ROCK TV RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/eskarock.png" group-title="PL| POLAND VIP",PL-VIP| ESKA ROCK TV RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530161
 #EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="PL-VIP| ESKA TV RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/eskatv.png" group-title="PL| POLAND VIP",PL-VIP| ESKA TV RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530162
@@ -301,7 +301,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530182
 http://line.protv.cc:80/9338741459/79615db6da37/1530185
 #EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="PL-VIP| NICKELODEON RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/nickelodeon.png" group-title="PL| POLAND VIP",PL-VIP| NICKELODEON RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530184
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| NOVELA TV RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/novelatv.png" group-title="PL| POLAND VIP",PL-VIP| NOVELA TV RAW
+#EXTINF:-1 tvg-id="NovelaTV.pl" tvg-name="PL-VIP| NOVELA TV RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/novelatv.png" group-title="PL| POLAND VIP",PL-VIP| NOVELA TV RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530186
 #EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="PL-VIP| NOWA TV RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/nowatv.png" group-title="PL| POLAND VIP",PL-VIP| NOWA TV RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530187
@@ -321,7 +321,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530259
 http://line.protv.cc:80/9338741459/79615db6da37/1530219
 #EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="PL-VIP| STOPKLATKA RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/stopklatkatv.png" group-title="PL| POLAND VIP",PL-VIP| STOPKLATKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530258
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| TEENNICK POLSKA RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/teennick.png" group-title="PL| POLAND VIP",PL-VIP| TEENNICK POLSKA RAW
+#EXTINF:-1 tvg-id="TeenNick.pl" tvg-name="PL-VIP| TEENNICK POLSKA RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/teennick.png" group-title="PL| POLAND VIP",PL-VIP| TEENNICK POLSKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530221
 #EXTINF:-1 tvg-id="Tele5.pl" tvg-name="PL-VIP| TELE 5 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/tele5.png" group-title="PL| POLAND VIP",PL-VIP| TELE 5 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530222
@@ -337,9 +337,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530226
 http://line.protv.cc:80/9338741459/79615db6da37/1530246
 #EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL-VIP| TV REPUBLIKA RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/tvrepublika.png" group-title="PL| POLAND VIP",PL-VIP| TV REPUBLIKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530247
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| TV4 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/TV4.png" group-title="PL| POLAND VIP",PL-VIP| TV4 RAW
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL-VIP| TV4 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/TV4.png" group-title="PL| POLAND VIP",PL-VIP| TV4 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530228
-#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| TV6 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/TV6.png" group-title="PL| POLAND VIP",PL-VIP| TV6 RAW
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL-VIP| TV6 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/TV6.png" group-title="PL| POLAND VIP",PL-VIP| TV6 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530229
 #EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL-VIP| TVS RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/TVS.png" group-title="PL| POLAND VIP",PL-VIP| TVS RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530248
@@ -525,13 +525,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/880261
 http://line.protv.cc:80/9338741459/79615db6da37/880399
 #EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="PL| POLSAT PLAY HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-PLAY.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| POLSAT PLAY HD
 http://line.protv.cc:80/9338741459/79615db6da37/880259
-#EXTINF:-1 tvg-id="TvPuls.pl" tvg-name="PL| PULS FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PULS-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS FHD
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="PL| PULS FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PULS-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880475
-#EXTINF:-1 tvg-id="TvPuls.pl" tvg-name="PL| PULS HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PULS-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS HD
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="PL| PULS HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PULS-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS HD
 http://line.protv.cc:80/9338741459/79615db6da37/880335
-#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="PL| PULS 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PULS-2.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS 2 FHD
+#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="PL| PULS 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PULS-2.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS 2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880479
-#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="PL| PULS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PULS-2.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS 2 HD
+#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="PL| PULS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PULS-2.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| PULS 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880339
 #EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL| TV4 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TV4.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TV4 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880510
@@ -561,13 +561,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/880385
 http://line.protv.cc:80/9338741459/79615db6da37/880245
 #EXTINF:-1 tvg-id="HomeTv.pl" tvg-name="PL| HOME TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HOME-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| HOME TV
 http://line.protv.cc:80/9338741459/79615db6da37/880214
-#EXTINF:-1 tvg-id="C+Domo.pl" tvg-name="PL| DOMO+ FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DOMO-PLUS.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| DOMO+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL| DOMO+ FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DOMO-PLUS.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| DOMO+ FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880424
-#EXTINF:-1 tvg-id="C+Domo.pl" tvg-name="PL| DOMO+ HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DOMO-PLUS.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| DOMO+ HD
+#EXTINF:-1 tvg-id="Domo.pl" tvg-name="PL| DOMO+ HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DOMO-PLUS.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| DOMO+ HD
 http://line.protv.cc:80/9338741459/79615db6da37/880284
-#EXTINF:-1 tvg-id="" tvg-name="PL| KUCHNIA+ FHD" tvg-logo="http://103.176.90.118/piconsnew/kuchniaplushd.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| KUCHNIA+ FHD
+#EXTINF:-1 tvg-id="KuchniaPlus.pl" tvg-name="PL| KUCHNIA+ FHD" tvg-logo="http://103.176.90.118/piconsnew/kuchniaplushd.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| KUCHNIA+ FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880415
-#EXTINF:-1 tvg-id="" tvg-name="PL| KUCHNIA+ HD" tvg-logo="http://103.176.90.118/piconsnew/kuchniaplushd.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| KUCHNIA+ HD
+#EXTINF:-1 tvg-id="KuchniaPlus.pl" tvg-name="PL| KUCHNIA+ HD" tvg-logo="http://103.176.90.118/piconsnew/kuchniaplushd.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| KUCHNIA+ HD
 http://line.protv.cc:80/9338741459/79615db6da37/880275
 #EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="PL| ACTIVE FAMILY" tvg-logo="http://103.176.90.118/picons/logos/activefamily.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| ACTIVE FAMILY
 http://line.protv.cc:80/9338741459/79615db6da37/880234
@@ -575,15 +575,15 @@ http://line.protv.cc:80/9338741459/79615db6da37/880234
 http://line.protv.cc:80/9338741459/79615db6da37/880212
 #EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL| TVS" tvg-logo="http://103.176.90.118/picons/logos/TVS-PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVS
 http://line.protv.cc:80/9338741459/79615db6da37/880201
-#EXTINF:-1 tvg-id="NowaTv.pl" tvg-name="PL| NOWA TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NOWA-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| NOWA TV FHD
+#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="PL| NOWA TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NOWA-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| NOWA TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880407
 #EXTINF:-1 tvg-id="NowaTv.pl" tvg-name="PL| NOWA TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NOWA-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| NOWA TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880267
 #EXTINF:-1 tvg-id="ZoomTv.pl" tvg-name="PL| ZOOM TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ZOOM-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| ZOOM TV
 http://line.protv.cc:80/9338741459/79615db6da37/880190
-#EXTINF:-1 tvg-id="E!.pl" tvg-name="PL| E! ENTERTAINMENT FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/E-ENTER--PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| E! ENTERTAINMENT FHD
+#EXTINF:-1 tvg-id="EEntertainment.pl" tvg-name="PL| E! ENTERTAINMENT FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/E-ENTER--PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| E! ENTERTAINMENT FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880422
-#EXTINF:-1 tvg-id="E!.pl" tvg-name="PL| E! ENTERTAINMENT HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/E-ENTER--PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="EEntertainment.pl" tvg-name="PL| E! ENTERTAINMENT HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/E-ENTER--PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| E! ENTERTAINMENT HD
 http://line.protv.cc:80/9338741459/79615db6da37/880282
 #EXTINF:-1 tvg-id="WP.pl" tvg-name="PL| WP" tvg-logo="http://103.176.90.118/picons/logos/POLAND/WP.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| WP
 http://line.protv.cc:80/9338741459/79615db6da37/880192
@@ -591,25 +591,25 @@ http://line.protv.cc:80/9338741459/79615db6da37/880192
 http://line.protv.cc:80/9338741459/79615db6da37/880242
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL| TVP POLONIA 1" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP POLONIA 1
 http://line.protv.cc:80/9338741459/79615db6da37/880241
-#EXTINF:-1 tvg-id="TvTrwam.pl" tvg-name="PL| TRWAM TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TRWAM-PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TRWAM TV
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="PL| TRWAM TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TRWAM-PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TRWAM TV
 http://line.protv.cc:80/9338741459/79615db6da37/884764
 #EXTINF:-1 tvg-id="" tvg-name="##### PL FILMOWE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| FILMOWE",##### PL FILMOWE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288921
-#EXTINF:-1 tvg-id="C+Premium.pl" tvg-name="PL| CANAL+ PREMIUM FHD" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM FHD
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="PL| CANAL+ PREMIUM FHD" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880498
-#EXTINF:-1 tvg-id="C+Premium.pl" tvg-name="PL| CANAL+ PREMIUM HD" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM HD
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="PL| CANAL+ PREMIUM HD" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM HD
 http://line.protv.cc:80/9338741459/79615db6da37/880358
-#EXTINF:-1 tvg-id="C+1.pl" tvg-name="PL| CANAL+ 1 FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplus1.png" group-title="PL| FILMOWE",PL| CANAL+ 1 FHD
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="PL| CANAL+ 1 FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplus1.png" group-title="PL| FILMOWE",PL| CANAL+ 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880501
-#EXTINF:-1 tvg-id="C+1.pl" tvg-name="PL| CANAL+ 1 HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusfamily.png" group-title="PL| FILMOWE",PL| CANAL+ 1 HD
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="PL| CANAL+ 1 HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusfamily.png" group-title="PL| FILMOWE",PL| CANAL+ 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880361
-#EXTINF:-1 tvg-id="C+Film.pl" tvg-name="PL| CANAL+ FILM FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplusfilm.png" group-title="PL| FILMOWE",PL| CANAL+ FILM FHD
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="PL| CANAL+ FILM FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplusfilm.png" group-title="PL| FILMOWE",PL| CANAL+ FILM FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880491
-#EXTINF:-1 tvg-id="C+Film.pl" tvg-name="PL| CANAL+ FILM HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusfamily.png" group-title="PL| FILMOWE",PL| CANAL+ FILM HD
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="PL| CANAL+ FILM HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusfamily.png" group-title="PL| FILMOWE",PL| CANAL+ FILM HD
 http://line.protv.cc:80/9338741459/79615db6da37/880351
-#EXTINF:-1 tvg-id="C+Seriale.pl" tvg-name="PL| CANAL+ SERIALE FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplusseriale.png" group-title="PL| FILMOWE",PL| CANAL+ SERIALE FHD
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="PL| CANAL+ SERIALE FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplusseriale.png" group-title="PL| FILMOWE",PL| CANAL+ SERIALE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880497
-#EXTINF:-1 tvg-id="C+Seriale.pl" tvg-name="PL| CANAL+ SERIALE HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusseriale.png" group-title="PL| FILMOWE",PL| CANAL+ SERIALE HD
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="PL| CANAL+ SERIALE HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusseriale.png" group-title="PL| FILMOWE",PL| CANAL+ SERIALE HD
 http://line.protv.cc:80/9338741459/79615db6da37/880357
 #EXTINF:-1 tvg-id="HBO.pl" tvg-name="PL| HBO FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HBO--PL.png" group-title="PL| FILMOWE",PL| HBO FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880494
@@ -691,9 +691,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/880263
 http://line.protv.cc:80/9338741459/79615db6da37/880486
 #EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL| COMEDY CENTRAL POLAND HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/COMEDY-CENTRAL--PL.png" group-title="PL| FILMOWE",PL| COMEDY CENTRAL POLAND HD
 http://line.protv.cc:80/9338741459/79615db6da37/880346
-#EXTINF:-1 tvg-id="KinoTv.pl" tvg-name="PL| KINO TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/KINO-TV.png" group-title="PL| FILMOWE",PL| KINO TV FHD
+#EXTINF:-1 tvg-id="KinoTV.pl" tvg-name="PL| KINO TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/KINO-TV.png" group-title="PL| FILMOWE",PL| KINO TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880478
-#EXTINF:-1 tvg-id="KinoTv.pl" tvg-name="PL| KINO TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/KINO-TV.png" group-title="PL| FILMOWE",PL| KINO TV HD
+#EXTINF:-1 tvg-id="KinoTV.pl" tvg-name="PL| KINO TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/KINO-TV.png" group-title="PL| FILMOWE",PL| KINO TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880338
 #EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="PL| KINO POLSKA FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/KINO-POLSKA.png" group-title="PL| FILMOWE",PL| KINO POLSKA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880476
@@ -705,9 +705,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/880189
 http://line.protv.cc:80/9338741459/79615db6da37/880507
 #EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="PL| POLSAT SERIALE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SERIALE.png" group-title="PL| FILMOWE",PL| POLSAT SERIALE HD
 http://line.protv.cc:80/9338741459/79615db6da37/880367
-#EXTINF:-1 tvg-id="Fox.pl" tvg-name="PL| FOX FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOX--PL.png" group-title="PL| FILMOWE",PL| FOX FHD
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="PL| FOX FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOX--PL.png" group-title="PL| FILMOWE",PL| FOX FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880477
-#EXTINF:-1 tvg-id="Fox.pl" tvg-name="PL| FOX HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOX--PL.png" group-title="PL| FILMOWE",PL| FOX HD
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="PL| FOX HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOX--PL.png" group-title="PL| FILMOWE",PL| FOX HD
 http://line.protv.cc:80/9338741459/79615db6da37/880337
 #EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="PL| FOX COMEDY FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOX-COMEDY--PL.png" group-title="PL| FILMOWE",PL| FOX COMEDY FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880480
@@ -715,7 +715,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880480
 http://line.protv.cc:80/9338741459/79615db6da37/880340
 #EXTINF:-1 tvg-id="ScifiUniversal.pl" tvg-name="PL| SCIFI UNIVERSAL FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/SCIFI-UNIVERSAL.png" group-title="PL| FILMOWE",PL| SCIFI UNIVERSAL FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880451
-#EXTINF:-1 tvg-id="" tvg-name="PL| SCIFI UNIVERSAL HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/SCIFI-UNIVERSAL.png" group-title="PL| FILMOWE",PL| SCIFI UNIVERSAL HD
+#EXTINF:-1 tvg-id="ScifiUniversal.pl" tvg-name="PL| SCIFI UNIVERSAL HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/SCIFI-UNIVERSAL.png" group-title="PL| FILMOWE",PL| SCIFI UNIVERSAL HD
 http://line.protv.cc:80/9338741459/79615db6da37/880311
 #EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="PL| CBS EUROPA FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/CBS-EUROPA.png" group-title="PL| FILMOWE",PL| CBS EUROPA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880431
@@ -727,21 +727,21 @@ http://line.protv.cc:80/9338741459/79615db6da37/880421
 http://line.protv.cc:80/9338741459/79615db6da37/880281
 #EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="PL| STOPKLATKA TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/STOPKLATKA-TV.png" group-title="PL| FILMOWE",PL| STOPKLATKA TV
 http://line.protv.cc:80/9338741459/79615db6da37/880229
-#EXTINF:-1 tvg-id="SundanceTv.pl" tvg-name="PL| SUNDANCE TV FHD" tvg-logo="http://103.176.90.118/picons/logos/Sundance-TV-Poland.png" group-title="PL| FILMOWE",PL| SUNDANCE TV FHD
+#EXTINF:-1 tvg-id="SundanceTV.pl" tvg-name="PL| SUNDANCE TV FHD" tvg-logo="http://103.176.90.118/picons/logos/Sundance-TV-Poland.png" group-title="PL| FILMOWE",PL| SUNDANCE TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880392
 #EXTINF:-1 tvg-id="SundanceTv.pl" tvg-name="PL| SUNDANCE TV HD" tvg-logo="http://103.176.90.118/picons/logos/Sundance-TV-Poland.png" group-title="PL| FILMOWE",PL| SUNDANCE TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880252
-#EXTINF:-1 tvg-id="RomanceTv.pl" tvg-name="PL| ROMANCE TV FHD" tvg-logo="http://103.176.90.118/picons/logos/Romance-TV-Poland.png" group-title="PL| FILMOWE",PL| ROMANCE TV FHD
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="PL| ROMANCE TV FHD" tvg-logo="http://103.176.90.118/picons/logos/Romance-TV-Poland.png" group-title="PL| FILMOWE",PL| ROMANCE TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880394
 #EXTINF:-1 tvg-id="RomanceTv.pl" tvg-name="PL| ROMANCE TV HD" tvg-logo="http://103.176.90.118/picons/logos/Romance-TV-Poland.png" group-title="PL| FILMOWE",PL| ROMANCE TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880254
 #EXTINF:-1 tvg-id="NovelaTv.pl" tvg-name="PL| NOVELA TV" tvg-logo="http://103.176.90.118/picons/logos/NOVELAS-TV.png" group-title="PL| FILMOWE",PL| NOVELA TV
 http://line.protv.cc:80/9338741459/79615db6da37/880209
-#EXTINF:-1 tvg-id="Novelas+.pl" tvg-name="PL| NOVELAS+ FHD" tvg-logo="http://103.176.90.118/picons/logos/NOVELAS+.png" group-title="PL| FILMOWE",PL| NOVELAS+ FHD
+#EXTINF:-1 tvg-id="NovelasPlus.pl" tvg-name="PL| NOVELAS+ FHD" tvg-logo="http://103.176.90.118/picons/logos/NOVELAS+.png" group-title="PL| FILMOWE",PL| NOVELAS+ FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880410
 #EXTINF:-1 tvg-id="Novelas+.pl" tvg-name="PL| NOVELAS+ HD" tvg-logo="http://103.176.90.118/picons/logos/NOVELAS+.png" group-title="PL| FILMOWE",PL| NOVELAS+ HD
 http://line.protv.cc:80/9338741459/79615db6da37/880270
-#EXTINF:-1 tvg-id="RedCarpetTv.pl" tvg-name="PL| RED CARPET TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/RED-CARPET.png" group-title="PL| FILMOWE",PL| RED CARPET TV FHD
+#EXTINF:-1 tvg-id="RedCarpet.pl" tvg-name="PL| RED CARPET TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/RED-CARPET.png" group-title="PL| FILMOWE",PL| RED CARPET TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880395
 #EXTINF:-1 tvg-id="RedCarpetTv.pl" tvg-name="PL| RED CARPET TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/RED-CARPET.png" group-title="PL| FILMOWE",PL| RED CARPET TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880255
@@ -767,69 +767,69 @@ http://line.protv.cc:80/9338741459/79615db6da37/1649890
 http://line.protv.cc:80/9338741459/79615db6da37/1649889
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN PATROL ONLINE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PATROL ONLINE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1649888
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN KRYMINALNIE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KRYMINALNIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KRYMINALNIE ᴴᴰ
+#EXTINF:-1 tvg-id="TVNKryminalnie.pl" tvg-name="PL| TVN KRYMINALNIE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KRYMINALNIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KRYMINALNIE ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433874
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN KRYMINALNIE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KRYMINALNIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KRYMINALNIE ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNKryminalnie.pl" tvg-name="PL| TVN KRYMINALNIE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KRYMINALNIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KRYMINALNIE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433875
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN KULTOWE SERIALE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KULTOWE-SERIALE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KULTOWE SERIALE ᴴᴰ
+#EXTINF:-1 tvg-id="TVNKultoweSeriale.pl" tvg-name="PL| TVN KULTOWE SERIALE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KULTOWE-SERIALE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KULTOWE SERIALE ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433876
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN KULTOWE SERIALE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KULTOWE-SERIALE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KULTOWE SERIALE ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNKultoweSeriale.pl" tvg-name="PL| TVN KULTOWE SERIALE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KULTOWE-SERIALE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN KULTOWE SERIALE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433877
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN MOMENTY PRAWDY ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOMENTY-PRAWDY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOMENTY PRAWDY ᴴᴰ
+#EXTINF:-1 tvg-id="TVNMomentyPrawdy.pl" tvg-name="PL| TVN MOMENTY PRAWDY ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOMENTY-PRAWDY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOMENTY PRAWDY ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433878
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN MOMENTY PRAWDY ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOMENTY-PRAWDY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOMENTY PRAWDY ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNMomentyPrawdy.pl" tvg-name="PL| TVN MOMENTY PRAWDY ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOMENTY-PRAWDY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOMENTY PRAWDY ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433879
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN MOTO ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOTO.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOTO ᴴᴰ
+#EXTINF:-1 tvg-id="TVNMoto.pl" tvg-name="PL| TVN MOTO ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOTO.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOTO ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433880
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN MOTO ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOTO.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOTO ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNMoto.pl" tvg-name="PL| TVN MOTO ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOTO.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MOTO ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433881
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN PRAWO I ŻYCIE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-PRAWO-I-%c5%bbYCIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PRAWO I ŻYCIE ᴴᴰ
+#EXTINF:-1 tvg-id="TVNPrawoZycie.pl" tvg-name="PL| TVN PRAWO I ŻYCIE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-PRAWO-I-%c5%bbYCIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PRAWO I ŻYCIE ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433882
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN PRAWO I ŻYCIE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-PRAWO-I-%c5%bbYCIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PRAWO I ŻYCIE ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNPrawoZycie.pl" tvg-name="PL| TVN PRAWO I ŻYCIE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-PRAWO-I-%c5%bbYCIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN PRAWO I ŻYCIE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433883
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN RAJSKA MIŁOŚĆ ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-RAJSKA-MI%c5%81O%c5%9a%c4%86.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN RAJSKA MIŁOŚĆ ᴴᴰ
+#EXTINF:-1 tvg-id="TVNRajskaMilosc.pl" tvg-name="PL| TVN RAJSKA MIŁOŚĆ ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-RAJSKA-MI%c5%81O%c5%9a%c4%86.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN RAJSKA MIŁOŚĆ ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433884
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN RAJSKA MIŁOŚĆ ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-RAJSKA-MI%c5%81O%c5%9a%c4%86.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN RAJSKA MIŁOŚĆ ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNRajskaMilosc.pl" tvg-name="PL| TVN RAJSKA MIŁOŚĆ ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-RAJSKA-MI%c5%81O%c5%9a%c4%86.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN RAJSKA MIŁOŚĆ ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433885
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN REWOLUCJE W KUCHNI ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN REWOLUCJE W KUCHNI ᴴᴰ
+#EXTINF:-1 tvg-id="TVNRewolucjeKuchni.pl" tvg-name="PL| TVN REWOLUCJE W KUCHNI ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN REWOLUCJE W KUCHNI ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433886
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN REWOLUCJE W KUCHNI ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN REWOLUCJE W KUCHNI ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNRewolucjeKuchni.pl" tvg-name="PL| TVN REWOLUCJE W KUCHNI ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN REWOLUCJE W KUCHNI ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433887
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN SERIAL O KOBIETACH ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-SERIAL-O-KOBIETACH.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SERIAL O KOBIETACH ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433888
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN SERIAL O KOBIETACH ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-SERIAL-O-KOBIETACH.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SERIAL O KOBIETACH ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433889
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN SZKOŁA ŻYCIA ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-SZKO%c5%81A-%c5%bbYCIA.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZKOŁA ŻYCIA ᴴᴰ
+#EXTINF:-1 tvg-id="TVNSzkolaZycia.pl" tvg-name="PL| TVN SZKOŁA ŻYCIA ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-SZKO%c5%81A-%c5%bbYCIA.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZKOŁA ŻYCIA ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433890
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN SZKOŁA ŻYCIA ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-SZKO%c5%81A-%c5%bbYCIA.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZKOŁA ŻYCIA ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNSzkolaZycia.pl" tvg-name="PL| TVN SZKOŁA ŻYCIA ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-SZKO%c5%81A-%c5%bbYCIA.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZKOŁA ŻYCIA ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433891
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN SZPITALNE HISTORIE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZPITALNE HISTORIE ᴴᴰ
+#EXTINF:-1 tvg-id="TVNSzpitalneHistorie.pl" tvg-name="PL| TVN SZPITALNE HISTORIE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZPITALNE HISTORIE ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433892
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN SZPITALNE HISTORIE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZPITALNE HISTORIE ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNSzpitalneHistorie.pl" tvg-name="PL| TVN SZPITALNE HISTORIE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN SZPITALNE HISTORIE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433893
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN TALK-SHOW ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-TALK-SHOW.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TALK-SHOW ᴴᴰ
+#EXTINF:-1 tvg-id="TVNTalkShow.pl" tvg-name="PL| TVN TALK-SHOW ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-TALK-SHOW.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TALK-SHOW ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433894
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN TALK-SHOW ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-TALK-SHOW.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TALK-SHOW ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNTalkShow.pl" tvg-name="PL| TVN TALK-SHOW ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-TALK-SHOW.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TALK-SHOW ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433895
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN TELENOWELE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-TELENOWELE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TELENOWELE ᴴᴰ
+#EXTINF:-1 tvg-id="TVNTelenowele.pl" tvg-name="PL| TVN TELENOWELE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-TELENOWELE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TELENOWELE ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433896
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN TELENOWELE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-TELENOWELE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TELENOWELE ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNTelenowele.pl" tvg-name="PL| TVN TELENOWELE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-TELENOWELE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN TELENOWELE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433897
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN USTERKA ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-USTERKA.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN USTERKA ᴴᴰ
+#EXTINF:-1 tvg-id="TVNUsterka.pl" tvg-name="PL| TVN USTERKA ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-USTERKA.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN USTERKA ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433898
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN USTERKA ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-USTERKA.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN USTERKA ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNUsterka.pl" tvg-name="PL| TVN USTERKA ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-USTERKA.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN USTERKA ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433899
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN W DOMU ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-W-DOMU.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN W DOMU ᴴᴰ
+#EXTINF:-1 tvg-id="TVNWDomu.pl" tvg-name="PL| TVN W DOMU ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-W-DOMU.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN W DOMU ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433900
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN W DOMU ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-W-DOMU.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN W DOMU ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNWDomu.pl" tvg-name="PL| TVN W DOMU ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-W-DOMU.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN W DOMU ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433901
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN MILIONERZY ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/MILIONERZY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MILIONERZY ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1496498
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN MILIONERZY ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/logos/MILIONERZY.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN MILIONERZY ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1496497
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN ŻYCIE JAK W BAJCE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN ŻYCIE JAK W BAJCE ᴴᴰ
+#EXTINF:-1 tvg-id="TVNŻycieJakBajce.pl" tvg-name="PL| TVN ŻYCIE JAK W BAJCE ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN ŻYCIE JAK W BAJCE ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433902
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ
+#EXTINF:-1 tvg-id="TVNŻycieJakBajce.pl" tvg-name="PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433903
 #EXTINF:-1 tvg-id="" tvg-name="##### PL DLA DZIECI #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| DLA DZIECI",##### PL DLA DZIECI #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288920
@@ -883,7 +883,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880390
 http://line.protv.cc:80/9338741459/79615db6da37/880250
 #EXTINF:-1 tvg-id="Minimini.pl" tvg-name="PL| MINIMINI FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MINIMINI.png" group-title="PL| DLA DZIECI",PL| MINIMINI FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880414
-#EXTINF:-1 tvg-id="MiniMini.pl" tvg-name="PL| MINIMINI HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MINIMINI.png" group-title="PL| DLA DZIECI",PL| MINIMINI HD
+#EXTINF:-1 tvg-id="Minimini.pl" tvg-name="PL| MINIMINI HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MINIMINI.png" group-title="PL| DLA DZIECI",PL| MINIMINI HD
 http://line.protv.cc:80/9338741459/79615db6da37/880274
 #EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="PL| CARTOON NETWORK FHD" tvg-logo="http://103.176.90.118/picons/logos/CARTOON-NETWORK-POLSKA.png" group-title="PL| DLA DZIECI",PL| CARTOON NETWORK FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880432
@@ -913,9 +913,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/880310
 http://line.protv.cc:80/9338741459/79615db6da37/880436
 #EXTINF:-1 tvg-id="BBCEarth.pl" tvg-name="PL| BBC EARTH HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/BBC-EARTH--PL.png" group-title="PL| DOKUMENTALNE",PL| BBC EARTH HD
 http://line.protv.cc:80/9338741459/79615db6da37/880296
-#EXTINF:-1 tvg-id="BBCFirst.pl" tvg-name="PL| BBC FIRST HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/BBC-FIRST--PL.png" group-title="PL| DOKUMENTALNE",PL| BBC FIRST HD
+#EXTINF:-1 tvg-id="BBC.pl" tvg-name="PL| BBC FIRST HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/BBC-FIRST--PL.png" group-title="PL| DOKUMENTALNE",PL| BBC FIRST HD
 http://line.protv.cc:80/9338741459/79615db6da37/880309
-#EXTINF:-1 tvg-id="BBCFirst.pl" tvg-name="PL| BBC FIRST FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/BBC-FIRST--PL.png" group-title="PL| DOKUMENTALNE",PL| BBC FIRST FHD
+#EXTINF:-1 tvg-id="BBC.pl" tvg-name="PL| BBC FIRST FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/BBC-FIRST--PL.png" group-title="PL| DOKUMENTALNE",PL| BBC FIRST FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880449
 #EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="PL| BBC LIFESTYLE FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/BBC-LIFESTYLE--PL.png" group-title="PL| DOKUMENTALNE",PL| BBC LIFESTYLE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880435
@@ -925,17 +925,17 @@ http://line.protv.cc:80/9338741459/79615db6da37/880295
 http://line.protv.cc:80/9338741459/79615db6da37/880430
 #EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="PL| CBS REALITY HD" tvg-logo="http://103.176.90.118/picons/logos/CBS-REALITY-POLSKA.png" group-title="PL| DOKUMENTALNE",PL| CBS REALITY HD
 http://line.protv.cc:80/9338741459/79615db6da37/880290
-#EXTINF:-1 tvg-id="C+Dokument.pl" tvg-name="PL| CANAL+ DOKUMENT FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplusdokumenthd.png" group-title="PL| DOKUMENTALNE",PL| CANAL+ DOKUMENT FHD
+#EXTINF:-1 tvg-id="CanalPlusDokument.pl" tvg-name="PL| CANAL+ DOKUMENT FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplusdokumenthd.png" group-title="PL| DOKUMENTALNE",PL| CANAL+ DOKUMENT FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880442
-#EXTINF:-1 tvg-id="C+Dokument.pl" tvg-name="PL| CANAL+ DOKUMENT HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusdokumenthd.png" group-title="PL| DOKUMENTALNE",PL| CANAL+ DOKUMENT HD
+#EXTINF:-1 tvg-id="CanalPlusDokument.pl" tvg-name="PL| CANAL+ DOKUMENT HD" tvg-logo="http://103.176.90.118/piconsnew/canalplusdokumenthd.png" group-title="PL| DOKUMENTALNE",PL| CANAL+ DOKUMENT HD
 http://line.protv.cc:80/9338741459/79615db6da37/880302
-#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="PL| DISCOVERY FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL| DISCOVERY FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880428
 #EXTINF:-1 tvg-id="Discovery.pl" tvg-name="PL| DISCOVERY HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY HD
 http://line.protv.cc:80/9338741459/79615db6da37/880288
-#EXTINF:-1 tvg-id="Science.pl" tvg-name="PL| DISCOVERY SCIENCE FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY-SCIENCE--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="PL| DISCOVERY SCIENCE FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY-SCIENCE--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY SCIENCE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880426
-#EXTINF:-1 tvg-id="Science.pl" tvg-name="PL| DISCOVERY SCIENCE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY-SCIENCE--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="PL| DISCOVERY SCIENCE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY-SCIENCE--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY SCIENCE HD
 http://line.protv.cc:80/9338741459/79615db6da37/880286
 #EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="PL| DISCOVERY LIFE FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCOVERY-LIFE--PL.png" group-title="PL| DOKUMENTALNE",PL| DISCOVERY LIFE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880427
@@ -951,17 +951,17 @@ http://line.protv.cc:80/9338741459/79615db6da37/880438
 http://line.protv.cc:80/9338741459/79615db6da37/880298
 #EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="PL| NAT GEO WILD FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO-WILD--PL.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO WILD FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880439
-#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="PL| NAT GEO WILD HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO-WILD--PL.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="PL| NAT GEO WILD HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO-WILD--PL.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO WILD HD
 http://line.protv.cc:80/9338741459/79615db6da37/880299
 #EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="PL| NAT GEO PEOPLE FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/Nat-Geo-People--PL.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO PEOPLE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880440
 #EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="PL| NAT GEO PEOPLE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/Nat-Geo-People--PL.png" group-title="PL| DOKUMENTALNE",PL| NAT GEO PEOPLE HD
 http://line.protv.cc:80/9338741459/79615db6da37/880300
-#EXTINF:-1 tvg-id="ID.pl" tvg-name="PL| ID FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ID.png" group-title="PL| DOKUMENTALNE",PL| ID FHD
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="PL| ID FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ID.png" group-title="PL| DOKUMENTALNE",PL| ID FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880416
-#EXTINF:-1 tvg-id="ID.pl" tvg-name="PL| ID HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ID.png" group-title="PL| DOKUMENTALNE",PL| ID HD
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="PL| ID HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ID.png" group-title="PL| DOKUMENTALNE",PL| ID HD
 http://line.protv.cc:80/9338741459/79615db6da37/880276
-#EXTINF:-1 tvg-id="CIPolsat.pl" tvg-name="PL| CRIME AND INVESTIGATION FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/CRIME-AND-INVESTIGATION-POLSAT.png" group-title="PL| DOKUMENTALNE",PL| CRIME AND INVESTIGATION FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL| CRIME AND INVESTIGATION FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/CRIME-AND-INVESTIGATION-POLSAT.png" group-title="PL| DOKUMENTALNE",PL| CRIME AND INVESTIGATION FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880429
 #EXTINF:-1 tvg-id="" tvg-name="PL| CRIME AND INVESTIGATION HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/CRIME-AND-INVESTIGATION-POLSAT.png" group-title="PL| DOKUMENTALNE",PL| CRIME AND INVESTIGATION HD
 http://line.protv.cc:80/9338741459/79615db6da37/880289
@@ -975,7 +975,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880384
 http://line.protv.cc:80/9338741459/79615db6da37/880244
 #EXTINF:-1 tvg-id="History2.pl" tvg-name="PL| H2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/H-2--PL.png" group-title="PL| DOKUMENTALNE",PL| H2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880418
-#EXTINF:-1 tvg-id="" tvg-name="PL| H2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/H-2--PL.png" group-title="PL| DOKUMENTALNE",PL| H2 HD
+#EXTINF:-1 tvg-id="History2.pl" tvg-name="PL| H2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/H-2--PL.png" group-title="PL| DOKUMENTALNE",PL| H2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880278
 #EXTINF:-1 tvg-id="Planete.pl" tvg-name="PL| PLANETE+ FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PLANETE+.png" group-title="PL| DOKUMENTALNE",PL| PLANETE+ FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880405
@@ -997,9 +997,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/880258
 http://line.protv.cc:80/9338741459/79615db6da37/880396
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="PL| POLSAT VIASAT NATURE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-NATURE.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT NATURE HD
 http://line.protv.cc:80/9338741459/79615db6da37/880256
-#EXTINF:-1 tvg-id="FokusTv.pl" tvg-name="PL| FOKUS TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOKUS-TV.png" group-title="PL| DOKUMENTALNE",PL| FOKUS TV FHD
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="PL| FOKUS TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOKUS-TV.png" group-title="PL| DOKUMENTALNE",PL| FOKUS TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880482
-#EXTINF:-1 tvg-id="FokusTv.pl" tvg-name="PL| FOKUS TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOKUS-TV.png" group-title="PL| DOKUMENTALNE",PL| FOKUS TV HD
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="PL| FOKUS TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOKUS-TV.png" group-title="PL| DOKUMENTALNE",PL| FOKUS TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880342
 #EXTINF:-1 tvg-id="StudioMedTv.pl" tvg-name="PL| STUDIOMED TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/STUDIOMED-TV.png" group-title="PL| DOKUMENTALNE",PL| STUDIOMED TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880393
@@ -1011,7 +1011,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880388
 http://line.protv.cc:80/9338741459/79615db6da37/880248
 #EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL| TVP HISTORIA" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP--HISTORIA.png" group-title="PL| DOKUMENTALNE",PL| TVP HISTORIA
 http://line.protv.cc:80/9338741459/79615db6da37/880238
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL| TVP HISTORIA 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-HISTORIA.png" group-title="PL| DOKUMENTALNE",PL| TVP HISTORIA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| TVP HISTORIA 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-HISTORIA.png" group-title="PL| DOKUMENTALNE",PL| TVP HISTORIA 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121743
 #EXTINF:-1 tvg-id="" tvg-name="##### PL SPORTOWE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| SPORTOWE",##### PL SPORTOWE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288918
@@ -1051,37 +1051,37 @@ http://line.protv.cc:80/9338741459/79615db6da37/880360
 http://line.protv.cc:80/9338741459/79615db6da37/880499
 #EXTINF:-1 tvg-id="C+Now.pl" tvg-name="PL| CANAL+ NOW HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-NOW.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW HD
 http://line.protv.cc:80/9338741459/79615db6da37/880359
-#EXTINF:-1 tvg-id="C+Sport.pl" tvg-name="PL| CANAL+ SPORT FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL| CANAL+ SPORT FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880461
-#EXTINF:-1 tvg-id="C+Sport.pl" tvg-name="PL| CANAL+ SPORT HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT HD
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL| CANAL+ SPORT HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT HD
 http://line.protv.cc:80/9338741459/79615db6da37/880321
-#EXTINF:-1 tvg-id="C+Sport2.pl" tvg-name="PL| CANAL+ SPORT 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="PL| CANAL+ SPORT 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880460
-#EXTINF:-1 tvg-id="C+Sport2.pl" tvg-name="PL| CANAL+ SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="PL| CANAL+ SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880320
-#EXTINF:-1 tvg-id="C+Sport3.pl" tvg-name="PL| CANAL+ SPORT 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="PL| CANAL+ SPORT 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880459
-#EXTINF:-1 tvg-id="C+Sport3.pl" tvg-name="PL| CANAL+ SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="PL| CANAL+ SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880319
-#EXTINF:-1 tvg-id="C+Sport4.pl" tvg-name="PL| CANAL+ SPORT 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="PL| CANAL+ SPORT 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880458
-#EXTINF:-1 tvg-id="C+Sport4.pl" tvg-name="PL| CANAL+ SPORT 4 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="PL| CANAL+ SPORT 4 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880318
-#EXTINF:-1 tvg-id="C+Sport5.pl" tvg-name="PL| CANAL+ SPORT 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="PL| CANAL+ SPORT 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880406
 #EXTINF:-1 tvg-id="C+Sport5.pl" tvg-name="PL| CANAL+ SPORT 5 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880266
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL| POLSAT SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880471
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL| POLSAT SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880331
 #EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL| POLSAT SPORT 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880470
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL| POLSAT SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880330
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="PL| POLSAT SPORT 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880468
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="PL| POLSAT SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880328
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL| POLSAT SPORT PREMIUM 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880467
@@ -1091,21 +1091,21 @@ http://line.protv.cc:80/9338741459/79615db6da37/880327
 http://line.protv.cc:80/9338741459/79615db6da37/880466
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="PL| POLSAT SPORT PREMIUM 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880326
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv3.pl" tvg-name="PL| POLSAT SPORT PREMIUM 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 FHD
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="PL| POLSAT SPORT PREMIUM 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880465
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv3.pl" tvg-name="PL| POLSAT SPORT PREMIUM 3 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 HD
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="PL| POLSAT SPORT PREMIUM 3 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880325
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv4.pl" tvg-name="PL| POLSAT SPORT PREMIUM 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 FHD
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="PL| POLSAT SPORT PREMIUM 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880464
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv4.pl" tvg-name="PL| POLSAT SPORT PREMIUM 4 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 HD
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="PL| POLSAT SPORT PREMIUM 4 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880324
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv5.pl" tvg-name="PL| POLSAT SPORT PREMIUM 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 FHD
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="PL| POLSAT SPORT PREMIUM 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880463
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv5.pl" tvg-name="PL| POLSAT SPORT PREMIUM 5 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 HD
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="PL| POLSAT SPORT PREMIUM 5 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880323
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv6.pl" tvg-name="PL| POLSAT SPORT PREMIUM 6 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 FHD
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="PL| POLSAT SPORT PREMIUM 6 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880462
-#EXTINF:-1 tvg-id="PolsatSportPremiumPpv6.pl" tvg-name="PL| POLSAT SPORT PREMIUM 6 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 HD
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="PL| POLSAT SPORT PREMIUM 6 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880322
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="PL| POLSAT SPORT FIGHT FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-FIGHT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT FIGHT FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880469
@@ -1129,7 +1129,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880446
 http://line.protv.cc:80/9338741459/79615db6da37/880306
 #EXTINF:-1 tvg-id="" tvg-name="PL| PRIME FIGHT HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PRIME-FIGHT.png" group-title="PL| SPORTOWE",PL| PRIME FIGHT HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121749
-#EXTINF:-1 tvg-id="ElevenSports1_4K.pl" tvg-name="PL| EXTREME SPORTS FHD" tvg-logo="http://103.176.90.118/picons/logos/EXTREME-SPORTS-TV.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS FHD
+#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="PL| EXTREME SPORTS FHD" tvg-logo="http://103.176.90.118/picons/logos/EXTREME-SPORTS-TV.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880448
 #EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="PL| EXTREME SPORTS HD" tvg-logo="http://103.176.90.118/picons/logos/EXTREME-SPORTS-TV.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS HD
 http://line.protv.cc:80/9338741459/79615db6da37/880308
@@ -1137,7 +1137,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880308
 http://line.protv.cc:80/9338741459/79615db6da37/880419
 #EXTINF:-1 tvg-id="GolfChannel.pl" tvg-name="PL| GOLF CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/GOLF-CHANNEL-NP.png" group-title="PL| SPORTOWE",PL| GOLF CHANNEL HD
 http://line.protv.cc:80/9338741459/79615db6da37/880279
-#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="PL| MOTOWIZJA FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA FHD
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="PL| MOTOWIZJA FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880413
 #EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="PL| MOTOWIZJA HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880273
@@ -1165,23 +1165,23 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL CAROLINA - VEGAS | Sat 18 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL CAROLINA - VEGAS | Sat 18 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL FLORIDA - ANAHEIM | Sun 19 Jan 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL FLORIDA - ANAHEIM | Sun 19 Jan 00:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL BUFFALO - PITTSBURGH | Sat 18 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL BUFFALO - PITTSBURGH | Sat 18 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL COLORADO - DALLAS | Sat 18 Jan 22:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL COLORADO - DALLAS | Sat 18 Jan 22:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL OTTAWA - BOSTON | Sat 18 Jan 21:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL OTTAWA - BOSTON | Sat 18 Jan 21:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL WINNIPEG - CALGARY | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL WINNIPEG - CALGARY | Sun 19 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NHL WASHINGTON - PITTSBURGH | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NHL WASHINGTON - PITTSBURGH | Sun 19 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NHL NY RANGERS - COLUMBUS | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NHL NY RANGERS - COLUMBUS | Sun 19 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592514
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NHL TAMPA BAY - DETROIT | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NHL TAMPA BAY - DETROIT | Sun 19 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592515
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 8 - NHL MONTREAL - TORONTO | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 8 - NHL MONTREAL - TORONTO | Sun 19 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592516
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 9 - NHL NY ISLANDERS - SAN JOSE | Sun 19 Jan 01:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 9 - NHL NY ISLANDERS - SAN JOSE | Sun 19 Jan 01:35 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592517
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592518
@@ -1267,7 +1267,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1592557
 http://line.protv.cc:80/9338741459/79615db6da37/1592558
 #EXTINF:-1 tvg-id="" tvg-name="##### PL INFORMACYJNE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| INFORMACYJNE",##### PL INFORMACYJNE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288917
-#EXTINF:-1 tvg-id="TVN24BiS.pl" tvg-name="PL| TVN24 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN24.png" group-title="PL| INFORMACYJNE",PL| TVN24 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL| TVN24 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN24.png" group-title="PL| INFORMACYJNE",PL| TVN24 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880512
 #EXTINF:-1 tvg-id="TVN24.pl" tvg-name="PL| TVN24 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN24.png" group-title="PL| INFORMACYJNE",PL| TVN24 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880372
@@ -1293,7 +1293,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880301
 http://line.protv.cc:80/9338741459/79615db6da37/880227
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="PL| POLSAT NEWS POLITYKA" tvg-logo="http://103.176.90.118/picons/logos/WYDARZENIA-24.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA
 http://line.protv.cc:80/9338741459/79615db6da37/1137583
-#EXTINF:-1 tvg-id="News24.al" tvg-name="PL| NEWS 24 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NEWS-24.png" group-title="PL| INFORMACYJNE",PL| NEWS 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| NEWS 24 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NEWS-24.png" group-title="PL| INFORMACYJNE",PL| NEWS 24 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121738
 #EXTINF:-1 tvg-id="Biznes24.pl" tvg-name="PL| BIZNES24 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/BIZNES24.png" group-title="PL| INFORMACYJNE",PL| BIZNES24 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880444
@@ -1303,7 +1303,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880304
 http://line.protv.cc:80/9338741459/79615db6da37/880191
 #EXTINF:-1 tvg-id="TvRepublika.pl" tvg-name="PL| TV REPUBLIKA" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVR.png" group-title="PL| INFORMACYJNE",PL| TV REPUBLIKA
 http://line.protv.cc:80/9338741459/79615db6da37/880203
-#EXTINF:-1 tvg-id="Superstacja.pl" tvg-name="PL| POLSAT NEWS POLITYKA FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/POLSAT-NEWS-POLITYKA.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT NEWS POLITYKA FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/POLSAT-NEWS-POLITYKA.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880391
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="PL| POLSAT NEWS POLITYKA HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/POLSAT-NEWS-POLITYKA.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880251
@@ -1341,11 +1341,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/880260
 http://line.protv.cc:80/9338741459/79615db6da37/880409
 #EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="PL| MTV LIVE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MTV-LIVE.png" group-title="PL| MUZYCZNE",PL| MTV LIVE HD
 http://line.protv.cc:80/9338741459/79615db6da37/880269
-#EXTINF:-1 tvg-id="MTV.pl" tvg-name="PL| MTV POLSKA FHD" tvg-logo="http://103.176.90.118/picons/logos/mtvpolska.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA FHD
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="PL| MTV POLSKA FHD" tvg-logo="http://103.176.90.118/picons/logos/mtvpolska.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880408
 #EXTINF:-1 tvg-id="MTV.pl" tvg-name="PL| MTV POLSKA HD" tvg-logo="http://103.176.90.118/picons/logos/MTV-Poland.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880268
-#EXTINF:-1 tvg-id="MTV00s.pl" tvg-name="PL| MTV 00S HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MTV-80s-PL.png" group-title="PL| MUZYCZNE",PL| MTV 00S HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| MTV 00S HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MTV-80s-PL.png" group-title="PL| MUZYCZNE",PL| MTV 00S HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121761
 #EXTINF:-1 tvg-id="MTV00s.pl" tvg-name="PL| MTV 00S" tvg-logo="http://103.176.90.118/picons/logos/MTV-HD.png" group-title="PL| MUZYCZNE",PL| MTV 00S
 http://line.protv.cc:80/9338741459/79615db6da37/880200
@@ -1377,7 +1377,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/936815
 http://line.protv.cc:80/9338741459/79615db6da37/936816
 #EXTINF:-1 tvg-id="TVP3Gdańsk.pl" tvg-name="PL| TVP3 GDANSK" tvg-logo="http://103.176.90.118/picons/logos/TVP3-GDANSK.jpeg" group-title="PL| REGIONALNE",PL| TVP3 GDANSK
 http://line.protv.cc:80/9338741459/79615db6da37/936817
-#EXTINF:-1 tvg-id="TVP3GorzówWielkopolski.pl" tvg-name="PL| TVP3 GORZOW" tvg-logo="http://103.176.90.118/picons/logos/TVP3-GORZOW.png" group-title="PL| REGIONALNE",PL| TVP3 GORZOW
+#EXTINF:-1 tvg-id="" tvg-name="PL| TVP3 GORZOW" tvg-logo="http://103.176.90.118/picons/logos/TVP3-GORZOW.png" group-title="PL| REGIONALNE",PL| TVP3 GORZOW
 http://line.protv.cc:80/9338741459/79615db6da37/936818
 #EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-name="PL| TVP3 KATOWICE" tvg-logo="http://103.176.90.118/picons/logos/TVP3-KATOWICE.png" group-title="PL| REGIONALNE",PL| TVP3 KATOWICE
 http://line.protv.cc:80/9338741459/79615db6da37/936819
@@ -2201,21 +2201,21 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697720
 http://line.protv.cc:80/9338741459/79615db6da37/1697719
 #EXTINF:-1 tvg-id="" tvg-name="####### MAX PPV #######" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",####### MAX PPV #######
 http://line.protv.cc:80/9338741459/79615db6da37/1640751
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - THE AMERICAN EXPRESS | 2. DZIEŃ | Fri 17 Jan 21:59 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - THE AMERICAN EXPRESS | 2. DZIEŃ | Fri 17 Jan 21:59 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - THE AMERICAN EXPRESS | 3. DZIEŃ | Sat 18 Jan 21:59 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - THE AMERICAN EXPRESS | 3. DZIEŃ | Sat 18 Jan 21:59 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640750
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - TOUR DOWN UNDER KOBIET | 2. ETAP | Sat 18 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - TOUR DOWN UNDER KOBIET | 2. ETAP | Sat 18 Jan 01:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - BOLELLI/VAVASSORI - MARTINEZ/MUNAR | Sun 19 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - BOLELLI/VAVASSORI - MARTINEZ/MUNAR | Sun 19 Jan 01:30 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640749
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - SCHOOLKATE/WALTON - KRAJICEK/RAM | Sat 18 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - SCHOOLKATE/WALTON - KRAJICEK/RAM | Sat 18 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - LAKE PLACID | SKOKI AKROBATYCZNE | Sun 19 Jan 00:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - LAKE PLACID | SKOKI AKROBATYCZNE | Sun 19 Jan 00:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640748
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - NYS/ROGER-VASSELIN - DODIG/MANSOURI | Sat 18 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NYS/ROGER-VASSELIN - DODIG/MANSOURI | Sat 18 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - GRIEKSPOOR/VAN DE ZANDSCHULP - BORGES/CABRAL | Sun 19 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - GRIEKSPOOR/VAN DE ZANDSCHULP - BORGES/CABRAL | Sun 19 Jan 01:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640747
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - ALEX MICHELSEN - KAREN CHACZANOW | Sat 18 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - ALEX MICHELSEN - KAREN CHACZANOW | Sat 18 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - HUALALAI CHAMPIONSHIP | 3. DZIEŃ | Sun 19 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - HUALALAI CHAMPIONSHIP | 3. DZIEŃ | Sun 19 Jan 01:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640746
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 6 - MLADENOVIC/ZHANG - STEARNS/STEFANI | Sat 18 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - MLADENOVIC/ZHANG - STEARNS/STEFANI | Sat 18 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 6 - KOSTJUK/RUSE - GUO/PANOVA | Sun 19 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - KOSTJUK/RUSE - GUO/PANOVA | Sun 19 Jan 01:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640745
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 7 - EMMA NAVARRO - ONS JABEUR | Sat 18 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - EMMA NAVARRO - ONS JABEUR | Sat 18 Jan 01:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 7 - ARYNA SABALENKA - MIRRA ANDRIEJEWA | Sun 19 Jan 01:25 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - ARYNA SABALENKA - MIRRA ANDRIEJEWA | Sun 19 Jan 01:25 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640744
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 8 - IGA ŚWIĄTEK - EMMA RADUCANU  | Sat 18 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - IGA ŚWIĄTEK - EMMA RADUCANU  | Sat 18 Jan 01:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 8 - TOUR DOWN UNDER KOBIET | 3. ETAP | Sun 19 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - TOUR DOWN UNDER KOBIET | 3. ETAP | Sun 19 Jan 01:30 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640743
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640742
