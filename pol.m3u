@@ -559,7 +559,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880341
 http://line.protv.cc:80/9338741459/79615db6da37/880385
 #EXTINF:-1 tvg-id="HGTV.pl" tvg-name="PL| HGTV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HGTV--PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| HGTV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880245
-#EXTINF:-1 tvg-id="HomeTv.pl" tvg-name="PL| HOME TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HOME-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| HOME TV
+#EXTINF:-1 tvg-id="HomeTV.pl" tvg-name="PL| HOME TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HOME-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| HOME TV
 http://line.protv.cc:80/9338741459/79615db6da37/880214
 #EXTINF:-1 tvg-id="" tvg-name="PL| DOMO+ FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DOMO-PLUS.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| DOMO+ FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880424
@@ -577,9 +577,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/880212
 http://line.protv.cc:80/9338741459/79615db6da37/880201
 #EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="PL| NOWA TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NOWA-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| NOWA TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880407
-#EXTINF:-1 tvg-id="NowaTv.pl" tvg-name="PL| NOWA TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NOWA-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| NOWA TV HD
+#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="PL| NOWA TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NOWA-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| NOWA TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880267
-#EXTINF:-1 tvg-id="ZoomTv.pl" tvg-name="PL| ZOOM TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ZOOM-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| ZOOM TV
+#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="PL| ZOOM TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ZOOM-TV.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| ZOOM TV
 http://line.protv.cc:80/9338741459/79615db6da37/880190
 #EXTINF:-1 tvg-id="EEntertainment.pl" tvg-name="PL| E! ENTERTAINMENT FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/E-ENTER--PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| E! ENTERTAINMENT FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880422
@@ -673,9 +673,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/880483
 http://line.protv.cc:80/9338741459/79615db6da37/880344
 #EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="PL| FILMBOX EXTRA FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-XTRA--PL.png" group-title="PL| FILMOWE",PL| FILMBOX EXTRA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880484
-#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="PL| FILMBOX ARTHOUSE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-ARTHOUSE.png" group-title="PL| FILMOWE",PL| FILMBOX ARTHOUSE
+#EXTINF:-1 tvg-id="FilmBoxArtHouse.pl" tvg-name="PL| FILMBOX ARTHOUSE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-ARTHOUSE.png" group-title="PL| FILMOWE",PL| FILMBOX ARTHOUSE
 http://line.protv.cc:80/9338741459/79615db6da37/880232
-#EXTINF:-1 tvg-id="FilmboxAction.pl" tvg-name="PL| FILMBOX ACTION" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-ACTION.png" group-title="PL| FILMOWE",PL| FILMBOX ACTION
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="PL| FILMBOX ACTION" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-ACTION.png" group-title="PL| FILMOWE",PL| FILMBOX ACTION
 http://line.protv.cc:80/9338741459/79615db6da37/880233
 #EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="PL| FILMBOX FAMILY" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-FAMILY.png" group-title="PL| FILMOWE",PL| FILMBOX FAMILY
 http://line.protv.cc:80/9338741459/79615db6da37/880231
@@ -685,7 +685,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880487
 http://line.protv.cc:80/9338741459/79615db6da37/880347
 #EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="PL| POLSAT COMEDY CENTRAL EXTRA FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-COMEDY-CENTRAL-EXTRA.png" group-title="PL| FILMOWE",PL| POLSAT COMEDY CENTRAL EXTRA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880403
-#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="PL| POLSAT COMEDY CENTRAL EXTRA HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-COMEDY-CENTRAL-EXTRA.png" group-title="PL| FILMOWE",PL| POLSAT COMEDY CENTRAL EXTRA HD
+#EXTINF:-1 tvg-id="ComedyCentralExtra.pl" tvg-name="PL| POLSAT COMEDY CENTRAL EXTRA HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-COMEDY-CENTRAL-EXTRA.png" group-title="PL| FILMOWE",PL| POLSAT COMEDY CENTRAL EXTRA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880263
 #EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL| COMEDY CENTRAL POLAND FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/COMEDY-CENTRAL--PL.png" group-title="PL| FILMOWE",PL| COMEDY CENTRAL POLAND FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880486
@@ -729,13 +729,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/880281
 http://line.protv.cc:80/9338741459/79615db6da37/880229
 #EXTINF:-1 tvg-id="SundanceTV.pl" tvg-name="PL| SUNDANCE TV FHD" tvg-logo="http://103.176.90.118/picons/logos/Sundance-TV-Poland.png" group-title="PL| FILMOWE",PL| SUNDANCE TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880392
-#EXTINF:-1 tvg-id="SundanceTv.pl" tvg-name="PL| SUNDANCE TV HD" tvg-logo="http://103.176.90.118/picons/logos/Sundance-TV-Poland.png" group-title="PL| FILMOWE",PL| SUNDANCE TV HD
+#EXTINF:-1 tvg-id="SundanceTV.pl" tvg-name="PL| SUNDANCE TV HD" tvg-logo="http://103.176.90.118/picons/logos/Sundance-TV-Poland.png" group-title="PL| FILMOWE",PL| SUNDANCE TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880252
 #EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="PL| ROMANCE TV FHD" tvg-logo="http://103.176.90.118/picons/logos/Romance-TV-Poland.png" group-title="PL| FILMOWE",PL| ROMANCE TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880394
-#EXTINF:-1 tvg-id="RomanceTv.pl" tvg-name="PL| ROMANCE TV HD" tvg-logo="http://103.176.90.118/picons/logos/Romance-TV-Poland.png" group-title="PL| FILMOWE",PL| ROMANCE TV HD
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="PL| ROMANCE TV HD" tvg-logo="http://103.176.90.118/picons/logos/Romance-TV-Poland.png" group-title="PL| FILMOWE",PL| ROMANCE TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880254
-#EXTINF:-1 tvg-id="NovelaTv.pl" tvg-name="PL| NOVELA TV" tvg-logo="http://103.176.90.118/picons/logos/NOVELAS-TV.png" group-title="PL| FILMOWE",PL| NOVELA TV
+#EXTINF:-1 tvg-id="NovelaTV.pl" tvg-name="PL| NOVELA TV" tvg-logo="http://103.176.90.118/picons/logos/NOVELAS-TV.png" group-title="PL| FILMOWE",PL| NOVELA TV
 http://line.protv.cc:80/9338741459/79615db6da37/880209
 #EXTINF:-1 tvg-id="NovelasPlus.pl" tvg-name="PL| NOVELAS+ FHD" tvg-logo="http://103.176.90.118/picons/logos/NOVELAS+.png" group-title="PL| FILMOWE",PL| NOVELAS+ FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880410
@@ -743,7 +743,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880410
 http://line.protv.cc:80/9338741459/79615db6da37/880270
 #EXTINF:-1 tvg-id="RedCarpet.pl" tvg-name="PL| RED CARPET TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/RED-CARPET.png" group-title="PL| FILMOWE",PL| RED CARPET TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880395
-#EXTINF:-1 tvg-id="RedCarpetTv.pl" tvg-name="PL| RED CARPET TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/RED-CARPET.png" group-title="PL| FILMOWE",PL| RED CARPET TV HD
+#EXTINF:-1 tvg-id="RedCarpet.pl" tvg-name="PL| RED CARPET TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/RED-CARPET.png" group-title="PL| FILMOWE",PL| RED CARPET TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880255
 #EXTINF:-1 tvg-id="" tvg-name="PL| VOD 205" tvg-logo="http://103.176.90.118/picons/logos/vod205.png" group-title="PL| FILMOWE",PL| VOD 205
 http://line.protv.cc:80/9338741459/79615db6da37/880197
@@ -843,11 +843,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/1121740
 http://line.protv.cc:80/9338741459/79615db6da37/1121750
 #EXTINF:-1 tvg-id="" tvg-name="PL| DUCK TV PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DUCK-TV-PLUS-PL.png" group-title="PL| DLA DZIECI",PL| DUCK TV PLUS HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121751
-#EXTINF:-1 tvg-id="BBCCBeebies.pl" tvg-name="PL| BBC CBEEBIES" tvg-logo="http://103.176.90.118/picons/logos/POLAND/CBEEBIS--PL.png" group-title="PL| DLA DZIECI",PL| BBC CBEEBIES
+#EXTINF:-1 tvg-id="BBCCbeebies.pl" tvg-name="PL| BBC CBEEBIES" tvg-logo="http://103.176.90.118/picons/logos/POLAND/CBEEBIS--PL.png" group-title="PL| DLA DZIECI",PL| BBC CBEEBIES
 http://line.protv.cc:80/9338741459/79615db6da37/880226
 #EXTINF:-1 tvg-id="TopKids.pl" tvg-name="PL| TOP KIDS" tvg-logo="http://103.176.90.118/picons/logos/topkids.png" group-title="PL| DLA DZIECI",PL| TOP KIDS
 http://line.protv.cc:80/9338741459/79615db6da37/897016
-#EXTINF:-1 tvg-id="BabyTv.pl" tvg-name="PL| BABY TV" tvg-logo="http://103.176.90.118/picons/logos/BABY-TV-HD.png" group-title="PL| DLA DZIECI",PL| BABY TV
+#EXTINF:-1 tvg-id="BabyTV.pl" tvg-name="PL| BABY TV" tvg-logo="http://103.176.90.118/picons/logos/BABY-TV-HD.png" group-title="PL| DLA DZIECI",PL| BABY TV
 http://line.protv.cc:80/9338741459/79615db6da37/880225
 #EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="PL| 4FUN KIDS" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/4FUN-KIDS.png" group-title="PL| DLA DZIECI",PL| 4FUN KIDS
 http://line.protv.cc:80/9338741459/79615db6da37/1035704
@@ -865,11 +865,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/880210
 http://line.protv.cc:80/9338741459/79615db6da37/880412
 #EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="PL| NICKTOONS HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NICKTOONS--PL.png" group-title="PL| DLA DZIECI",PL| NICKTOONS HD
 http://line.protv.cc:80/9338741459/79615db6da37/880272
-#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="PL| POLSAT JIM JAM" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-JIM-JAM.png" group-title="PL| DLA DZIECI",PL| POLSAT JIM JAM
+#EXTINF:-1 tvg-id="JimJam.pl" tvg-name="PL| POLSAT JIM JAM" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-JIM-JAM.png" group-title="PL| DLA DZIECI",PL| POLSAT JIM JAM
 http://line.protv.cc:80/9338741459/79615db6da37/880206
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PL| DISNEY CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/DISNEY-CHANNEL-POLSKA.png" group-title="PL| DLA DZIECI",PL| DISNEY CHANNEL HD
 http://line.protv.cc:80/9338741459/79615db6da37/880285
-#EXTINF:-1 tvg-id="DisneyJr.pl" tvg-name="PL| DISNEY JUNIOR" tvg-logo="http://103.176.90.118/picons/logos/DISNEY-JUNIOR-POLSKA.png" group-title="PL| DLA DZIECI",PL| DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="PL| DISNEY JUNIOR" tvg-logo="http://103.176.90.118/picons/logos/DISNEY-JUNIOR-POLSKA.png" group-title="PL| DLA DZIECI",PL| DISNEY JUNIOR
 http://line.protv.cc:80/9338741459/79615db6da37/880219
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="PL| DISNEY XD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISNEY-XD--PL.png" group-title="PL| DLA DZIECI",PL| DISNEY XD
 http://line.protv.cc:80/9338741459/79615db6da37/880218
@@ -987,15 +987,15 @@ http://line.protv.cc:80/9338741459/79615db6da37/880402
 http://line.protv.cc:80/9338741459/79615db6da37/880262
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="PL| POLSAT VIASAT HISTORY FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-HISTORY.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT HISTORY FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880397
-#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="PL| POLSAT VIASAT HISTORY HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-HISTORY.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT HISTORY HD
+#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="PL| POLSAT VIASAT HISTORY HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-HISTORY.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT HISTORY HD
 http://line.protv.cc:80/9338741459/79615db6da37/880257
 #EXTINF:-1 tvg-id="PolsatViasatExplorer.pl" tvg-name="PL| POLSAT VIASAT EXPLORE FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-EXPLORE.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT EXPLORE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880398
-#EXTINF:-1 tvg-id="PolsatViasatExplorer.pl" tvg-name="PL| POLSAT VIASAT EXPLORE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-EXPLORE.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT EXPLORE HD
+#EXTINF:-1 tvg-id="ViasatExplore.pl" tvg-name="PL| POLSAT VIASAT EXPLORE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-EXPLORE.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT EXPLORE HD
 http://line.protv.cc:80/9338741459/79615db6da37/880258
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="PL| POLSAT VIASAT NATURE FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-NATURE.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT NATURE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880396
-#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="PL| POLSAT VIASAT NATURE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-NATURE.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT NATURE HD
+#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="PL| POLSAT VIASAT NATURE HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-VIASAT-NATURE.png" group-title="PL| DOKUMENTALNE",PL| POLSAT VIASAT NATURE HD
 http://line.protv.cc:80/9338741459/79615db6da37/880256
 #EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="PL| FOKUS TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FOKUS-TV.png" group-title="PL| DOKUMENTALNE",PL| FOKUS TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880482
@@ -1069,7 +1069,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880458
 http://line.protv.cc:80/9338741459/79615db6da37/880318
 #EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="PL| CANAL+ SPORT 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880406
-#EXTINF:-1 tvg-id="C+Sport5.pl" tvg-name="PL| CANAL+ SPORT 5 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 HD
+#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="PL| CANAL+ SPORT 5 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880266
 #EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880471
@@ -1139,7 +1139,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880419
 http://line.protv.cc:80/9338741459/79615db6da37/880279
 #EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="PL| MOTOWIZJA FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880413
-#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="PL| MOTOWIZJA HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA HD
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="PL| MOTOWIZJA HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880273
 #EXTINF:-1 tvg-id="" tvg-name="#### EURO SPORT OLYMPICS ####" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="PL| EUROSPORTS",#### EURO SPORT OLYMPICS ####
 http://line.protv.cc:80/9338741459/79615db6da37/1602004
@@ -1165,23 +1165,23 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL FLORIDA - ANAHEIM | Sun 19 Jan 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL FLORIDA - ANAHEIM | Sun 19 Jan 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL MONTREAL - NY RANGERS | Mon 20 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL MONTREAL - NY RANGERS | Mon 20 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL COLORADO - DALLAS | Sat 18 Jan 22:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL COLORADO - DALLAS | Sat 18 Jan 22:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL NHL ON THE FLY | Mon 20 Jan 00:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL NHL ON THE FLY | Mon 20 Jan 00:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL OTTAWA - BOSTON | Sat 18 Jan 21:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL OTTAWA - BOSTON | Sat 18 Jan 21:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL WINNIPEG - CALGARY | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL WINNIPEG - CALGARY | Sun 19 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NHL WASHINGTON - PITTSBURGH | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NHL WASHINGTON - PITTSBURGH | Sun 19 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NHL NY RANGERS - COLUMBUS | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NHL NY RANGERS - COLUMBUS | Sun 19 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592514
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NHL TAMPA BAY - DETROIT | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NHL TAMPA BAY - DETROIT | Sun 19 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592515
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 8 - NHL MONTREAL - TORONTO | Sun 19 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 8 - NHL MONTREAL - TORONTO | Sun 19 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592516
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 9 - NHL NY ISLANDERS - SAN JOSE | Sun 19 Jan 01:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 9 - NHL NY ISLANDERS - SAN JOSE | Sun 19 Jan 01:35 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592517
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592518
@@ -1301,7 +1301,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880444
 http://line.protv.cc:80/9338741459/79615db6da37/880304
 #EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL| WPOLSCE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/WPOLSCE.png" group-title="PL| INFORMACYJNE",PL| WPOLSCE
 http://line.protv.cc:80/9338741459/79615db6da37/880191
-#EXTINF:-1 tvg-id="TvRepublika.pl" tvg-name="PL| TV REPUBLIKA" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVR.png" group-title="PL| INFORMACYJNE",PL| TV REPUBLIKA
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL| TV REPUBLIKA" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVR.png" group-title="PL| INFORMACYJNE",PL| TV REPUBLIKA
 http://line.protv.cc:80/9338741459/79615db6da37/880203
 #EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT NEWS POLITYKA FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/POLSAT-NEWS-POLITYKA.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880391
@@ -1309,21 +1309,21 @@ http://line.protv.cc:80/9338741459/79615db6da37/880391
 http://line.protv.cc:80/9338741459/79615db6da37/880251
 #EXTINF:-1 tvg-id="" tvg-name="##### PL MUZYCZNE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| MUZYCZNE",##### PL MUZYCZNE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288916
-#EXTINF:-1 tvg-id="EskaTv.pl" tvg-name="PL| ESKA TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ESKA-TV.png" group-title="PL| MUZYCZNE",PL| ESKA TV
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="PL| ESKA TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ESKA-TV.png" group-title="PL| MUZYCZNE",PL| ESKA TV
 http://line.protv.cc:80/9338741459/79615db6da37/880216
-#EXTINF:-1 tvg-id="EskaTvExtra.pl" tvg-name="PL| ESKA TV EXTRA" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ESKA-TV-EXTRA.png" group-title="PL| MUZYCZNE",PL| ESKA TV EXTRA
+#EXTINF:-1 tvg-id="EskaTVextra.pl" tvg-name="PL| ESKA TV EXTRA" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ESKA-TV-EXTRA.png" group-title="PL| MUZYCZNE",PL| ESKA TV EXTRA
 http://line.protv.cc:80/9338741459/79615db6da37/880215
-#EXTINF:-1 tvg-id="EskaRockTv.pl" tvg-name="PL| ESKA ROCK TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ESKA-ROCK-TV.png" group-title="PL| MUZYCZNE",PL| ESKA ROCK TV
+#EXTINF:-1 tvg-id="EskaRock.pl" tvg-name="PL| ESKA ROCK TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ESKA-ROCK-TV.png" group-title="PL| MUZYCZNE",PL| ESKA ROCK TV
 http://line.protv.cc:80/9338741459/79615db6da37/880217
-#EXTINF:-1 tvg-id="4FunTv.pl" tvg-name="PL| 4FUN.TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/4FUN-TV.png" group-title="PL| MUZYCZNE",PL| 4FUN.TV
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="PL| 4FUN.TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/4FUN-TV.png" group-title="PL| MUZYCZNE",PL| 4FUN.TV
 http://line.protv.cc:80/9338741459/79615db6da37/880220
 #EXTINF:-1 tvg-id="4FunDance.pl" tvg-name="PL| 4FUN DANCE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/4FUN-DANCE.png" group-title="PL| MUZYCZNE",PL| 4FUN DANCE
 http://line.protv.cc:80/9338741459/79615db6da37/880222
 #EXTINF:-1 tvg-id="4FunGoldHits.pl" tvg-name="PL| 4FUN GOLD HITS" tvg-logo="http://103.176.90.118/picons/logos/POLAND/4FUN-GOLD-HITS.png" group-title="PL| MUZYCZNE",PL| 4FUN GOLD HITS
 http://line.protv.cc:80/9338741459/79615db6da37/880221
-#EXTINF:-1 tvg-id="StarsTv.pl" tvg-name="PL| STARS.TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/STARS-TV.png" group-title="PL| MUZYCZNE",PL| STARS.TV
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="PL| STARS.TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/STARS-TV.png" group-title="PL| MUZYCZNE",PL| STARS.TV
 http://line.protv.cc:80/9338741459/79615db6da37/880204
-#EXTINF:-1 tvg-id="NutaTv.pl" tvg-name="PL| NUTA TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NUTA-TV.png" group-title="PL| MUZYCZNE",PL| NUTA TV
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="PL| NUTA TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NUTA-TV.png" group-title="PL| MUZYCZNE",PL| NUTA TV
 http://line.protv.cc:80/9338741459/79615db6da37/880207
 #EXTINF:-1 tvg-id="MusicBox.pl" tvg-name="PL| MUSIC BOX POLSKA" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MUSIC-BOX-POLSKA.png" group-title="PL| MUZYCZNE",PL| MUSIC BOX POLSKA
 http://line.protv.cc:80/9338741459/79615db6da37/880199
@@ -1343,7 +1343,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880409
 http://line.protv.cc:80/9338741459/79615db6da37/880269
 #EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="PL| MTV POLSKA FHD" tvg-logo="http://103.176.90.118/picons/logos/mtvpolska.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880408
-#EXTINF:-1 tvg-id="MTV.pl" tvg-name="PL| MTV POLSKA HD" tvg-logo="http://103.176.90.118/picons/logos/MTV-Poland.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA HD
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="PL| MTV POLSKA HD" tvg-logo="http://103.176.90.118/picons/logos/MTV-Poland.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880268
 #EXTINF:-1 tvg-id="" tvg-name="PL| MTV 00S HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MTV-80s-PL.png" group-title="PL| MUZYCZNE",PL| MTV 00S HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121761
@@ -1351,9 +1351,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/1121761
 http://line.protv.cc:80/9338741459/79615db6da37/880200
 #EXTINF:-1 tvg-id="MTV80s.pl" tvg-name="PL| MTV 80S HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MTV-ROCKS.png" group-title="PL| MUZYCZNE",PL| MTV 80S HD
 http://line.protv.cc:80/9338741459/79615db6da37/880208
-#EXTINF:-1 tvg-id="VoxMusicTv.pl" tvg-name="PL| VOX MUSIC TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VOX-MUSIC.png" group-title="PL| MUZYCZNE",PL| VOX MUSIC TV
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="PL| VOX MUSIC TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VOX-MUSIC.png" group-title="PL| MUZYCZNE",PL| VOX MUSIC TV
 http://line.protv.cc:80/9338741459/79615db6da37/880198
-#EXTINF:-1 tvg-id="PowerTv.pl" tvg-name="PL| POWER TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POWER-TV.png" group-title="PL| MUZYCZNE",PL| POWER TV
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="PL| POWER TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POWER-TV.png" group-title="PL| MUZYCZNE",PL| POWER TV
 http://line.protv.cc:80/9338741459/79615db6da37/880205
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="PL| DISCO POLO MUSIC HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCO-POLO-MUSIC.png" group-title="PL| MUZYCZNE",PL| DISCO POLO MUSIC HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121755
@@ -1361,7 +1361,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1121755
 http://line.protv.cc:80/9338741459/79615db6da37/880223
 #EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="PL| POLO TV FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLO-TV.png" group-title="PL| MUZYCZNE",PL| POLO TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880383
-#EXTINF:-1 tvg-id="PoloTv.pl" tvg-name="PL| POLO TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLO-TV.png" group-title="PL| MUZYCZNE",PL| POLO TV HD
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="PL| POLO TV HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLO-TV.png" group-title="PL| MUZYCZNE",PL| POLO TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/880243
 #EXTINF:-1 tvg-id="" tvg-name="PL| JAZZ HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/JAZZ-PL.png" group-title="PL| MUZYCZNE",PL| JAZZ HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121754
@@ -2201,21 +2201,21 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697720
 http://line.protv.cc:80/9338741459/79615db6da37/1697719
 #EXTINF:-1 tvg-id="" tvg-name="####### MAX PPV #######" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",####### MAX PPV #######
 http://line.protv.cc:80/9338741459/79615db6da37/1640751
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - THE AMERICAN EXPRESS | 3. DZIEŃ | Sat 18 Jan 21:59 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - THE AMERICAN EXPRESS | 3. DZIEŃ | Sat 18 Jan 21:59 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - THE AMERICAN EXPRESS | 4. DZIEŃ | Sun 19 Jan 21:59 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - THE AMERICAN EXPRESS | 4. DZIEŃ | Sun 19 Jan 21:59 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640750
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - BOLELLI/VAVASSORI - MARTINEZ/MUNAR | Sun 19 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - BOLELLI/VAVASSORI - MARTINEZ/MUNAR | Sun 19 Jan 01:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - LAKE PLACID | AERIALS DRUŻYNOWE | Mon 20 Jan 00:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - LAKE PLACID | AERIALS DRUŻYNOWE | Mon 20 Jan 00:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640749
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - LAKE PLACID | SKOKI AKROBATYCZNE | Sun 19 Jan 00:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - LAKE PLACID | SKOKI AKROBATYCZNE | Sun 19 Jan 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - GONZALO ENRIQUE LAZARTE - ALI ATAMAN | Mon 20 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - GONZALO ENRIQUE LAZARTE - ALI ATAMAN | Mon 20 Jan 01:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640748
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - GRIEKSPOOR/VAN DE ZANDSCHULP - BORGES/CABRAL | Sun 19 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - GRIEKSPOOR/VAN DE ZANDSCHULP - BORGES/CABRAL | Sun 19 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - NYS/ROGER-VASSELIN - MACHÁC/ZHANG  | Mon 20 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NYS/ROGER-VASSELIN - MACHÁC/ZHANG  | Mon 20 Jan 01:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640747
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - HUALALAI CHAMPIONSHIP | 3. DZIEŃ | Sun 19 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - HUALALAI CHAMPIONSHIP | 3. DZIEŃ | Sun 19 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - SINIAKOVA/TOWNSEND - FERNANDEZ/KICHENOK | Mon 20 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - SINIAKOVA/TOWNSEND - FERNANDEZ/KICHENOK | Mon 20 Jan 01:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640746
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 6 - KOSTJUK/RUSE - GUO/PANOVA | Sun 19 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - KOSTJUK/RUSE - GUO/PANOVA | Sun 19 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 6 - LEANDRO PENA - GREGORY SLADE | Mon 20 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - LEANDRO PENA - GREGORY SLADE | Mon 20 Jan 01:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640745
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 7 - ARYNA SABALENKA - MIRRA ANDRIEJEWA | Sun 19 Jan 01:25 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - ARYNA SABALENKA - MIRRA ANDRIEJEWA | Sun 19 Jan 01:25 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 7 - HADDAD MAIA/SIEGEMUND - DABROWSKI/ROUTLIFFE | Mon 20 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - HADDAD MAIA/SIEGEMUND - DABROWSKI/ROUTLIFFE | Mon 20 Jan 01:30 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640744
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 8 - TOUR DOWN UNDER KOBIET | 3. ETAP | Sun 19 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - TOUR DOWN UNDER KOBIET | 3. ETAP | Sun 19 Jan 01:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 8 - WIERONIKA KUDIERMIETOWA - ELINA SWITOLINA | Mon 20 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - WIERONIKA KUDIERMIETOWA - ELINA SWITOLINA | Mon 20 Jan 01:30 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640743
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640742
