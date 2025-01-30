@@ -1165,15 +1165,15 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL TAMPA BAY - CHICAGO | Wed 29 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL TAMPA BAY - CHICAGO | Wed 29 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL NEW JERSEY - PHILADELPHIA | Thu 30 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL NEW JERSEY - PHILADELPHIA | Thu 30 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL MONTREAL - WINNIPEG | Wed 29 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL MONTREAL - WINNIPEG | Wed 29 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL FLORIDA - LOS ANGELES | Thu 30 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL FLORIDA - LOS ANGELES | Thu 30 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL BUFFALO - BOSTON | Wed 29 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL BUFFALO - BOSTON | Wed 29 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL TORONTO - MINNESOTA | Thu 30 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL TORONTO - MINNESOTA | Thu 30 Jan 01:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL NY RANGERS - CAROLINA | Wed 29 Jan 01:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL NY RANGERS - CAROLINA | Wed 29 Jan 01:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NHL NY ISLANDERS - COLORADO | Wed 29 Jan 01:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NHL NY ISLANDERS - COLORADO | Wed 29 Jan 01:35 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592514
@@ -2121,6 +2121,28 @@ http://line.protv.cc:80/9338741459/79615db6da37/1691167
 http://line.protv.cc:80/9338741459/79615db6da37/1691166
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 7 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA-7.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 7 ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691165
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 8 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 8 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777701
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 9 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 9 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777700
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 10 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 10 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777699
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 11 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 11 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777698
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 12 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 12 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777697
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 13 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 13 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777696
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 14 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 14 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777695
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 15 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 15 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777694
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 16 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 16 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777693
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 17 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 17 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777692
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 18 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 18 ᴴᴰ
+http://line.protv.cc:80/9338741459/79615db6da37/1777691
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT 1 ᴴᴰ" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ SPORT 1 ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691164
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT 2 ᴴᴰ" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport2.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ SPORT 2 ᴴᴰ
@@ -2173,6 +2195,28 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697734
 http://line.protv.cc:80/9338741459/79615db6da37/1697733
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 7 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 7 ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697732
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 8 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 8 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777687
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 9 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 9 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777686
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 10 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 10 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777685
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 11 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 11 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777684
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 12 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 12 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777683
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 13 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 13 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777682
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 14 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 14 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777681
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 15 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 15 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777680
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 16 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 16 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777679
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 17 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 17 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777678
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 18 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-EXTRA.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 18 ᴿᴬᵂ
+http://line.protv.cc:80/9338741459/79615db6da37/1777677
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/canalplussport.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697731
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT 2 ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/canalplussport2.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 2 ᴿᴬᵂ
