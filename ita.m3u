@@ -293,8 +293,6 @@ http://line.protv.cc:80/9338741459/79615db6da37/691227
 http://line.protv.cc:80/9338741459/79615db6da37/691226
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="IT| RAI SCUOLA UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RAI-SCUOLA-4K.png" group-title="ITALY UHD/4K",IT| RAI SCUOLA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691225
-#EXTINF:-1 tvg-id="" tvg-name="IT| ALMA MARCOPOLO" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ALMA-MARCOPOLO.png" group-title="ITALY UHD/4K",IT| ALMA MARCOPOLO
-http://line.protv.cc:80/9338741459/79615db6da37/691224
 #EXTINF:-1 tvg-id="" tvg-name="IT| CLASS TV MODA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CLASS-TV-MODA.png" group-title="ITALY UHD/4K",IT| CLASS TV MODA
 http://line.protv.cc:80/9338741459/79615db6da37/691223
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="IT| FOCUS 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FOCUS-4K.png" group-title="ITALY UHD/4K",IT| FOCUS 4K
@@ -1361,9 +1359,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/1630324
 http://line.protv.cc:80/9338741459/79615db6da37/1630323
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN EUROSPORT 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1630322
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - SERIE ALL STAR - 4/2 | Tue 04 Feb 13:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - SERIE ALL STAR - 4/2 | Tue 04 Feb 13:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630321
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - ES1, SAALBACH HINTERGLEMM, PARALLEL GIANT SLALOM TEAM | Tue 04 Feb 13:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - ES1, SAALBACH HINTERGLEMM, PARALLEL GIANT SLALOM TEAM | Tue 04 Feb 13:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630320
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630319
