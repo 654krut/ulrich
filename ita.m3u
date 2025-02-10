@@ -1359,11 +1359,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/1630324
 http://line.protv.cc:80/9338741459/79615db6da37/1630323
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN EUROSPORT 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1630322
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - PHOENIX OPEN, DAY 3, PART 2 | Sat 08 Feb 20:55 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - PHOENIX OPEN, DAY 3, PART 2 | Sat 08 Feb 20:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - PHOENIX OPEN, DAY 4 | Sun 09 Feb 17:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - PHOENIX OPEN, DAY 4 | Sun 09 Feb 17:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630321
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - DUKE @ CLEMSON | Sat 08 Feb 23:20 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - DUKE @ CLEMSON | Sat 08 Feb 23:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - SUPERBOWL LIX | CHIEFS @ EAGLES (DOMESTIC) | Sun 09 Feb 23:20 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - SUPERBOWL LIX | CHIEFS @ EAGLES (DOMESTIC) | Sun 09 Feb 23:20 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630320
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 3 - SUPERBOWL LIX | CHIEFS @ EAGLES (DOMESTIC) (ENGLISH) | Sun 09 Feb 23:20 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 3 - SUPERBOWL LIX | CHIEFS @ EAGLES (DOMESTIC) (ENGLISH) | Sun 09 Feb 23:20 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630319
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630318
@@ -1375,7 +1375,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1630316
 http://line.protv.cc:80/9338741459/79615db6da37/1630315
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630314
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 9 - NAPOLI - UDINESE | Sun 09 Feb 18:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 9 - NAPOLI - UDINESE | Sun 09 Feb 18:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630313
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630312
@@ -2729,6 +2729,18 @@ http://line.protv.cc:80/movie/9338741459/79615db6da37/229935.mp4
 http://line.protv.cc:80/movie/9338741459/79615db6da37/229938.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Victor: La storia segreta del dottor Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg" group-title="|IT| 4K FILM",IT - Victor: La storia segreta del dottor Frankenstein
 http://line.protv.cc:80/movie/9338741459/79615db6da37/229939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Sonic 3: Il film (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hArbAOlNZX0qfd2Udpr6RCTflpg.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Sonic 3: Il film (2024)
+http://line.protv.cc:80/movie/9338741459/79615db6da37/1787229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Nosferatu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FeFKeveW5BQuoz9reFeh4kRfVR.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Nosferatu (2024)
+http://line.protv.cc:80/movie/9338741459/79615db6da37/1787228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Kraven: Il cacciatore (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQZ11oQtuapB6xYgBTkM8VFAu86.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Kraven: Il cacciatore (2024)
+http://line.protv.cc:80/movie/9338741459/79615db6da37/1787227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Io sono la fine del mondo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyyAmXTFLYJY0WMZWYCr5bbOtsC.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Io sono la fine del mondo (2025)
+http://line.protv.cc:80/movie/9338741459/79615db6da37/1787226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Cortina Express (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxgk9pDIuHUmrZHHrR6gGyuPuyV.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Cortina Express (2024)
+http://line.protv.cc:80/movie/9338741459/79615db6da37/1787225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Carry-On (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q704jwgYNZjpKEmzQazDEVwVUya.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Carry-On (2024)
+http://line.protv.cc:80/movie/9338741459/79615db6da37/1787224.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - 4 metà  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iHOgjnPRUHaobosB9HIiMPSE9W.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - 4 metà  (2022)
 http://line.protv.cc:80/movie/9338741459/79615db6da37/838086.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - 10 Days without Mamma" tvg-logo="http://103.176.90.118/images/movies//blUDHF9aanBp4pOk8EWO89DUXPZ.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - 10 Days without Mamma
@@ -5917,6 +5929,34 @@ http://line.protv.cc:80/movie/9338741459/79615db6da37/230668.mkv
 http://line.protv.cc:80/movie/9338741459/79615db6da37/230669.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Zombie Strippers" tvg-logo="http://103.176.90.118/images/movies//kugSRyrsc10vXP6mRgROpYVNCoK.jpg" group-title="|IT| HORROR THRILLER",IT - Zombie Strippers
 http://line.protv.cc:80/movie/9338741459/79615db6da37/230670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/8Ppx99arhViF65p9R12oSI8ie2h.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E01
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/kvnyls1KdlHLxxefg4SODDXMfxp.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E02
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/rhPKOr5Ax2v7452LqxajFz5T7iI.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E03
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/dzQJeDznS0I4spAqTImiLH9p252.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E04
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/oy4BZotFbNX5YoPkWuWF3kcdMVw.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E05
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/3fQp0pUtgDkqqyEbXY8KKCZPMU7.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E06
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/gHoKlbC2esqq3SXm0ZCcl3bzpFZ.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E07
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/hmfoVewhL4AxkU6ffUyn9OVsFxD.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E08
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/dzx8D2B0ELncXuCNwtPCags43Q.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S01 E09
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/a97vNY8Knu45FLQib0uQZ2VReLy.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S02 E01
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/wjlSkqMoLngSO6fv2Ajt2CIeCSi.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S02 E02
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Scissione (2022) S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/e7zJAljtx56xaWxS2B92b8XHNvB.jpg" group-title="|IT| ITALIAN SERIES",IT - Scissione (2022) S02 E03
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Newtopia (2025) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/exqPH5aC63GLH5c5WIhnBHLVnil.jpg" group-title="|IT| ITALIAN SERIES",IT - Newtopia (2025) S01 E01
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT - Newtopia (2025) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/qdocJsG4uAjFZygg8QFylMdG9y5.jpg" group-title="|IT| ITALIAN SERIES",IT - Newtopia (2025) S01 E02
+http://line.protv.cc:80/series/9338741459/79615db6da37/1787211.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - I Griffin (1999) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/uAqNaWTbOgCz4dRnEkSiUbmyMRL.jpg" group-title="|IT| ITALIAN SERIES",IT - I Griffin (1999) S01 E01
 http://line.protv.cc:80/series/9338741459/79615db6da37/1641276.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - I Griffin (1999) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/1AVpcfXTYjJbAvJT7kYqI04FJ72.jpg" group-title="|IT| ITALIAN SERIES",IT - I Griffin (1999) S01 E02
