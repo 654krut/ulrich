@@ -1021,19 +1021,19 @@ http://line.protv.cc:80/9338741459/79615db6da37/1498959
 http://line.protv.cc:80/9338741459/79615db6da37/905665
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="PL| ELEVEN SPORTS 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880457
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="PL| ELEVEN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="PL| ELEVEN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880317
 #EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="PL| ELEVEN SPORTS 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880456
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="PL| ELEVEN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="PL| ELEVEN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880316
 #EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="PL| ELEVEN SPORTS 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880455
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="PL| ELEVEN SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 HD
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="PL| ELEVEN SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880315
 #EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="PL| ELEVEN SPORTS 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880454
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="PL| ELEVEN SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="PL| ELEVEN SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880314
 #EXTINF:-1 tvg-id="Eurosport1.pl" tvg-name="PL| EUROSPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-1--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880453
@@ -1073,15 +1073,15 @@ http://line.protv.cc:80/9338741459/79615db6da37/880406
 http://line.protv.cc:80/9338741459/79615db6da37/880266
 #EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880471
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 HD
+#EXTINF:-1 tvg-id="Polsat Sport 1" tvg-name="PL| POLSAT SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880331
 #EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL| POLSAT SPORT 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880470
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 HD
+#EXTINF:-1 tvg-id="Polsat Sport 2" tvg-name="PL| POLSAT SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880330
 #EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880468
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 HD
+#EXTINF:-1 tvg-id="Polsat Sport 3" tvg-name="PL| POLSAT SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880328
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL| POLSAT SPORT PREMIUM 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880467
@@ -1165,19 +1165,19 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL CHICAGO - TORONTO | Mon 24 Feb 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL CHICAGO - TORONTO | Mon 24 Feb 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL WINNIPEG - SAN JOSE | Tue 25 Feb 00:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL WINNIPEG - SAN JOSE | Tue 25 Feb 00:35 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL NASHVILLE - NEW JERSEY | Sun 23 Feb 23:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL NASHVILLE - NEW JERSEY | Sun 23 Feb 23:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL ST. LOUIS - COLORADO | Sun 23 Feb 23:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL ST. LOUIS - COLORADO | Sun 23 Feb 23:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL PITTSBURGH - NY RANGERS | Sun 23 Feb 20:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL PITTSBURGH - NY RANGERS | Sun 23 Feb 20:35 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NHL NY ISLANDERS - DALLAS | Mon 24 Feb 00:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NHL NY ISLANDERS - DALLAS | Mon 24 Feb 00:35 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NHL TAMPA BAY - SEATTLE | Sun 23 Feb 23:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NHL TAMPA BAY - SEATTLE | Sun 23 Feb 23:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592514
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NHL DETROIT - ANAHEIM | Sun 23 Feb 23:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NHL DETROIT - ANAHEIM | Sun 23 Feb 23:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592515
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592516
@@ -2201,13 +2201,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697720
 http://line.protv.cc:80/9338741459/79615db6da37/1697719
 #EXTINF:-1 tvg-id="" tvg-name="####### MAX PPV #######" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",####### MAX PPV #######
 http://line.protv.cc:80/9338741459/79615db6da37/1640751
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - MEXICAN OPEN | 4. DZIEŃ  | Sun 23 Feb 17:59 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - MEXICAN OPEN | 4. DZIEŃ  | Sun 23 Feb 17:59 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640750
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - MEXICAN OPEN | 4. DZIEŃ | WYRÓŻNIONE GRUPY/DOŁKI | Sun 23 Feb 18:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - MEXICAN OPEN | 4. DZIEŃ | WYRÓŻNIONE GRUPY/DOŁKI | Sun 23 Feb 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640749
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - MEXICAN OPEN | 4. DZIEŃ | GRUPA MARQUEE/WYRÓŻNIONE GRUPY | Sun 23 Feb 18:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - MEXICAN OPEN | 4. DZIEŃ | GRUPA MARQUEE/WYRÓŻNIONE GRUPY | Sun 23 Feb 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640748
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - MEXICAN OPEN | 4. DZIEŃ | WYRÓŻNIONE GRUPY | Sun 23 Feb 18:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - MEXICAN OPEN | 4. DZIEŃ | WYRÓŻNIONE GRUPY | Sun 23 Feb 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640747
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640746
