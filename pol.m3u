@@ -1165,15 +1165,15 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL WASHINGTON - OTTAWA | Mon 03 Mar 23:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL WASHINGTON - OTTAWA | Mon 03 Mar 23:35 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - LEAGUE ONE WYCOMBE - BURTON | Tue 04 Mar 19:55 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - LEAGUE ONE WYCOMBE - BURTON | Tue 04 Mar 19:55 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL NY RANGERS - NY ISLANDERS | Tue 04 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL NY RANGERS - NY ISLANDERS | Tue 04 Mar 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL FLORIDA - TAMPA BAY | Tue 04 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL FLORIDA - TAMPA BAY | Tue 04 Mar 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL MONTREAL - BUFFALO | Tue 04 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL MONTREAL - BUFFALO | Tue 04 Mar 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NHL TORONTO - SAN JOSE | Tue 04 Mar 00:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NHL TORONTO - SAN JOSE | Tue 04 Mar 00:35 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592514
@@ -2403,41 +2403,3 @@ http://line.protv.cc:80/9338741459/79615db6da37/1640652
 http://line.protv.cc:80/9338741459/79615db6da37/1640651
 #EXTINF:-1 tvg-id="" tvg-name="###### PL RADIO ######" tvg-logo="http://103.176.90.118/picons/logos/logos/PL-RADIO.png" group-title="PL| MUZYCZNE",###### PL RADIO ######
 http://line.protv.cc:80/9338741459/79615db6da37/882113
-#EXTINF:-1 tvg-id="" tvg-name="PL| ZŁOTE PRZEBOJE" tvg-logo="http://103.176.90.118/picons/logos/RADIO-ZLOTE-PRZEBOJE.jpeg" group-title="PL| MUZYCZNE",PL| ZŁOTE PRZEBOJE
-http://line.protv.cc:80/9338741459/79615db6da37/953570
-#EXTINF:-1 tvg-id="" tvg-name="PL| RMF DEPECHE MODE" tvg-logo="http://103.176.90.118/picons/logos/RMF-Depeche-Mode.png" group-title="PL| MUZYCZNE",PL| RMF DEPECHE MODE
-http://line.protv.cc:80/9338741459/79615db6da37/953571
-#EXTINF:-1 tvg-id="" tvg-name="PL| ALT CLASSIC" tvg-logo="http://103.176.90.118/picons/logos/Alt-Classic.png" group-title="PL| MUZYCZNE",PL| ALT CLASSIC
-http://line.protv.cc:80/9338741459/79615db6da37/953576
-#EXTINF:-1 tvg-id="" tvg-name="PL| 90S HITS" tvg-logo="http://103.176.90.118/picons/logos/90s-Hits.jpg" group-title="PL| MUZYCZNE",PL| 90S HITS
-http://line.protv.cc:80/9338741459/79615db6da37/953577
-#EXTINF:-1 tvg-id="" tvg-name="PL| DISCO POLO" tvg-logo="http://103.176.90.118/picons/logos/DISCO-POLO.png" group-title="PL| MUZYCZNE",PL| DISCO POLO
-http://line.protv.cc:80/9338741459/79615db6da37/953578
-#EXTINF:-1 tvg-id="" tvg-name="PL| 500 R'N'B HITS" tvg-logo="http://103.176.90.118/picons/logos/500-RNB-HITS.png" group-title="PL| MUZYCZNE",PL| 500 R'N'B HITS
-http://line.protv.cc:80/9338741459/79615db6da37/953579
-#EXTINF:-1 tvg-id="" tvg-name="PL| CREMA CAFÉ" tvg-logo="http://103.176.90.118/picons/logos/CREMA-CAF%c3%89.jpeg" group-title="PL| MUZYCZNE",PL| CREMA CAFÉ
-http://line.protv.cc:80/9338741459/79615db6da37/953580
-#EXTINF:-1 tvg-id="" tvg-name="PL| ITALO DISCO" tvg-logo="http://103.176.90.118/picons/logos/ITALO-DISCO.jpeg" group-title="PL| MUZYCZNE",PL| ITALO DISCO
-http://line.protv.cc:80/9338741459/79615db6da37/953581
-#EXTINF:-1 tvg-id="" tvg-name="PL| RADIOPARTY KANAŁ GŁÓWNY" tvg-logo="http://103.176.90.118/picons/logos/RADIOPARTY-KANA%c5%81-G%c5%81%c3%93WNY.png" group-title="PL| MUZYCZNE",PL| RADIOPARTY KANAŁ GŁÓWNY
-http://line.protv.cc:80/9338741459/79615db6da37/953582
-#EXTINF:-1 tvg-id="" tvg-name="PL| CLASSIC METAL" tvg-logo="http://103.176.90.118/picons/logos/CLASSIC-METAL.jpeg" group-title="PL| MUZYCZNE",PL| CLASSIC METAL
-http://line.protv.cc:80/9338741459/79615db6da37/953583
-#EXTINF:-1 tvg-id="" tvg-name="PL| RMF BLUES" tvg-logo="http://103.176.90.118/picons/logos/RADIO-RMF-BLUES.png" group-title="PL| MUZYCZNE",PL| RMF BLUES
-http://line.protv.cc:80/9338741459/79615db6da37/953584
-#EXTINF:-1 tvg-id="" tvg-name="PL| TRANCE" tvg-logo="http://103.176.90.118/picons/logos/RADIO-TRANCE-PL.jpeg" group-title="PL| MUZYCZNE",PL| TRANCE
-http://line.protv.cc:80/9338741459/79615db6da37/953585
-#EXTINF:-1 tvg-id="" tvg-name="PL| RMF 80S" tvg-logo="http://103.176.90.118/picons/logos/80srfm.png" group-title="PL| MUZYCZNE",PL| RMF 80S
-http://line.protv.cc:80/9338741459/79615db6da37/953586
-#EXTINF:-1 tvg-id="" tvg-name="PL|  SMOOTH JAZZ" tvg-logo="http://103.176.90.118/picons/logos/Smoothjazz-com-pl.jpeg" group-title="PL| MUZYCZNE",PL|  SMOOTH JAZZ
-http://line.protv.cc:80/9338741459/79615db6da37/953587
-#EXTINF:-1 tvg-id="" tvg-name="PL|  CHILLI ZET" tvg-logo="http://103.176.90.118/picons/logos/chillizet.png" group-title="PL| MUZYCZNE",PL|  CHILLI ZET
-http://line.protv.cc:80/9338741459/79615db6da37/953589
-#EXTINF:-1 tvg-id="" tvg-name="PL|  RADIO  POGODA" tvg-logo="http://103.176.90.118/picons/logos/radiopogoda.png" group-title="PL| MUZYCZNE",PL|  RADIO  POGODA
-http://line.protv.cc:80/9338741459/79615db6da37/953590
-#EXTINF:-1 tvg-id="" tvg-name="PL|  RMF MAXXX" tvg-logo="http://103.176.90.118/picons/logos/rmfmaxxx.png" group-title="PL| MUZYCZNE",PL|  RMF MAXXX
-http://line.protv.cc:80/9338741459/79615db6da37/953591
-#EXTINF:-1 tvg-id="" tvg-name="PL|  TOK FM" tvg-logo="http://103.176.90.118/picons/logos/Radio-TOK-FM.png" group-title="PL| MUZYCZNE",PL|  TOK FM
-http://line.protv.cc:80/9338741459/79615db6da37/953592
-#EXTINF:-1 tvg-id="" tvg-name="PL|  RADIO ZET" tvg-logo="http://103.176.90.118/picons/logos/radiozet.png" group-title="PL| MUZYCZNE",PL|  RADIO ZET
-http://line.protv.cc:80/9338741459/79615db6da37/953594
