@@ -1035,7 +1035,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880315
 http://line.protv.cc:80/9338741459/79615db6da37/880454
 #EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="PL| ELEVEN SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880314
-#EXTINF:-1 tvg-id="Eurosport1.pl" tvg-name="PL| EUROSPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-1--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="PL| EUROSPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-1--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880453
 #EXTINF:-1 tvg-id="Eurosport1.pl" tvg-name="PL| EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-1--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/880313
@@ -1165,17 +1165,17 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL CAROLINA - BOSTON | Fri 07 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL CAROLINA - BOSTON | Fri 07 Mar 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL WASHINGTON - DETROIT | Sat 08 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL WASHINGTON - DETROIT | Sat 08 Mar 00:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL NEW JERSEY - WINNIPEG | Sat 08 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL NEW JERSEY - WINNIPEG | Sat 08 Mar 00:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL PHILADELPHIA - WINNIPEG | Fri 07 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL PHILADELPHIA - WINNIPEG | Fri 07 Mar 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL FLORIDA - COLUMBUS | Fri 07 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL FLORIDA - COLUMBUS | Fri 07 Mar 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NHL TAMPA BAY - BUFFALO | Fri 07 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NHL TAMPA BAY - BUFFALO | Fri 07 Mar 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NHL DETROIT - UTAH | Fri 07 Mar 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NHL DETROIT - UTAH | Fri 07 Mar 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592514
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592515
@@ -2201,27 +2201,27 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697720
 http://line.protv.cc:80/9338741459/79615db6da37/1697719
 #EXTINF:-1 tvg-id="" tvg-name="####### MAX PPV #######" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",####### MAX PPV #######
 http://line.protv.cc:80/9338741459/79615db6da37/1640751
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - COLOGUARD CLASSIC | 1. DZIEŃ | Sat 08 Mar 00:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - COLOGUARD CLASSIC | 1. DZIEŃ | Sat 08 Mar 00:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640750
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640749
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | WYRÓŻNIONE GRUPY/DOŁKI | Fri 07 Mar 14:44 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | WYRÓŻNIONE GRUPY/DOŁKI | Fri 07 Mar 14:44 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640748
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | GRUPA MARQUEE/WYRÓŻNIONE GRUPY | Fri 07 Mar 14:44 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | GRUPA MARQUEE/WYRÓŻNIONE GRUPY | Fri 07 Mar 14:44 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640747
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | WYRÓŻNIONE GRUPY | Thu 06 Mar 12:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | WYRÓŻNIONE GRUPY | Thu 06 Mar 12:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - ARNOLD PALMER INVITATIONAL | DAY 2 | Fri 07 Mar 12:45 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - ARNOLD PALMER INVITATIONAL | DAY 2 | Fri 07 Mar 12:45 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640746
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 6 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | WYBRANE DOŁKI | Thu 06 Mar 12:44 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | WYBRANE DOŁKI | Thu 06 Mar 12:44 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640745
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 7 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | WYRÓŻNIONE GRUPY | Fri 07 Mar 12:29 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | WYRÓŻNIONE GRUPY | Fri 07 Mar 12:29 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640744
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 8 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | Thu 06 Mar 18:59 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | Thu 06 Mar 18:59 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 8 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | WYBRANE DOŁKI | Fri 07 Mar 12:44 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | WYBRANE DOŁKI | Fri 07 Mar 12:44 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640743
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 9 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | WYRÓŻNIONE GRUPY/DOŁKI | Thu 06 Mar 14:44 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 9 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | WYRÓŻNIONE GRUPY/DOŁKI | Thu 06 Mar 14:44 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640742
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 10 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | GRUPA MARQUEE/WYRÓŻNIONE GRUPY | Thu 06 Mar 14:44 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 10 - ARNOLD PALMER INVITATIONAL | 1. DZIEŃ | GRUPA MARQUEE/WYRÓŻNIONE GRUPY | Thu 06 Mar 14:44 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640741
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 11 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | Fri 07 Mar 18:59 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 11 - ARNOLD PALMER INVITATIONAL | 2. DZIEŃ | Fri 07 Mar 18:59 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640740
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640739
