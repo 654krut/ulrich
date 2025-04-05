@@ -147,6 +147,8 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530216
 http://line.protv.cc:80/9338741459/79615db6da37/1530213
 #EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="PL-VIP|  POLSAT SPORT PREMIUM PPV6 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv6.png" group-title="PL| POLAND VIP",PL-VIP|  POLSAT SPORT PREMIUM PPV6 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530215
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ 1 UHD
+http://line.protv.cc:80/9338741459/79615db6da37/1828580
 #EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="PL-VIP| CANAL+ 1 RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplus1.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ 1 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530127
 #EXTINF:-1 tvg-id="CanalPlusDokument.pl" tvg-name="PL-VIP| CANAL+ DOKUMENT RAW" tvg-logo="http://103.176.90.118/piconsnew/canalplusdokumenthd.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ DOKUMENT RAW
@@ -2205,7 +2207,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1640751
 http://line.protv.cc:80/9338741459/79615db6da37/1640750
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640749
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - KINGSTONE | 1. DZIEŃ | Fri 04 Apr 22:29 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - KINGSTONE | 1. DZIEŃ | Fri 04 Apr 22:29 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640748
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640747
