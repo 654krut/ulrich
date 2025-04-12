@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| RAI 1 UHD" tvg-logo="http://103.176.90.118/piconsnew/rai1.png" group-title="ITALY UHD/4K",IT| RAI 1 UHD
+#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| RAI 1 UHD" tvg-logo="http://103.176.90.92/picons/691401.png" group-title="ITALY UHD/4K",IT| RAI 1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691401
-#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| RAI 1 4K" tvg-logo="http://103.176.90.118/piconsnew/rai1.png" group-title="ITALY UHD/4K",IT| RAI 1 4K
+#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| RAI 1 4K" tvg-logo="http://103.176.90.92/picons/691400.png" group-title="ITALY UHD/4K",IT| RAI 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691400
-#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="IT| RAI 2 UHD" tvg-logo="http://103.176.90.118/piconsnew/rai2.png" group-title="ITALY UHD/4K",IT| RAI 2 UHD
+#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="IT| RAI 2 UHD" tvg-logo="http://103.176.90.92/picons/691399.png" group-title="ITALY UHD/4K",IT| RAI 2 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691399
-#EXTINF:-1 tvg-id="RaiTre.it" tvg-name="IT| RAI 3 UHD" tvg-logo="http://103.176.90.118/piconsnew/rai3.png" group-title="ITALY UHD/4K",IT| RAI 3 UHD
+#EXTINF:-1 tvg-id="RaiTre.it" tvg-name="IT| RAI 3 UHD" tvg-logo="http://103.176.90.92/picons/691398.png" group-title="ITALY UHD/4K",IT| RAI 3 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691398
-#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="IT| RAI 2 4K" tvg-logo="http://103.176.90.118/piconsnew/rai2.png" group-title="ITALY UHD/4K",IT| RAI 2 4K
+#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="IT| RAI 2 4K" tvg-logo="http://103.176.90.92/picons/691397.png" group-title="ITALY UHD/4K",IT| RAI 2 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691397
-#EXTINF:-1 tvg-id="RaiTre.it" tvg-name="IT| RAI 3 4K" tvg-logo="http://103.176.90.118/piconsnew/rai3.png" group-title="ITALY UHD/4K",IT| RAI 3 4K
+#EXTINF:-1 tvg-id="RaiTre.it" tvg-name="IT| RAI 3 4K" tvg-logo="http://103.176.90.92/picons/691396.png" group-title="ITALY UHD/4K",IT| RAI 3 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691396
-#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="IT| RETE 4 UHD" tvg-logo="http://103.176.90.118/piconsnew/rete4.png" group-title="ITALY UHD/4K",IT| RETE 4 UHD
+#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="IT| RETE 4 UHD" tvg-logo="http://103.176.90.92/picons/691395.png" group-title="ITALY UHD/4K",IT| RETE 4 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691395
-#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="IT| RETE 4 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RETE-4-4K.png" group-title="ITALY UHD/4K",IT| RETE 4 4K
+#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="IT| RETE 4 4K" tvg-logo="http://103.176.90.92/picons/691394.png" group-title="ITALY UHD/4K",IT| RETE 4 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691394
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="IT| CANALE 5 UHD" tvg-logo="http://103.176.90.118/piconsnew/canale5.png" group-title="ITALY UHD/4K",IT| CANALE 5 UHD
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="IT| CANALE 5 UHD" tvg-logo="http://103.176.90.92/picons/691393.png" group-title="ITALY UHD/4K",IT| CANALE 5 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691393
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="IT| CANALE 5 4K" tvg-logo="http://103.176.90.118/piconsnew/canale5.png" group-title="ITALY UHD/4K",IT| CANALE 5 4K
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="IT| CANALE 5 4K" tvg-logo="http://103.176.90.92/picons/691392.png" group-title="ITALY UHD/4K",IT| CANALE 5 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691392
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="IT| ITALIA 1 UHD" tvg-logo="http://103.176.90.118/piconsnew/italia1.png" group-title="ITALY UHD/4K",IT| ITALIA 1 UHD
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="IT| ITALIA 1 UHD" tvg-logo="http://103.176.90.92/picons/691391.png" group-title="ITALY UHD/4K",IT| ITALIA 1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691391
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="IT| ITALIA 1 4K" tvg-logo="http://103.176.90.118/piconsnew/italia1.png" group-title="ITALY UHD/4K",IT| ITALIA 1 4K
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="IT| ITALIA 1 4K" tvg-logo="http://103.176.90.92/picons/691390.png" group-title="ITALY UHD/4K",IT| ITALIA 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691390
 #EXTINF:-1 tvg-id="La7.it" tvg-name="IT| LA 7 UHD" tvg-logo="http://103.176.90.92/picons/691389.png" group-title="ITALY UHD/4K",IT| LA 7 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691389
@@ -35,7 +35,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691386
 http://line.protv.cc:80/9338741459/79615db6da37/691385
 #EXTINF:-1 tvg-id="La7D.it" tvg-name="IT| LA 7D 4K" tvg-logo="http://103.176.90.92/picons/691384.png" group-title="ITALY UHD/4K",IT| LA 7D 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691384
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="IT| TV8 UHD" tvg-logo="http://103.176.90.118/piconsnew/tv8.png" group-title="ITALY UHD/4K",IT| TV8 UHD
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="IT| TV8 UHD" tvg-logo="http://103.176.90.92/picons/691383.png" group-title="ITALY UHD/4K",IT| TV8 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691383
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="IT| NOVE UHD" tvg-logo="http://103.176.90.92/picons/691382.png" group-title="ITALY UHD/4K",IT| NOVE UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691382
@@ -43,7 +43,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691382
 http://line.protv.cc:80/9338741459/79615db6da37/691381
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINE34 UHD" tvg-logo="http://103.176.90.92/picons/691380.png" group-title="ITALY UHD/4K",IT| CINE34 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691380
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="IT| RAI PREMIUM UHD" tvg-logo="http://103.176.90.118/piconsnew/raipremium.png" group-title="ITALY UHD/4K",IT| RAI PREMIUM UHD
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="IT| RAI PREMIUM UHD" tvg-logo="http://103.176.90.92/picons/691379.png" group-title="ITALY UHD/4K",IT| RAI PREMIUM UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691379
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="IT| RAI PREMIUM 4K" tvg-logo="http://103.176.90.92/picons/691378.png" group-title="ITALY UHD/4K",IT| RAI PREMIUM 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691378
@@ -67,7 +67,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691370
 http://line.protv.cc:80/9338741459/79615db6da37/691369
 #EXTINF:-1 tvg-id="" tvg-name="IT| MEDIA EXTRA UHD" tvg-logo="http://103.176.90.92/picons/691368.png" group-title="ITALY UHD/4K",IT| MEDIA EXTRA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691368
-#EXTINF:-1 tvg-id="" tvg-name="IT| CANALE 20 UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CANALE-20.png" group-title="ITALY UHD/4K",IT| CANALE 20 UHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| CANALE 20 UHD" tvg-logo="http://103.176.90.92/picons/691367.png" group-title="ITALY UHD/4K",IT| CANALE 20 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691367
 #EXTINF:-1 tvg-id="" tvg-name="IT| CANALE 20 4K" tvg-logo="http://103.176.90.92/picons/691366.png" group-title="ITALY UHD/4K",IT| CANALE 20 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691366
@@ -79,7 +79,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691364
 http://line.protv.cc:80/9338741459/79615db6da37/691363
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="IT| GIALLO UHD" tvg-logo="http://103.176.90.92/picons/691362.png" group-title="ITALY UHD/4K",IT| GIALLO UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691362
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="IT| FOOD NETWORK UHD" tvg-logo="http://103.176.90.118/piconsnew/foodnetwork.png" group-title="ITALY UHD/4K",IT| FOOD NETWORK UHD
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="IT| FOOD NETWORK UHD" tvg-logo="http://103.176.90.92/picons/691361.png" group-title="ITALY UHD/4K",IT| FOOD NETWORK UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691361
 #EXTINF:-1 tvg-id="" tvg-name="IT| NASATV UHD" tvg-logo="http://103.176.90.92/picons/691359.png" group-title="ITALY UHD/4K",IT| NASATV UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691359
@@ -87,7 +87,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691359
 http://line.protv.cc:80/9338741459/79615db6da37/691358
 #EXTINF:-1 tvg-id="" tvg-name="IT| HSE24 UHD" tvg-logo="http://103.176.90.92/picons/691357.png" group-title="ITALY UHD/4K",IT| HSE24 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691357
-#EXTINF:-1 tvg-id="" tvg-name="IT| VH1 UHD" tvg-logo="http://103.176.90.118/piconsnew/vh1.png" group-title="ITALY UHD/4K",IT| VH1 UHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| VH1 UHD" tvg-logo="http://103.176.90.92/picons/691354.png" group-title="ITALY UHD/4K",IT| VH1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691354
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="IT| TV 2000 4K" tvg-logo="http://103.176.90.92/picons/691353.png" group-title="ITALY UHD/4K",IT| TV 2000 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691353
@@ -107,61 +107,61 @@ http://line.protv.cc:80/9338741459/79615db6da37/691347
 http://line.protv.cc:80/9338741459/79615db6da37/691345
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="IT| RAI SPORT 4K" tvg-logo="http://103.176.90.92/picons/691344.png" group-title="ITALY UHD/4K",IT| RAI SPORT 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691344
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="IT| SKY CINEMA UNO UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemauno.png" group-title="ITALY UHD/4K",IT| SKY CINEMA UNO UHD
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="IT| SKY CINEMA UNO UHD" tvg-logo="http://103.176.90.92/picons/691343.png" group-title="ITALY UHD/4K",IT| SKY CINEMA UNO UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691343
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="IT| SKY CINEMA UNO 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemauno.png" group-title="ITALY UHD/4K",IT| SKY CINEMA UNO 4K
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="IT| SKY CINEMA UNO 4K" tvg-logo="http://103.176.90.92/picons/691342.png" group-title="ITALY UHD/4K",IT| SKY CINEMA UNO 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691342
-#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="IT| SKY CINEMA UNO24 UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA-UNO24.png" group-title="ITALY UHD/4K",IT| SKY CINEMA UNO24 UHD
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="IT| SKY CINEMA UNO24 UHD" tvg-logo="http://103.176.90.92/picons/691341.png" group-title="ITALY UHD/4K",IT| SKY CINEMA UNO24 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691341
-#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="IT| SKY CINEMA UNO24 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA-UNO24.png" group-title="ITALY UHD/4K",IT| SKY CINEMA UNO24 4K
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="IT| SKY CINEMA UNO24 4K" tvg-logo="http://103.176.90.92/picons/691340.png" group-title="ITALY UHD/4K",IT| SKY CINEMA UNO24 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691340
-#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="IT| SKY CINEMA DUE UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemadue.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DUE UHD
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="IT| SKY CINEMA DUE UHD" tvg-logo="http://103.176.90.92/picons/691339.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DUE UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691339
-#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="IT| SKY CINEMA DUE 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemadue.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DUE 4K
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="IT| SKY CINEMA DUE 4K" tvg-logo="http://103.176.90.92/picons/691338.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DUE 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691338
-#EXTINF:-1 tvg-id="SkyCinemaDuePlus24.it" tvg-name="IT| SKY CINEMA DUE24 UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA-UNO24.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DUE24 UHD
+#EXTINF:-1 tvg-id="SkyCinemaDuePlus24.it" tvg-name="IT| SKY CINEMA DUE24 UHD" tvg-logo="http://103.176.90.92/picons/691337.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DUE24 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691337
-#EXTINF:-1 tvg-id="SkyCinemaDuePlus24.it" tvg-name="IT| SKY CINEMA DUE24 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA-UNO24.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DUE24 4K
+#EXTINF:-1 tvg-id="SkyCinemaDuePlus24.it" tvg-name="IT| SKY CINEMA DUE24 4K" tvg-logo="http://103.176.90.92/picons/691336.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DUE24 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691336
-#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="IT| SKY CINEMA COLLECTION 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemacollection.png" group-title="ITALY UHD/4K",IT| SKY CINEMA COLLECTION 4K
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="IT| SKY CINEMA COLLECTION 4K" tvg-logo="http://103.176.90.92/picons/691335.png" group-title="ITALY UHD/4K",IT| SKY CINEMA COLLECTION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691335
-#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="IT| SKY CINEMA COLLECTION UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemacollection.png" group-title="ITALY UHD/4K",IT| SKY CINEMA COLLECTION UHD
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="IT| SKY CINEMA COLLECTION UHD" tvg-logo="http://103.176.90.92/picons/691334.png" group-title="ITALY UHD/4K",IT| SKY CINEMA COLLECTION UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691334
 #EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="IT| SKY CINEMA FAMILY UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemafamily.png" group-title="ITALY UHD/4K",IT| SKY CINEMA FAMILY UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691333
 #EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="IT| SKY CINEMA FAMILY 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemafamily.png" group-title="ITALY UHD/4K",IT| SKY CINEMA FAMILY 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691332
-#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemaaction.png" group-title="ITALY UHD/4K",IT| SKY CINEMA ACTION UHD
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION UHD" tvg-logo="http://103.176.90.92/picons/691331.png" group-title="ITALY UHD/4K",IT| SKY CINEMA ACTION UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691331
-#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemaaction.png" group-title="ITALY UHD/4K",IT| SKY CINEMA ACTION 4K
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION 4K" tvg-logo="http://103.176.90.92/picons/691330.png" group-title="ITALY UHD/4K",IT| SKY CINEMA ACTION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691330
-#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="IT| SKY CINEMA SUSPENSE UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemasuspense.png" group-title="ITALY UHD/4K",IT| SKY CINEMA SUSPENSE UHD
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="IT| SKY CINEMA SUSPENSE UHD" tvg-logo="http://103.176.90.92/picons/691329.png" group-title="ITALY UHD/4K",IT| SKY CINEMA SUSPENSE UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691329
-#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="IT| SKY CINEMA SUSPENSE 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemasuspense.png" group-title="ITALY UHD/4K",IT| SKY CINEMA SUSPENSE 4K
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="IT| SKY CINEMA SUSPENSE 4K" tvg-logo="http://103.176.90.92/picons/691328.png" group-title="ITALY UHD/4K",IT| SKY CINEMA SUSPENSE 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691328
-#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="IT| SKY CINEMA ROMANCE UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemaromance.png" group-title="ITALY UHD/4K",IT| SKY CINEMA ROMANCE UHD
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="IT| SKY CINEMA ROMANCE UHD" tvg-logo="http://103.176.90.92/picons/691327.png" group-title="ITALY UHD/4K",IT| SKY CINEMA ROMANCE UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691327
 #EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="IT| SKY CINEMA DRAMA UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemadrama.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DRAMA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691326
 #EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="IT| SKY CINEMA DRAMA 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemadrama.png" group-title="ITALY UHD/4K",IT| SKY CINEMA DRAMA 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691325
-#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="IT| SKY CINEMA ROMANCE 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemaromance.png" group-title="ITALY UHD/4K",IT| SKY CINEMA ROMANCE 4K
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="IT| SKY CINEMA ROMANCE 4K" tvg-logo="http://103.176.90.92/picons/691324.png" group-title="ITALY UHD/4K",IT| SKY CINEMA ROMANCE 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691324
-#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="IT| SKY CINEMA COMEDY UHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemacomedy.png" group-title="ITALY UHD/4K",IT| SKY CINEMA COMEDY UHD
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="IT| SKY CINEMA COMEDY UHD" tvg-logo="http://103.176.90.92/picons/691323.png" group-title="ITALY UHD/4K",IT| SKY CINEMA COMEDY UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691323
-#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="IT| SKY CINEMA COMEDY 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemacomedy.png" group-title="ITALY UHD/4K",IT| SKY CINEMA COMEDY 4K
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="IT| SKY CINEMA COMEDY 4K" tvg-logo="http://103.176.90.92/picons/691322.png" group-title="ITALY UHD/4K",IT| SKY CINEMA COMEDY 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691322
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="IT| SKY UNO UHD" tvg-logo="http://103.176.90.118/piconsnew/skyuno.png" group-title="ITALY UHD/4K",IT| SKY UNO UHD
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="IT| SKY UNO UHD" tvg-logo="http://103.176.90.92/picons/691311.png" group-title="ITALY UHD/4K",IT| SKY UNO UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691311
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="IT| SKY UNO 4K" tvg-logo="http://103.176.90.118/piconsnew/skyuno.png" group-title="ITALY UHD/4K",IT| SKY UNO 4K
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="IT| SKY UNO 4K" tvg-logo="http://103.176.90.92/picons/691310.png" group-title="ITALY UHD/4K",IT| SKY UNO 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691310
-#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC UHD" tvg-logo="http://103.176.90.118/piconsnew/skyatlantic.png" group-title="ITALY UHD/4K",IT| SKY ATLANTIC UHD
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC UHD" tvg-logo="http://103.176.90.92/picons/691309.png" group-title="ITALY UHD/4K",IT| SKY ATLANTIC UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691309
-#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC 4K" tvg-logo="http://103.176.90.118/piconsnew/skyatlantic.png" group-title="ITALY UHD/4K",IT| SKY ATLANTIC 4K
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC 4K" tvg-logo="http://103.176.90.92/picons/691308.png" group-title="ITALY UHD/4K",IT| SKY ATLANTIC 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691308
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT ACTION UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportaction.png" group-title="ITALY UHD/4K",IT| SKY SPORT ACTION UHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT ACTION UHD" tvg-logo="http://103.176.90.92/picons/691305.png" group-title="ITALY UHD/4K",IT| SKY SPORT ACTION UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691305
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT ACTION 4K" tvg-logo="http://103.176.90.118/piconsnew/skysportaction.png" group-title="ITALY UHD/4K",IT| SKY SPORT ACTION 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT ACTION 4K" tvg-logo="http://103.176.90.92/picons/691304.png" group-title="ITALY UHD/4K",IT| SKY SPORT ACTION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691304
 #EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT| SKY CRIME INVEST UHD" tvg-logo="http://103.176.90.92/picons/691303.png" group-title="ITALY UHD/4K",IT| SKY CRIME INVEST UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691303
@@ -171,9 +171,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/691302
 http://line.protv.cc:80/9338741459/79615db6da37/691301
 #EXTINF:-1 tvg-id="Classica.it" tvg-name="IT| CLASSICA UHD" tvg-logo="http://103.176.90.118/piconsnew/classica.png" group-title="ITALY UHD/4K",IT| CLASSICA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691300
-#EXTINF:-1 tvg-id="MTV.it" tvg-name="IT| MTV  UHD" tvg-logo="http://103.176.90.118/piconsnew/mtv.png" group-title="ITALY UHD/4K",IT| MTV  UHD
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="IT| MTV  UHD" tvg-logo="http://103.176.90.92/picons/691298.png" group-title="ITALY UHD/4K",IT| MTV  UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691298
-#EXTINF:-1 tvg-id="MTV.it" tvg-name="IT| MTV 4K" tvg-logo="http://103.176.90.118/piconsnew/mtv.png" group-title="ITALY UHD/4K",IT| MTV 4K
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="IT| MTV 4K" tvg-logo="http://103.176.90.92/picons/691297.png" group-title="ITALY UHD/4K",IT| MTV 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691297
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="IT| SUPER TENNIS 4K" tvg-logo="http://103.176.90.92/picons/691286.png" group-title="ITALY UHD/4K",IT| SUPER TENNIS 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691286
@@ -181,37 +181,37 @@ http://line.protv.cc:80/9338741459/79615db6da37/691286
 http://line.protv.cc:80/9338741459/79615db6da37/691285
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="IT| MOTORTREND" tvg-logo="http://103.176.90.92/picons/691284.png" group-title="ITALY UHD/4K",IT| MOTORTREND
 http://line.protv.cc:80/9338741459/79615db6da37/691284
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="IT| SKY SPORT 24 UHD" tvg-logo="http://103.176.90.118/piconsnew/skysport24.png" group-title="ITALY UHD/4K",IT| SKY SPORT 24 UHD
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="IT| SKY SPORT 24 UHD" tvg-logo="http://103.176.90.92/picons/691283.png" group-title="ITALY UHD/4K",IT| SKY SPORT 24 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691283
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="IT| SKY SPORT 24 4K" tvg-logo="http://103.176.90.118/piconsnew/skysport24.png" group-title="ITALY UHD/4K",IT| SKY SPORT 24 4K
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="IT| SKY SPORT 24 4K" tvg-logo="http://103.176.90.92/picons/691282.png" group-title="ITALY UHD/4K",IT| SKY SPORT 24 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691282
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportnba.png" group-title="ITALY UHD/4K",IT| SKY SPORT NBA UHD
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA UHD" tvg-logo="http://103.176.90.92/picons/691281.png" group-title="ITALY UHD/4K",IT| SKY SPORT NBA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691281
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA 4K" tvg-logo="http://103.176.90.118/piconsnew/skysportnba.png" group-title="ITALY UHD/4K",IT| SKY SPORT NBA 4K
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA 4K" tvg-logo="http://103.176.90.92/picons/691280.png" group-title="ITALY UHD/4K",IT| SKY SPORT NBA 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691280
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportuno.png" group-title="ITALY UHD/4K",IT| SKY SPORT UNO UHD
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO UHD" tvg-logo="http://103.176.90.92/picons/691279.png" group-title="ITALY UHD/4K",IT| SKY SPORT UNO UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691279
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO 4K" tvg-logo="http://103.176.90.118/piconsnew/skysportuno.png" group-title="ITALY UHD/4K",IT| SKY SPORT UNO 4K
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO 4K" tvg-logo="http://103.176.90.92/picons/691278.png" group-title="ITALY UHD/4K",IT| SKY SPORT UNO 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691278
-#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="IT| SKY SPORT FOOTBALL UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportfootball.png" group-title="ITALY UHD/4K",IT| SKY SPORT FOOTBALL UHD
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="IT| SKY SPORT FOOTBALL UHD" tvg-logo="http://103.176.90.92/picons/691277.png" group-title="ITALY UHD/4K",IT| SKY SPORT FOOTBALL UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691277
 #EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="IT| SKY SPORT FOOTBALL 4K" tvg-logo="http://103.176.90.92/picons/691276.png" group-title="ITALY UHD/4K",IT| SKY SPORT FOOTBALL 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691276
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="IT| SKY SPORT ARENA UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportarena.png" group-title="ITALY UHD/4K",IT| SKY SPORT ARENA UHD
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="IT| SKY SPORT ARENA UHD" tvg-logo="http://103.176.90.92/picons/691275.png" group-title="ITALY UHD/4K",IT| SKY SPORT ARENA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691275
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="IT| SKY SPORT ARENA 4K" tvg-logo="http://103.176.90.118/piconsnew/skysportarena.png" group-title="ITALY UHD/4K",IT| SKY SPORT ARENA 4K
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="IT| SKY SPORT ARENA 4K" tvg-logo="http://103.176.90.92/picons/691274.png" group-title="ITALY UHD/4K",IT| SKY SPORT ARENA 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691274
 #EXTINF:-1 tvg-id="SkySportCollection.it" tvg-name="IT| SKY SPORT COLLECTION UHD" tvg-logo="http://103.176.90.92/picons/691273.png" group-title="ITALY UHD/4K",IT| SKY SPORT COLLECTION UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691273
 #EXTINF:-1 tvg-id="SkySportCollection.it" tvg-name="IT| SKY SPORT COLLECTION 4K" tvg-logo="http://103.176.90.92/picons/691272.png" group-title="ITALY UHD/4K",IT| SKY SPORT COLLECTION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691272
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="IT| SKY SPORT F1 UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportf1.png" group-title="ITALY UHD/4K",IT| SKY SPORT F1 UHD
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="IT| SKY SPORT F1 UHD" tvg-logo="http://103.176.90.92/picons/691271.png" group-title="ITALY UHD/4K",IT| SKY SPORT F1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691271
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="IT| SKY SPORT F1 4K" tvg-logo="http://103.176.90.118/piconsnew/skysportf1.png" group-title="ITALY UHD/4K",IT| SKY SPORT F1 4K
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="IT| SKY SPORT F1 4K" tvg-logo="http://103.176.90.92/picons/691270.png" group-title="ITALY UHD/4K",IT| SKY SPORT F1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691270
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="IT| SKY SPORT MOTOGP UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportmotogp.png" group-title="ITALY UHD/4K",IT| SKY SPORT MOTOGP UHD
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="IT| SKY SPORT MOTOGP UHD" tvg-logo="http://103.176.90.92/picons/691269.png" group-title="ITALY UHD/4K",IT| SKY SPORT MOTOGP UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691269
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="IT| SKY SPORT MOTOGP 4K" tvg-logo="http://103.176.90.118/piconsnew/skysportmotogp.png" group-title="ITALY UHD/4K",IT| SKY SPORT MOTOGP 4K
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="IT| SKY SPORT MOTOGP 4K" tvg-logo="http://103.176.90.92/picons/691268.png" group-title="ITALY UHD/4K",IT| SKY SPORT MOTOGP 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691268
 #EXTINF:-1 tvg-id="Eurosport.it" tvg-name="IT| SKY EUROSPORT 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport1.png" group-title="ITALY UHD/4K",IT| SKY EUROSPORT 1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691267
@@ -225,13 +225,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/691264
 http://line.protv.cc:80/9338741459/79615db6da37/691263
 #EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="IT| SKY PESCA UHD" tvg-logo="http://103.176.90.92/picons/691262.png" group-title="ITALY UHD/4K",IT| SKY PESCA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691262
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT CALCIO UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="ITALY UHD/4K",IT| SKY SPORT CALCIO UHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT CALCIO UHD" tvg-logo="http://103.176.90.92/picons/691261.png" group-title="ITALY UHD/4K",IT| SKY SPORT CALCIO UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691261
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-EUROSPORT-2.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 1 UHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 UHD" tvg-logo="http://103.176.90.92/picons/691259.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691259
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT CALCIO 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="ITALY UHD/4K",IT| SKY SPORT CALCIO 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT CALCIO 4K" tvg-logo="http://103.176.90.92/picons/691260.png" group-title="ITALY UHD/4K",IT| SKY SPORT CALCIO 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691260
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-EUROSPORT-2.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 1 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 4K" tvg-logo="http://103.176.90.92/picons/691258.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691258
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-EUROSPORT-2.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 2 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691257
@@ -253,7 +253,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691250
 http://line.protv.cc:80/9338741459/79615db6da37/691249
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 7 UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 7 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691248
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 7 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 7 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 7 4K" tvg-logo="http://103.176.90.92/picons/691247.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 7 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691247
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="IT| SKY MILAN TV UHD" tvg-logo="http://103.176.90.92/picons/691246.png" group-title="ITALY UHD/4K",IT| SKY MILAN TV UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691246
@@ -269,7 +269,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/728648
 http://line.protv.cc:80/9338741459/79615db6da37/691242
 #EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| SKY DAZN 1 4K" tvg-logo="http://103.176.90.92/picons/691241.png" group-title="ITALY UHD/4K",IT| SKY DAZN 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691241
-#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| SKY ARTE UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-ARTE.png" group-title="ITALY UHD/4K",IT| SKY ARTE UHD
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| SKY ARTE UHD" tvg-logo="http://103.176.90.92/picons/691240.png" group-title="ITALY UHD/4K",IT| SKY ARTE UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691240
 #EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| SKY ARTE 4K" tvg-logo="http://103.176.90.92/picons/691239.png" group-title="ITALY UHD/4K",IT| SKY ARTE 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691239
@@ -277,13 +277,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/691239
 http://line.protv.cc:80/9338741459/79615db6da37/691234
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="IT| SKY DISCOVERY  4K" tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-HD.png" group-title="ITALY UHD/4K",IT| SKY DISCOVERY  4K
 http://line.protv.cc:80/9338741459/79615db6da37/691233
-#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="IT| SKY  DISCOVERY SCI UHD" tvg-logo="http://103.176.90.118/picons/logos/discoverysciencehd.png" group-title="ITALY UHD/4K",IT| SKY  DISCOVERY SCI UHD
+#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="IT| SKY  DISCOVERY SCI UHD" tvg-logo="http://103.176.90.92/picons/691232.png" group-title="ITALY UHD/4K",IT| SKY  DISCOVERY SCI UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691232
-#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="IT| SKY DISCOVERY SCI 4K" tvg-logo="http://103.176.90.118/picons/logos/discoverysciencehd.png" group-title="ITALY UHD/4K",IT| SKY DISCOVERY SCI 4K
+#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="IT| SKY DISCOVERY SCI 4K" tvg-logo="http://103.176.90.92/picons/691231.png" group-title="ITALY UHD/4K",IT| SKY DISCOVERY SCI 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691231
-#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="IT| SKY HISTORY UHD" tvg-logo="http://103.176.90.118/piconsnew/skyhistory.png" group-title="ITALY UHD/4K",IT| SKY HISTORY UHD
+#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="IT| SKY HISTORY UHD" tvg-logo="http://103.176.90.92/picons/691230.png" group-title="ITALY UHD/4K",IT| SKY HISTORY UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691230
-#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="IT| SKY HISTORY 4K" tvg-logo="http://103.176.90.118/piconsnew/skyhistory.png" group-title="ITALY UHD/4K",IT| SKY HISTORY 4K
+#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="IT| SKY HISTORY 4K" tvg-logo="http://103.176.90.92/picons/691229.png" group-title="ITALY UHD/4K",IT| SKY HISTORY 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691229
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="IT| RAI STORIA UHD" tvg-logo="http://103.176.90.92/picons/691228.png" group-title="ITALY UHD/4K",IT| RAI STORIA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691228
@@ -299,13 +299,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/691223
 http://line.protv.cc:80/9338741459/79615db6da37/691222
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="IT| FOCUS HD" tvg-logo="http://103.176.90.92/picons/691221.png" group-title="ITALY UHD/4K",IT| FOCUS HD
 http://line.protv.cc:80/9338741459/79615db6da37/691221
-#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="IT| SKY DEAKIDS UHD" tvg-logo="http://103.176.90.118/picons/logos/deakids.png" group-title="ITALY UHD/4K",IT| SKY DEAKIDS UHD
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="IT| SKY DEAKIDS UHD" tvg-logo="http://103.176.90.92/picons/691218.png" group-title="ITALY UHD/4K",IT| SKY DEAKIDS UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691218
 #EXTINF:-1 tvg-id="DeAKids.it" tvg-name="IT| SKY DEAKIDS 4K" tvg-logo="http://103.176.90.92/picons/691217.png" group-title="ITALY UHD/4K",IT| SKY DEAKIDS 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691217
 #EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| SKY NICKJR UHD" tvg-logo="http://103.176.90.118/picons/logos/nickjrhd.png" group-title="ITALY UHD/4K",IT| SKY NICKJR UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691216
-#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| SKY NICKJR 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-NICKJR.png" group-title="ITALY UHD/4K",IT| SKY NICKJR 4K
+#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| SKY NICKJR 4K" tvg-logo="http://103.176.90.92/picons/691215.png" group-title="ITALY UHD/4K",IT| SKY NICKJR 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691215
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| SKY NICKELODEON UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-NICKJR.png" group-title="ITALY UHD/4K",IT| SKY NICKELODEON UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691214
@@ -313,7 +313,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691214
 http://line.protv.cc:80/9338741459/79615db6da37/691213
 #EXTINF:-1 tvg-id="Boomerang.it" tvg-name="IT| SKY BOOMERANG UHD" tvg-logo="http://103.176.90.92/picons/691212.png" group-title="ITALY UHD/4K",IT| SKY BOOMERANG UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691212
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| SKY CARTOON NETWORK UHD" tvg-logo="http://103.176.90.118/piconsnew/cartoonnetwork.png" group-title="ITALY UHD/4K",IT| SKY CARTOON NETWORK UHD
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| SKY CARTOON NETWORK UHD" tvg-logo="http://103.176.90.92/picons/691211.png" group-title="ITALY UHD/4K",IT| SKY CARTOON NETWORK UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691211
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| SKY CARTOON NETWORK 4K" tvg-logo="http://103.176.90.92/picons/691210.png" group-title="ITALY UHD/4K",IT| SKY CARTOON NETWORK 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691210
@@ -329,7 +329,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691204
 http://line.protv.cc:80/9338741459/79615db6da37/691203
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="IT| BOING" tvg-logo="http://103.176.90.92/picons/691202.png" group-title="ITALY UHD/4K",IT| BOING
 http://line.protv.cc:80/9338741459/79615db6da37/691202
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="IT| CARTOONITO" tvg-logo="http://103.176.90.118/picons/logos/cartoonito.png" group-title="ITALY UHD/4K",IT| CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="IT| CARTOONITO" tvg-logo="http://103.176.90.92/picons/691201.png" group-title="ITALY UHD/4K",IT| CARTOONITO
 http://line.protv.cc:80/9338741459/79615db6da37/691201
 #EXTINF:-1 tvg-id="K2.it" tvg-name="IT| K2" tvg-logo="http://103.176.90.92/picons/691200.png" group-title="ITALY UHD/4K",IT| K2
 http://line.protv.cc:80/9338741459/79615db6da37/691200
@@ -339,7 +339,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691199
 http://line.protv.cc:80/9338741459/79615db6da37/691198
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="IT| EURONEWS ITA" tvg-logo="http://103.176.90.92/picons/691197.png" group-title="ITALY UHD/4K",IT| EURONEWS ITA
 http://line.protv.cc:80/9338741459/79615db6da37/691197
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT| SKY TG24 UHD" tvg-logo="http://103.176.90.118/picons/logos/skytg24hd.png" group-title="ITALY UHD/4K",IT| SKY TG24 UHD
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT| SKY TG24 UHD" tvg-logo="http://103.176.90.92/picons/691195.png" group-title="ITALY UHD/4K",IT| SKY TG24 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691195
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT| SKY TG24 4K" tvg-logo="http://103.176.90.92/picons/691194.png" group-title="ITALY UHD/4K",IT| SKY TG24 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691194
@@ -361,9 +361,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/691594
 http://line.protv.cc:80/9338741459/79615db6da37/691593
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="IT| DMAX HEVC" tvg-logo="http://103.176.90.92/picons/691591.png" group-title="ITALY FHD/HEVC",IT| DMAX HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691591
-#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="IT| BABY TV HEVC" tvg-logo="http://103.176.90.118/picons/logos/BABY-TV-HD.png" group-title="ITALY FHD/HEVC",IT| BABY TV HEVC
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="IT| BABY TV HEVC" tvg-logo="http://103.176.90.92/picons/691590.png" group-title="ITALY FHD/HEVC",IT| BABY TV HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691590
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="IT| TV 8 HEVC" tvg-logo="http://103.176.90.118/picons/logos/tv8.png" group-title="ITALY FHD/HEVC",IT| TV 8 HEVC
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="IT| TV 8 HEVC" tvg-logo="http://103.176.90.92/picons/691589.png" group-title="ITALY FHD/HEVC",IT| TV 8 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691589
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT| SKY TG24 HEVC" tvg-logo="http://103.176.90.92/picons/691588.png" group-title="ITALY FHD/HEVC",IT| SKY TG24 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691588
@@ -381,7 +381,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691583
 http://line.protv.cc:80/9338741459/79615db6da37/691582
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="IT| SKY DISCOVERY HEVC" tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-HD.png" group-title="ITALY FHD/HEVC",IT| SKY DISCOVERY HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691581
-#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="IT| SKY DISCOVERY SCI HEVC" tvg-logo="http://103.176.90.118/picons/logos/discoverysciencehd.png" group-title="ITALY FHD/HEVC",IT| SKY DISCOVERY SCI HEVC
+#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="IT| SKY DISCOVERY SCI HEVC" tvg-logo="http://103.176.90.92/picons/691580.png" group-title="ITALY FHD/HEVC",IT| SKY DISCOVERY SCI HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691580
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY HISTORY HEVC" tvg-logo="http://103.176.90.92/picons/691579.png" group-title="ITALY FHD/HEVC",IT| SKY HISTORY HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691579
@@ -393,9 +393,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/691575
 http://line.protv.cc:80/9338741459/79615db6da37/691574
 #EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| SKY NICK JR HEVC" tvg-logo="http://103.176.90.92/picons/691573.png" group-title="ITALY FHD/HEVC",IT| SKY NICK JR HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691573
-#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT| SKY CRIME INVESTIGATION HEVC" tvg-logo="http://103.176.90.118/picons/logos/CI-CRIME-INVESTIGATION-HD.png" group-title="ITALY FHD/HEVC",IT| SKY CRIME INVESTIGATION HEVC
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT| SKY CRIME INVESTIGATION HEVC" tvg-logo="http://103.176.90.92/picons/691568.png" group-title="ITALY FHD/HEVC",IT| SKY CRIME INVESTIGATION HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691568
-#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC HEVC" tvg-logo="http://103.176.90.118/picons/logos/skyatlantic.png" group-title="ITALY FHD/HEVC",IT| SKY ATLANTIC HEVC
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC HEVC" tvg-logo="http://103.176.90.92/picons/691566.png" group-title="ITALY FHD/HEVC",IT| SKY ATLANTIC HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691566
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="IT| SKY COMEDY CENTRAL HEVC" tvg-logo="http://103.176.90.92/picons/691565.png" group-title="ITALY FHD/HEVC",IT| SKY COMEDY CENTRAL HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691565
@@ -421,7 +421,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691556
 http://line.protv.cc:80/9338741459/79615db6da37/691555
 #EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="IT| SKY CINEMA COLLECTION HEVC" tvg-logo="http://103.176.90.92/picons/691554.png" group-title="ITALY FHD/HEVC",IT| SKY CINEMA COLLECTION HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691554
-#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION HEVC" tvg-logo="http://103.176.90.118/picons/logos/skycinemaaction.png" group-title="ITALY FHD/HEVC",IT| SKY CINEMA ACTION HEVC
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION HEVC" tvg-logo="http://103.176.90.92/picons/691553.png" group-title="ITALY FHD/HEVC",IT| SKY CINEMA ACTION HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691553
 #EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="IT| SKY PREMIUM CINEMA 1 HEVC" tvg-logo="http://103.176.90.92/picons/691552.png" group-title="ITALY FHD/HEVC",IT| SKY PREMIUM CINEMA 1 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691552
@@ -445,9 +445,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/691539
 http://line.protv.cc:80/9338741459/79615db6da37/691538
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="IT| SKY SPORT MOTO GP HEVC" tvg-logo="http://103.176.90.92/picons/691537.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT MOTO GP HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691537
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="IT| SKY SPORT F1 HEVC" tvg-logo="http://103.176.90.118/picons/logos/skysportf1hd.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT F1 HEVC
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="IT| SKY SPORT F1 HEVC" tvg-logo="http://103.176.90.92/picons/691536.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT F1 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691536
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT TENNIS HEVC" tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORT-TENNIS.jpeg" group-title="ITALY FHD/HEVC",IT| SKY SPORT TENNIS HEVC
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT TENNIS HEVC" tvg-logo="http://103.176.90.92/picons/691535.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT TENNIS HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691535
 #EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="IT| SKY SPORT ARENA HEVC" tvg-logo="http://103.176.90.92/picons/691534.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT ARENA HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691534
@@ -457,7 +457,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691532
 http://line.protv.cc:80/9338741459/79615db6da37/691531
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT 24 HEVC" tvg-logo="http://103.176.90.92/picons/691530.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT 24 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691530
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 HEVC" tvg-logo="http://103.176.90.118/picons/logos/skycalcio1-phibruspel.png" group-title="ITALY FHD/HEVC",IT| SKY CALCIO 1 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 HEVC" tvg-logo="http://103.176.90.92/picons/691529.png" group-title="ITALY FHD/HEVC",IT| SKY CALCIO 1 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691529
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 HEVC" tvg-logo="http://103.176.90.118/picons/logos/skycalcio2hd-phibruspel.png" group-title="ITALY FHD/HEVC",IT| SKY CALCIO 2 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691528
@@ -503,13 +503,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/1686892
 http://line.protv.cc:80/9338741459/79615db6da37/1686891
 #EXTINF:-1 tvg-id="SkyNature.it" tvg-name="IT| NOW SKY NATURE ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-NATURE.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW SKY NATURE ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686890
-#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| NOW SKY ARTE ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-ARTE.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW SKY ARTE ᴴᴰ ◉
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| NOW SKY ARTE ᴴᴰ ◉" tvg-logo="http://103.176.90.92/picons/1686889.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW SKY ARTE ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686889
 #EXTINF:-1 tvg-id="" tvg-name="IT| NOW Sky Tg 24 ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/Sky-Tg-24.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW Sky Tg 24 ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686888
 #EXTINF:-1 tvg-id="SkyUno.it" tvg-name="IT| NOW SKY UNO ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-UNO.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW SKY UNO ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686887
-#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| NOW SKY ATLANTIC ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-ATLANTIC.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW SKY ATLANTIC ᴴᴰ ◉
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| NOW SKY ATLANTIC ᴴᴰ ◉" tvg-logo="http://103.176.90.92/picons/1686886.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW SKY ATLANTIC ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686886
 #EXTINF:-1 tvg-id="SkySerie.it" tvg-name="IT| NOW SKY SERIE ᴴᴰ ◉" tvg-logo="http://103.176.90.92/picons/1686885.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW SKY SERIE ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686885
@@ -521,13 +521,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/1686883
 http://line.protv.cc:80/9338741459/79615db6da37/1686882
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="IT| NOW COMEDY CENTRAL ᴴᴰ ◉" tvg-logo="http://103.176.90.92/picons/1686881.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW COMEDY CENTRAL ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686881
-#EXTINF:-1 tvg-id="" tvg-name="IT| NOW MTV ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/MTV.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW MTV ᴴᴰ ◉
+#EXTINF:-1 tvg-id="" tvg-name="IT| NOW MTV ᴴᴰ ◉" tvg-logo="http://103.176.90.92/picons/1686880.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW MTV ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686880
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| NOW CARTOON NETWORK ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/CARTOONNETWORK.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW CARTOON NETWORK ᴴᴰ ◉
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| NOW CARTOON NETWORK ᴴᴰ ◉" tvg-logo="http://103.176.90.92/picons/1686879.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW CARTOON NETWORK ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686879
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| NOW NICKELODEON ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/logos/nickelodeon.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW NICKELODEON ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686878
-#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="IT| NOW DEAKIDS ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/DEAKIDS.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW DEAKIDS ᴴᴰ ◉
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="IT| NOW DEAKIDS ᴴᴰ ◉" tvg-logo="http://103.176.90.92/picons/1686877.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW DEAKIDS ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686877
 #EXTINF:-1 tvg-id="" tvg-name="IT| NOW NICKJR ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/logos/nickjr.png" group-title="IT| NOW DIVERTIMENTO ᴴᴰ",IT| NOW NICKJR ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686876
@@ -555,7 +555,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1686865
 http://line.protv.cc:80/9338741459/79615db6da37/1686864
 #EXTINF:-1 tvg-id="SkyNature.it" tvg-name="IT| NOW SKY NATURE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-NATURE.png" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ",IT| NOW SKY NATURE ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686863
-#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| NOW SKY ARTE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-ARTE.png" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ",IT| NOW SKY ARTE ᴿᴬᵂ
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| NOW SKY ARTE ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1686862.png" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ",IT| NOW SKY ARTE ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686862
 #EXTINF:-1 tvg-id="" tvg-name="IT| NOW Sky Tg 24 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/ITALY/Sky-Tg-24.png" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ",IT| NOW Sky Tg 24 ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686861
@@ -579,7 +579,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1686853
 http://line.protv.cc:80/9338741459/79615db6da37/1686852
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| NOW NICKELODEON ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/nickelodeon.png" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ",IT| NOW NICKELODEON ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686851
-#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="IT| NOW DEAKIDS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/ITALY/DEAKIDS.png" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ",IT| NOW DEAKIDS ᴿᴬᵂ
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="IT| NOW DEAKIDS ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1686850.png" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ",IT| NOW DEAKIDS ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686850
 #EXTINF:-1 tvg-id="" tvg-name="IT| NOW NICKJR ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/nickjr.png" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ",IT| NOW NICKJR ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686849
@@ -593,7 +593,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692856
 http://line.protv.cc:80/9338741459/79615db6da37/773718
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI NEWS 24 (NA)" tvg-logo="http://103.176.90.92/picons/692855.png" group-title="IT| GENERALE",IT| RAI NEWS 24 (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/692855
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT| SKY TG24 (NA)" tvg-logo="http://103.176.90.118/piconsnew/skytg24.png" group-title="IT| GENERALE",IT| SKY TG24 (NA)
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT| SKY TG24 (NA)" tvg-logo="http://103.176.90.92/picons/692854.png" group-title="IT| GENERALE",IT| SKY TG24 (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/692854
 #EXTINF:-1 tvg-id="" tvg-name="IT| TELEBIMBI (NA)" tvg-logo="http://103.176.90.92/picons/692853.png" group-title="IT| GENERALE",IT| TELEBIMBI (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/692853
@@ -699,7 +699,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692559
 http://line.protv.cc:80/9338741459/79615db6da37/692558
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY EXPLORER TV FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-EXPLORER.png" group-title="IT| GENERALE",IT| SKY EXPLORER TV FHD
 http://line.protv.cc:80/9338741459/79615db6da37/846969
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY EXPLORER TV HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-EXPLORER.png" group-title="IT| GENERALE",IT| SKY EXPLORER TV HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY EXPLORER TV HD" tvg-logo="http://103.176.90.92/picons/846968.png" group-title="IT| GENERALE",IT| SKY EXPLORER TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/846968
 #EXTINF:-1 tvg-id="SpikeTV.it" tvg-name="IT| SPIKE" tvg-logo="http://103.176.90.92/picons/692556.png" group-title="IT| GENERALE",IT| SPIKE
 http://line.protv.cc:80/9338741459/79615db6da37/692556
@@ -717,7 +717,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692551
 http://line.protv.cc:80/9338741459/79615db6da37/692550
 #EXTINF:-1 tvg-id="" tvg-name="IT| CANALE EUROPA" tvg-logo="http://103.176.90.92/picons/692549.png" group-title="IT| GENERALE",IT| CANALE EUROPA
 http://line.protv.cc:80/9338741459/79615db6da37/692549
-#EXTINF:-1 tvg-id="" tvg-name="IT| FASHION TV" tvg-logo="http://103.176.90.118/piconsnew/fashion.png" group-title="IT| GENERALE",IT| FASHION TV
+#EXTINF:-1 tvg-id="" tvg-name="IT| FASHION TV" tvg-logo="http://103.176.90.92/picons/692548.png" group-title="IT| GENERALE",IT| FASHION TV
 http://line.protv.cc:80/9338741459/79615db6da37/692548
 #EXTINF:-1 tvg-id="" tvg-name="IT| SOFY.TV" tvg-logo="http://103.176.90.92/picons/692545.png" group-title="IT| GENERALE",IT| SOFY.TV
 http://line.protv.cc:80/9338741459/79615db6da37/692545
@@ -757,7 +757,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692527
 http://line.protv.cc:80/9338741459/79615db6da37/692526
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="IT| TOP CRIME" tvg-logo="http://103.176.90.92/picons/692525.png" group-title="IT| GENERALE",IT| TOP CRIME
 http://line.protv.cc:80/9338741459/79615db6da37/692525
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="IT| TV 8" tvg-logo="http://103.176.90.118/piconsnew/tv8.png" group-title="IT| GENERALE",IT| TV 8
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="IT| TV 8" tvg-logo="http://103.176.90.92/picons/692524.png" group-title="IT| GENERALE",IT| TV 8
 http://line.protv.cc:80/9338741459/79615db6da37/692524
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="IT| TV2000" tvg-logo="http://103.176.90.92/picons/692523.png" group-title="IT| GENERALE",IT| TV2000
 http://line.protv.cc:80/9338741459/79615db6da37/692523
@@ -781,7 +781,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692514
 http://line.protv.cc:80/9338741459/79615db6da37/692513
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="IT| RTL 102.5 HD" tvg-logo="http://103.176.90.92/picons/692512.png" group-title="IT| GENERALE",IT| RTL 102.5 HD
 http://line.protv.cc:80/9338741459/79615db6da37/692512
-#EXTINF:-1 tvg-id="" tvg-name="IT| VH1" tvg-logo="http://103.176.90.118/piconsnew/vh1.png" group-title="IT| GENERALE",IT| VH1
+#EXTINF:-1 tvg-id="" tvg-name="IT| VH1" tvg-logo="http://103.176.90.92/picons/692511.png" group-title="IT| GENERALE",IT| VH1
 http://line.protv.cc:80/9338741459/79615db6da37/692511
 #EXTINF:-1 tvg-id="" tvg-name="IT| TELE NORBA" tvg-logo="http://103.176.90.92/picons/721175.png" group-title="IT| GENERALE",IT| TELE NORBA
 http://line.protv.cc:80/9338741459/79615db6da37/721175
@@ -857,9 +857,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/728721
 http://line.protv.cc:80/9338741459/79615db6da37/728718
 #EXTINF:-1 tvg-id="" tvg-name="IT| SAN MARINO RTV HD" tvg-logo="http://103.176.90.92/picons/728717.png" group-title="IT| REGIONALI",IT| SAN MARINO RTV HD
 http://line.protv.cc:80/9338741459/79615db6da37/728717
-#EXTINF:-1 tvg-id="" tvg-name="IT| SUPER TV BRESCIA HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SUPER-TV-BRESCIA.png" group-title="IT| REGIONALI",IT| SUPER TV BRESCIA HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| SUPER TV BRESCIA HD" tvg-logo="http://103.176.90.92/picons/728713.png" group-title="IT| REGIONALI",IT| SUPER TV BRESCIA HD
 http://line.protv.cc:80/9338741459/79615db6da37/728713
-#EXTINF:-1 tvg-id="" tvg-name="IT| TELE QUATTRO" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TELE-QUATTRO.png" group-title="IT| REGIONALI",IT| TELE QUATTRO
+#EXTINF:-1 tvg-id="" tvg-name="IT| TELE QUATTRO" tvg-logo="http://103.176.90.92/picons/728712.png" group-title="IT| REGIONALI",IT| TELE QUATTRO
 http://line.protv.cc:80/9338741459/79615db6da37/728712
 #EXTINF:-1 tvg-id="" tvg-name="IT| TELECHIARA HD" tvg-logo="http://103.176.90.92/picons/728709.png" group-title="IT| REGIONALI",IT| TELECHIARA HD
 http://line.protv.cc:80/9338741459/79615db6da37/728709
@@ -887,7 +887,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/728688
 http://line.protv.cc:80/9338741459/79615db6da37/728687
 #EXTINF:-1 tvg-id="" tvg-name="IT| VIDEOLINA (SARDEGNA)" tvg-logo="http://103.176.90.92/picons/728686.png" group-title="IT| REGIONALI",IT| VIDEOLINA (SARDEGNA)
 http://line.protv.cc:80/9338741459/79615db6da37/728686
-#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION 4K" tvg-logo="http://103.176.90.118/piconsnew/skycinemaaction.png" group-title="IT| CINEMA",IT| SKY CINEMA ACTION 4K
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION 4K" tvg-logo="http://103.176.90.92/picons/692105.png" group-title="IT| CINEMA",IT| SKY CINEMA ACTION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692105
 #EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="IT| SKY CINEMA ACTION HD" tvg-logo="http://103.176.90.92/picons/692104.png" group-title="IT| CINEMA",IT| SKY CINEMA ACTION HD
 http://line.protv.cc:80/9338741459/79615db6da37/692104
@@ -959,7 +959,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692072
 http://line.protv.cc:80/9338741459/79615db6da37/692071
 #EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| SKY ARTE HD" tvg-logo="http://103.176.90.92/picons/692070.png" group-title="IT| CINEMA",IT| SKY ARTE HD
 http://line.protv.cc:80/9338741459/79615db6da37/692070
-#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC 4K" tvg-logo="http://103.176.90.118/piconsnew/skyatlantic.png" group-title="IT| CINEMA",IT| SKY ATLANTIC 4K
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC 4K" tvg-logo="http://103.176.90.92/picons/692069.png" group-title="IT| CINEMA",IT| SKY ATLANTIC 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692069
 #EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="IT| SKY ATLANTIC HD" tvg-logo="http://103.176.90.92/picons/692068.png" group-title="IT| CINEMA",IT| SKY ATLANTIC HD
 http://line.protv.cc:80/9338741459/79615db6da37/692068
@@ -1503,7 +1503,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1630324
 http://line.protv.cc:80/9338741459/79615db6da37/1630323
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN EUROSPORT 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1630322
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - KANE COUNTY COUGARS V LEÑADORES DE LAS TUNAS | Thu 10 Apr 19:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - KANE COUNTY COUGARS V LEÑADORES DE LAS TUNAS | Thu 10 Apr 19:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - BIRMINGHAM STALLIONS - ARLINGTON RENEGADES | Fri 11 Apr 23:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - BIRMINGHAM STALLIONS - ARLINGTON RENEGADES | Fri 11 Apr 23:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630321
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630320
@@ -1517,7 +1517,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1630317
 http://line.protv.cc:80/9338741459/79615db6da37/1630316
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630315
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 8 - TIGRES DE CHINANDEGA V SANTA MARIA PIRATES | Fri 11 Apr 19:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 8 - TIGRES DE CHINANDEGA V SANTA MARIA PIRATES | Fri 11 Apr 19:50 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630314
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630313
@@ -1703,9 +1703,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/1637126
 http://line.protv.cc:80/9338741459/79615db6da37/1637125
 #EXTINF:-1 tvg-id="" tvg-name="IT: D+ PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="IT| DISCOVERY+",IT: D+ PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1637124
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 1 - WWE - FRIDAY NIGHT SMACKDOWN IN DIRETTA | Fri 11 Apr 23:55 | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 1 - WWE - FRIDAY NIGHT SMACKDOWN IN DIRETTA | Fri 11 Apr 23:55 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793364
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 2 - PFL WORLD TOURNAMENT: BANTAMWEIGHTS & WOMEN’S FLYWEIGHTS | Sat 12 Apr 00:27 | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 2 - PFL WORLD TOURNAMENT: BANTAMWEIGHTS & WOMEN’S FLYWEIGHTS | Sat 12 Apr 00:27 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793363
 #EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793362
@@ -2043,19 +2043,19 @@ http://line.protv.cc:80/9338741459/79615db6da37/692417
 http://line.protv.cc:80/9338741459/79615db6da37/692416
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT CALCIO SD" tvg-logo="http://103.176.90.92/picons/692415.png" group-title="IT| SPORT",IT| SKY SPORT CALCIO SD
 http://line.protv.cc:80/9338741459/79615db6da37/692415
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 4K" tvg-logo="http://103.176.90.118/picons/logos/skycalcio1-phibruspel.png" group-title="IT| SPORT",IT| SKY CALCIO 1 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 4K" tvg-logo="http://103.176.90.92/picons/692414.png" group-title="IT| SPORT",IT| SKY CALCIO 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692414
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 HD" tvg-logo="http://103.176.90.92/picons/692413.png" group-title="IT| SPORT",IT| SKY CALCIO 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/692413
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 SD" tvg-logo="http://103.176.90.92/picons/692412.png" group-title="IT| SPORT",IT| SKY CALCIO 1 SD
 http://line.protv.cc:80/9338741459/79615db6da37/692412
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 4K" tvg-logo="http://103.176.90.118/picons/logos/skycalcio2hd-phibruspel.png" group-title="IT| SPORT",IT| SKY CALCIO 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 4K" tvg-logo="http://103.176.90.92/picons/692411.png" group-title="IT| SPORT",IT| SKY CALCIO 2 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692411
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 HD" tvg-logo="http://103.176.90.92/picons/692410.png" group-title="IT| SPORT",IT| SKY CALCIO 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/692410
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 SD" tvg-logo="http://103.176.90.92/picons/692409.png" group-title="IT| SPORT",IT| SKY CALCIO 2 SD
 http://line.protv.cc:80/9338741459/79615db6da37/692409
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 4K" tvg-logo="http://103.176.90.118/picons/logos/skycalcio3-phibruspel.png" group-title="IT| SPORT",IT| SKY CALCIO 3 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 4K" tvg-logo="http://103.176.90.92/picons/692408.png" group-title="IT| SPORT",IT| SKY CALCIO 3 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692408
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 HD" tvg-logo="http://103.176.90.92/picons/692407.png" group-title="IT| SPORT",IT| SKY CALCIO 3 HD
 http://line.protv.cc:80/9338741459/79615db6da37/692407
@@ -2095,7 +2095,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692391
 http://line.protv.cc:80/9338741459/79615db6da37/692390
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT HD" tvg-logo="http://103.176.90.92/picons/692389.png" group-title="IT| SPORT",IT| SKY SPORT HD
 http://line.protv.cc:80/9338741459/79615db6da37/692389
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT LIVE 24" tvg-logo="http://103.176.90.118/picons/logos/skysport24hd.png" group-title="IT| SPORT",IT| SKY SPORT LIVE 24
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT LIVE 24" tvg-logo="http://103.176.90.92/picons/692388.png" group-title="IT| SPORT",IT| SKY SPORT LIVE 24
 http://line.protv.cc:80/9338741459/79615db6da37/692388
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="IT| SKY SUPER TENNIS 4K" tvg-logo="http://103.176.90.92/picons/692387.png" group-title="IT| SPORT",IT| SKY SUPER TENNIS 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692387
@@ -2145,7 +2145,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/902913
 http://line.protv.cc:80/9338741459/79615db6da37/902912
 #EXTINF:-1 tvg-id="" tvg-name="IT| FIFA+ 9 HD" tvg-logo="http://103.176.90.118/picons/logos/FIFA-LOGO.jpeg" group-title="IT| SPORT",IT| FIFA+ 9 HD
 http://line.protv.cc:80/9338741459/79615db6da37/902911
-#EXTINF:-1 tvg-id="" tvg-name="IT| FIFA+ 10 HD" tvg-logo="http://103.176.90.118/picons/logos/FIFA-LOGO.jpeg" group-title="IT| SPORT",IT| FIFA+ 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| FIFA+ 10 HD" tvg-logo="http://103.176.90.92/picons/902910.png" group-title="IT| SPORT",IT| FIFA+ 10 HD
 http://line.protv.cc:80/9338741459/79615db6da37/902910
 #EXTINF:-1 tvg-id="" tvg-name="IT| CHAMPIONS LEAGUE INFINITY 1 HD" tvg-logo="http://103.176.90.118/picons/logos/CHAMPIONS-LEAGUE.png" group-title="IT| SPORT",IT| CHAMPIONS LEAGUE INFINITY 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/696675
@@ -2173,7 +2173,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/696665
 http://line.protv.cc:80/9338741459/79615db6da37/696664
 #EXTINF:-1 tvg-id="Eurosport.it" tvg-name="IT| SKY EUROSPORT 1 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport1.png" group-title="IT| SPORT",IT| SKY EUROSPORT 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692365
-#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="IT| SKY EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport1.png" group-title="IT| SPORT",IT| SKY EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="IT| SKY EUROSPORT 1 HD" tvg-logo="http://103.176.90.92/picons/692364.png" group-title="IT| SPORT",IT| SKY EUROSPORT 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/692364
 #EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="IT| SKY EUROSPORT 2 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport2.png" group-title="IT| SPORT",IT| SKY EUROSPORT 2 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692363
@@ -2319,19 +2319,19 @@ http://line.protv.cc:80/9338741459/79615db6da37/692480
 http://line.protv.cc:80/9338741459/79615db6da37/692479
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="IT| BOING" tvg-logo="http://103.176.90.92/picons/692478.png" group-title="IT| BAMBINI",IT| BOING
 http://line.protv.cc:80/9338741459/79615db6da37/692478
-#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="IT| BABY TV 4K" tvg-logo="http://103.176.90.118/piconsnew/baby.png" group-title="IT| BAMBINI",IT| BABY TV 4K
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="IT| BABY TV 4K" tvg-logo="http://103.176.90.92/picons/692470.png" group-title="IT| BAMBINI",IT| BABY TV 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692470
-#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="IT| BOOMERANG 4K" tvg-logo="http://103.176.90.118/piconsnew/boomerang.png" group-title="IT| BAMBINI",IT| BOOMERANG 4K
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="IT| BOOMERANG 4K" tvg-logo="http://103.176.90.92/picons/692469.png" group-title="IT| BAMBINI",IT| BOOMERANG 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692469
-#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="IT| BOOMERANG HD" tvg-logo="http://103.176.90.118/piconsnew/boomerang.png" group-title="IT| BAMBINI",IT| BOOMERANG HD
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="IT| BOOMERANG HD" tvg-logo="http://103.176.90.92/picons/692468.png" group-title="IT| BAMBINI",IT| BOOMERANG HD
 http://line.protv.cc:80/9338741459/79615db6da37/692468
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| CARTOON NETWORK 4K" tvg-logo="http://103.176.90.118/piconsnew/cartoonnetwork.png" group-title="IT| BAMBINI",IT| CARTOON NETWORK 4K
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| CARTOON NETWORK 4K" tvg-logo="http://103.176.90.92/picons/692467.png" group-title="IT| BAMBINI",IT| CARTOON NETWORK 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692467
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| CARTOON NETWORK HD" tvg-logo="http://103.176.90.118/piconsnew/cartoonnetwork.png" group-title="IT| BAMBINI",IT| CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT| CARTOON NETWORK HD" tvg-logo="http://103.176.90.92/picons/692466.png" group-title="IT| BAMBINI",IT| CARTOON NETWORK HD
 http://line.protv.cc:80/9338741459/79615db6da37/692466
 #EXTINF:-1 tvg-id="" tvg-name="IT| YAMATO ANIMATION" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/YAMATO-ANIMATION.png" group-title="IT| BAMBINI",IT| YAMATO ANIMATION
 http://line.protv.cc:80/9338741459/79615db6da37/692465
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="IT| CARTOONITO" tvg-logo="http://103.176.90.118/piconsnew/cartoonito.png" group-title="IT| BAMBINI",IT| CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="IT| CARTOONITO" tvg-logo="http://103.176.90.92/picons/692461.png" group-title="IT| BAMBINI",IT| CARTOONITO
 http://line.protv.cc:80/9338741459/79615db6da37/692461
 #EXTINF:-1 tvg-id="" tvg-name="IT| BOING PLUS" tvg-logo="http://103.176.90.92/picons/692460.png" group-title="IT| BAMBINI",IT| BOING PLUS
 http://line.protv.cc:80/9338741459/79615db6da37/692460
@@ -2341,9 +2341,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/692472
 http://line.protv.cc:80/9338741459/79615db6da37/692471
 #EXTINF:-1 tvg-id="K2.it" tvg-name="IT| K2" tvg-logo="http://103.176.90.92/picons/692456.png" group-title="IT| BAMBINI",IT| K2
 http://line.protv.cc:80/9338741459/79615db6da37/692456
-#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| NICK JR SD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NICK-JR.png" group-title="IT| BAMBINI",IT| NICK JR SD
+#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| NICK JR SD" tvg-logo="http://103.176.90.92/picons/692455.png" group-title="IT| BAMBINI",IT| NICK JR SD
 http://line.protv.cc:80/9338741459/79615db6da37/692455
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| NICKELODEON SD" tvg-logo="http://103.176.90.118/piconsnew/nickelodeon.png" group-title="IT| BAMBINI",IT| NICKELODEON SD
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| NICKELODEON SD" tvg-logo="http://103.176.90.92/picons/692454.png" group-title="IT| BAMBINI",IT| NICKELODEON SD
 http://line.protv.cc:80/9338741459/79615db6da37/692454
 #EXTINF:-1 tvg-id="DeAKids.it" tvg-name="IT| DEA KIDS 4K" tvg-logo="http://103.176.90.92/picons/692451.png" group-title="IT| BAMBINI",IT| DEA KIDS 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692451
@@ -2351,17 +2351,17 @@ http://line.protv.cc:80/9338741459/79615db6da37/692451
 http://line.protv.cc:80/9338741459/79615db6da37/692450
 #EXTINF:-1 tvg-id="" tvg-name="IT| FRISBEE MINI" tvg-logo="http://103.176.90.92/picons/692449.png" group-title="IT| BAMBINI",IT| FRISBEE MINI
 http://line.protv.cc:80/9338741459/79615db6da37/692449
-#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| NICK JR 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NICK-JR.png" group-title="IT| BAMBINI",IT| NICK JR 4K
+#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| NICK JR 4K" tvg-logo="http://103.176.90.92/picons/692448.png" group-title="IT| BAMBINI",IT| NICK JR 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692448
-#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| NICK JR HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NICK-JR.png" group-title="IT| BAMBINI",IT| NICK JR HD
+#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT| NICK JR HD" tvg-logo="http://103.176.90.92/picons/692447.png" group-title="IT| BAMBINI",IT| NICK JR HD
 http://line.protv.cc:80/9338741459/79615db6da37/692447
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| NICKELODEON 4K" tvg-logo="http://103.176.90.118/piconsnew/nickelodeon.png" group-title="IT| BAMBINI",IT| NICKELODEON 4K
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| NICKELODEON 4K" tvg-logo="http://103.176.90.92/picons/692446.png" group-title="IT| BAMBINI",IT| NICKELODEON 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692446
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| NICKELODEON HD" tvg-logo="http://103.176.90.118/piconsnew/nickelodeon.png" group-title="IT| BAMBINI",IT| NICKELODEON HD
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT| NICKELODEON HD" tvg-logo="http://103.176.90.92/picons/692445.png" group-title="IT| BAMBINI",IT| NICKELODEON HD
 http://line.protv.cc:80/9338741459/79615db6da37/692445
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="IT| FRISBEE" tvg-logo="http://103.176.90.92/picons/117294.png" group-title="IT| BAMBINI",IT| FRISBEE
 http://line.protv.cc:80/9338741459/79615db6da37/117294
-#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT| SKY CRIME INVESTIGATION 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CRIME-INVESTIGATION.png" group-title="IT| DOCUMENTARIO",IT| SKY CRIME INVESTIGATION 4K
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT| SKY CRIME INVESTIGATION 4K" tvg-logo="http://103.176.90.92/picons/692510.png" group-title="IT| DOCUMENTARIO",IT| SKY CRIME INVESTIGATION 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692510
 #EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT| SKY CRIME INVESTIGATION HD" tvg-logo="http://103.176.90.92/picons/692509.png" group-title="IT| DOCUMENTARIO",IT| SKY CRIME INVESTIGATION HD
 http://line.protv.cc:80/9338741459/79615db6da37/692509
@@ -2387,7 +2387,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/692494
 http://line.protv.cc:80/9338741459/79615db6da37/692493
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="IT| FOCUS" tvg-logo="http://103.176.90.92/picons/692492.png" group-title="IT| DOCUMENTARIO",IT| FOCUS
 http://line.protv.cc:80/9338741459/79615db6da37/692492
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="IT| FOOD NETWORK" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-FOOD-NETWORK.png" group-title="IT| DOCUMENTARIO",IT| FOOD NETWORK
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="IT| FOOD NETWORK" tvg-logo="http://103.176.90.92/picons/692491.png" group-title="IT| DOCUMENTARIO",IT| FOOD NETWORK
 http://line.protv.cc:80/9338741459/79615db6da37/692491
 #EXTINF:-1 tvg-id="" tvg-name="IT| GAMBERO ROSSO" tvg-logo="https://logo.protv.cc/piconsnew/gamberorosso.png" group-title="IT| DOCUMENTARIO",IT| GAMBERO ROSSO
 http://line.protv.cc:80/9338741459/79615db6da37/1761710
@@ -2643,7 +2643,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/737870
 http://line.protv.cc:80/9338741459/79615db6da37/737869
 #EXTINF:-1 tvg-id="" tvg-name="IT| F1 CAR RICCIARDO" tvg-logo="http://103.176.90.118/picons/logos/f1.jpg" group-title="IT| FORMULA 1 / MOTOGP",IT| F1 CAR RICCIARDO
 http://line.protv.cc:80/9338741459/79615db6da37/737868
-#EXTINF:-1 tvg-id="" tvg-name="IT| F1 CAR ALONSO" tvg-logo="http://103.176.90.118/picons/logos/f1.jpg" group-title="IT| FORMULA 1 / MOTOGP",IT| F1 CAR ALONSO
+#EXTINF:-1 tvg-id="" tvg-name="IT| F1 CAR ALONSO" tvg-logo="http://103.176.90.92/picons/737867.png" group-title="IT| FORMULA 1 / MOTOGP",IT| F1 CAR ALONSO
 http://line.protv.cc:80/9338741459/79615db6da37/737867
 #EXTINF:-1 tvg-id="" tvg-name="IT| F1 CAR GIOVINAZZI" tvg-logo="http://103.176.90.118/picons/logos/f1.jpg" group-title="IT| FORMULA 1 / MOTOGP",IT| F1 CAR GIOVINAZZI
 http://line.protv.cc:80/9338741459/79615db6da37/737866
@@ -2679,7 +2679,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/737851
 http://line.protv.cc:80/9338741459/79615db6da37/737850
 #EXTINF:-1 tvg-id="" tvg-name="IT| MOTOGP HELICOPTER" tvg-logo="http://103.176.90.118/picons/logos/motogp.png" group-title="IT| FORMULA 1 / MOTOGP",IT| MOTOGP HELICOPTER
 http://line.protv.cc:80/9338741459/79615db6da37/737849
-#EXTINF:-1 tvg-id="" tvg-name="IT| MOTOGP 360" tvg-logo="http://103.176.90.118/picons/logos/motogp.png" group-title="IT| FORMULA 1 / MOTOGP",IT| MOTOGP 360
+#EXTINF:-1 tvg-id="" tvg-name="IT| MOTOGP 360" tvg-logo="http://103.176.90.92/picons/737848.png" group-title="IT| FORMULA 1 / MOTOGP",IT| MOTOGP 360
 http://line.protv.cc:80/9338741459/79615db6da37/737848
 #EXTINF:-1 tvg-id="" tvg-name="IT| MOTOGP ON BOARD 1" tvg-logo="http://103.176.90.118/picons/logos/motogp.png" group-title="IT| FORMULA 1 / MOTOGP",IT| MOTOGP ON BOARD 1
 http://line.protv.cc:80/9338741459/79615db6da37/737847
@@ -2697,7 +2697,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/737842
 http://line.protv.cc:80/9338741459/79615db6da37/1010968
 #EXTINF:-1 tvg-id="" tvg-name="IT| NETFLIX 2 FHD" tvg-logo="http://103.176.90.92/picons/1010969.png" group-title="IT| CINEMA",IT| NETFLIX 2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1010969
-#EXTINF:-1 tvg-id="" tvg-name="IT| NETFLIX 3 FHD" tvg-logo="http://103.176.90.118/piconsnew/netflix.png" group-title="IT| CINEMA",IT| NETFLIX 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| NETFLIX 3 FHD" tvg-logo="http://103.176.90.92/picons/1010970.png" group-title="IT| CINEMA",IT| NETFLIX 3 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1010970
 #EXTINF:-1 tvg-id="" tvg-name="IT| NETFLIX 4 FHD" tvg-logo="http://103.176.90.118/piconsnew/netflix.png" group-title="IT| CINEMA",IT| NETFLIX 4 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1010971
@@ -2709,9 +2709,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/1010973
 http://line.protv.cc:80/9338741459/79615db6da37/1010967
 #EXTINF:-1 tvg-id="" tvg-name="IT| PRIME 2 FHD" tvg-logo="http://103.176.90.92/picons/1010966.png" group-title="IT| CINEMA",IT| PRIME 2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1010966
-#EXTINF:-1 tvg-id="" tvg-name="IT| PRIME 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PRIME.png" group-title="IT| CINEMA",IT| PRIME 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| PRIME 3 FHD" tvg-logo="http://103.176.90.92/picons/1010965.png" group-title="IT| CINEMA",IT| PRIME 3 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1010965
-#EXTINF:-1 tvg-id="" tvg-name="IT| PRIME 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PRIME.png" group-title="IT| CINEMA",IT| PRIME 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| PRIME 4 FHD" tvg-logo="http://103.176.90.92/picons/1010964.png" group-title="IT| CINEMA",IT| PRIME 4 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1010964
 #EXTINF:-1 tvg-id="" tvg-name="IT| DISCOVERY 1 FHD" tvg-logo="http://103.176.90.92/picons/1010955.png" group-title="IT| CINEMA",IT| DISCOVERY 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1010955
@@ -2743,7 +2743,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1187729
 http://line.protv.cc:80/9338741459/79615db6da37/841094
 #EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ZONA-DAZN.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/1273581
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ZONA-DAZN.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 HD" tvg-logo="http://103.176.90.92/picons/1273580.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1273580
 #EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 SD" tvg-logo="http://103.176.90.92/picons/1273579.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 SD
 http://line.protv.cc:80/9338741459/79615db6da37/1273579
@@ -2855,7 +2855,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1273533
 http://line.protv.cc:80/9338741459/79615db6da37/1273532
 #EXTINF:-1 tvg-id="" tvg-name="IT| MANTOVA GIRONE A" tvg-logo="http://103.176.90.92/picons/1273531.png" group-title="IT| SERIE A/B/C",IT| MANTOVA GIRONE A
 http://line.protv.cc:80/9338741459/79615db6da37/1273531
-#EXTINF:-1 tvg-id="" tvg-name="IT| MONOPOLI GIRONE C" tvg-logo="http://103.176.90.118/picons/logos/ITALY/MONOPOLI-GIRONE-C.png" group-title="IT| SERIE A/B/C",IT| MONOPOLI GIRONE C
+#EXTINF:-1 tvg-id="" tvg-name="IT| MONOPOLI GIRONE C" tvg-logo="http://103.176.90.92/picons/1273530.png" group-title="IT| SERIE A/B/C",IT| MONOPOLI GIRONE C
 http://line.protv.cc:80/9338741459/79615db6da37/1273530
 #EXTINF:-1 tvg-id="" tvg-name="IT| ALESSANDRIA GIRONE A" tvg-logo="http://103.176.90.118/picons/logos/ITALY/ALESSANDRIA-GIRONE-A.png" group-title="IT| SERIE A/B/C",IT| ALESSANDRIA GIRONE A
 http://line.protv.cc:80/9338741459/79615db6da37/1273529
@@ -2883,9 +2883,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/1273519
 http://line.protv.cc:80/9338741459/79615db6da37/1273518
 #EXTINF:-1 tvg-id="" tvg-name="IT| TORRES GIRONE B" tvg-logo="http://103.176.90.92/picons/1273517.png" group-title="IT| SERIE A/B/C",IT| TORRES GIRONE B
 http://line.protv.cc:80/9338741459/79615db6da37/1273517
-#EXTINF:-1 tvg-id="" tvg-name="IT| CARRARESE GIRONE B" tvg-logo="http://103.176.90.118/picons/logos/ITALY/CARRARESE-GIRONE-B.png" group-title="IT| SERIE A/B/C",IT| CARRARESE GIRONE B
+#EXTINF:-1 tvg-id="" tvg-name="IT| CARRARESE GIRONE B" tvg-logo="http://103.176.90.92/picons/1273516.png" group-title="IT| SERIE A/B/C",IT| CARRARESE GIRONE B
 http://line.protv.cc:80/9338741459/79615db6da37/1273516
-#EXTINF:-1 tvg-id="" tvg-name="IT| PRO SESTO GIRONE A" tvg-logo="http://103.176.90.118/picons/logos/ITALY/PRO-SESTO-GIRONE-A.png" group-title="IT| SERIE A/B/C",IT| PRO SESTO GIRONE A
+#EXTINF:-1 tvg-id="" tvg-name="IT| PRO SESTO GIRONE A" tvg-logo="http://103.176.90.92/picons/1273515.png" group-title="IT| SERIE A/B/C",IT| PRO SESTO GIRONE A
 http://line.protv.cc:80/9338741459/79615db6da37/1273515
 #EXTINF:-1 tvg-id="" tvg-name="IT| CROTONE GIRONE C" tvg-logo="http://103.176.90.92/picons/1273514.png" group-title="IT| SERIE A/B/C",IT| CROTONE GIRONE C
 http://line.protv.cc:80/9338741459/79615db6da37/1273514
@@ -2917,11 +2917,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/1273502
 http://line.protv.cc:80/9338741459/79615db6da37/1273501
 #EXTINF:-1 tvg-id="" tvg-name="IT| FIDELIS ANDRIA GIRONE C" tvg-logo="http://103.176.90.92/picons/1273500.png" group-title="IT| SERIE A/B/C",IT| FIDELIS ANDRIA GIRONE C
 http://line.protv.cc:80/9338741459/79615db6da37/1273500
-#EXTINF:-1 tvg-id="" tvg-name="IT| LATINA GIRONE C" tvg-logo="http://103.176.90.118/picons/logos/logos/LATINA-GIRONE-C.png" group-title="IT| SERIE A/B/C",IT| LATINA GIRONE C
+#EXTINF:-1 tvg-id="" tvg-name="IT| LATINA GIRONE C" tvg-logo="http://103.176.90.92/picons/1273499.png" group-title="IT| SERIE A/B/C",IT| LATINA GIRONE C
 http://line.protv.cc:80/9338741459/79615db6da37/1273499
 #EXTINF:-1 tvg-id="" tvg-name="IT| MONTEROSI TUSCIA GIRONE C" tvg-logo="http://103.176.90.118/picons/logos/ITALY/MONTEROSI-TUSCIA-GIRONE-C.png" group-title="IT| SERIE A/B/C",IT| MONTEROSI TUSCIA GIRONE C
 http://line.protv.cc:80/9338741459/79615db6da37/1273498
-#EXTINF:-1 tvg-id="" tvg-name="IT| PICERNO GIRONE C" tvg-logo="http://103.176.90.118/picons/logos/ITALY/PICERNO-GIRONE-C.png" group-title="IT| SERIE A/B/C",IT| PICERNO GIRONE C
+#EXTINF:-1 tvg-id="" tvg-name="IT| PICERNO GIRONE C" tvg-logo="http://103.176.90.92/picons/1273497.png" group-title="IT| SERIE A/B/C",IT| PICERNO GIRONE C
 http://line.protv.cc:80/9338741459/79615db6da37/1273497
 #EXTINF:-1 tvg-id="" tvg-name="IT| TARANTO GIRONE C" tvg-logo="http://103.176.90.92/picons/1273496.png" group-title="IT| SERIE A/B/C",IT| TARANTO GIRONE C
 http://line.protv.cc:80/9338741459/79615db6da37/1273496
