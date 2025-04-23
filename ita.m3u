@@ -185,9 +185,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/691284
 http://line.protv.cc:80/9338741459/79615db6da37/691283
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="IT| SKY SPORT 24 4K" tvg-logo="http://103.176.90.92/picons/691282.png" group-title="ITALY UHD/4K",IT| SKY SPORT 24 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691282
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA UHD" tvg-logo="http://103.176.90.92/picons/691281.png" group-title="ITALY UHD/4K",IT| SKY SPORT NBA UHD
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA UHD" tvg-logo="http://103.176.90.92/picons/nbatv.png" group-title="ITALY UHD/4K",IT| SKY SPORT NBA UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691281
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA 4K" tvg-logo="http://103.176.90.92/picons/691280.png" group-title="ITALY UHD/4K",IT| SKY SPORT NBA 4K
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA 4K" tvg-logo="http://103.176.90.92/picons/nbatv.png" group-title="ITALY UHD/4K",IT| SKY SPORT NBA 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691280
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO UHD" tvg-logo="http://103.176.90.92/picons/691279.png" group-title="ITALY UHD/4K",IT| SKY SPORT UNO UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691279
@@ -261,13 +261,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/691246
 http://line.protv.cc:80/9338741459/79615db6da37/691245
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 4 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="ITALY UHD/4K",IT| SKY CALCIO 4 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691243
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN-DIRETTA.png" group-title="ITALY UHD/4K",IT| DAZN DIRETTA GOL SERIE A UHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A UHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="ITALY UHD/4K",IT| DAZN DIRETTA GOL SERIE A UHD
 http://line.protv.cc:80/9338741459/79615db6da37/728649
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B UHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN-DIRETTA.png" group-title="ITALY UHD/4K",IT| DAZN DIRETTA GOL SERIE B UHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B UHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="ITALY UHD/4K",IT| DAZN DIRETTA GOL SERIE B UHD
 http://line.protv.cc:80/9338741459/79615db6da37/728648
-#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| SKY DAZN 1 UHD" tvg-logo="http://103.176.90.92/picons/691242.png" group-title="ITALY UHD/4K",IT| SKY DAZN 1 UHD
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| SKY DAZN 1 UHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="ITALY UHD/4K",IT| SKY DAZN 1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691242
-#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| SKY DAZN 1 4K" tvg-logo="http://103.176.90.92/picons/691241.png" group-title="ITALY UHD/4K",IT| SKY DAZN 1 4K
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| SKY DAZN 1 4K" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="ITALY UHD/4K",IT| SKY DAZN 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/691241
 #EXTINF:-1 tvg-id="SkyArte.it" tvg-name="IT| SKY ARTE UHD" tvg-logo="http://103.176.90.92/picons/691240.png" group-title="ITALY UHD/4K",IT| SKY ARTE UHD
 http://line.protv.cc:80/9338741459/79615db6da37/691240
@@ -453,7 +453,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691535
 http://line.protv.cc:80/9338741459/79615db6da37/691534
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO HEVC" tvg-logo="http://103.176.90.92/picons/691532.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT UNO HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691532
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA HEVC" tvg-logo="http://103.176.90.92/picons/691531.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT NBA HEVC
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA HEVC" tvg-logo="http://103.176.90.92/picons/nbatv.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT NBA HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691531
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT 24 HEVC" tvg-logo="http://103.176.90.92/picons/691530.png" group-title="ITALY FHD/HEVC",IT| SKY SPORT 24 HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691530
@@ -473,7 +473,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/691524
 http://line.protv.cc:80/9338741459/79615db6da37/691523
 #EXTINF:-1 tvg-id="InterChannel.it" tvg-name="IT| SKY INTER HEVC" tvg-logo="http://103.176.90.92/picons/691522.png" group-title="ITALY FHD/HEVC",IT| SKY INTER HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691522
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY DAZN BAR HEVC" tvg-logo="http://103.176.90.92/picons/691521.png" group-title="ITALY FHD/HEVC",IT| SKY DAZN BAR HEVC
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY DAZN BAR HEVC" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="ITALY FHD/HEVC",IT| SKY DAZN BAR HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691521
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY INVESTIGATION HEVC" tvg-logo="http://103.176.90.92/picons/691520.png" group-title="ITALY FHD/HEVC",IT| SKY INVESTIGATION HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/691520
@@ -1363,245 +1363,245 @@ http://line.protv.cc:80/9338741459/79615db6da37/699225
 http://line.protv.cc:80/9338741459/79615db6da37/699224
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR PRIMEVIDEO SD" tvg-logo="http://103.176.90.118/picons/logos/ligue1.png" group-title="IT| AMAZON PRIME",IT| SKY SPORT BAR PRIMEVIDEO SD
 http://line.protv.cc:80/9338741459/79615db6da37/699223
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN REDBULL FHD" tvg-logo="http://103.176.90.92/picons/920099.png" group-title="IT| DAZN",IT| DAZN REDBULL FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN REDBULL FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN REDBULL FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920099
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN CHANNEL FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920097
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL HD" tvg-logo="http://103.176.90.92/picons/920096.png" group-title="IT| DAZN",IT| DAZN CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN CHANNEL HD
 http://line.protv.cc:80/9338741459/79615db6da37/920096
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL HEVC" tvg-logo="http://103.176.90.92/picons/920094.png" group-title="IT| DAZN",IT| DAZN CHANNEL HEVC
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL HEVC" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN CHANNEL HEVC
 http://line.protv.cc:80/9338741459/79615db6da37/920094
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL" tvg-logo="http://103.176.90.92/picons/920093.png" group-title="IT| DAZN",IT| DAZN CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN CHANNEL" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN CHANNEL
 http://line.protv.cc:80/9338741459/79615db6da37/920093
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL EUROPA LEAGUE FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL EUROPA LEAGUE FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL EUROPA LEAGUE FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL EUROPA LEAGUE FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920092
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL EUROPA LEAGUE HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL EUROPA LEAGUE HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL EUROPA LEAGUE HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL EUROPA LEAGUE HD
 http://line.protv.cc:80/9338741459/79615db6da37/920091
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL EUROPA LEAGUE" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL EUROPA LEAGUE
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL EUROPA LEAGUE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL EUROPA LEAGUE
 http://line.protv.cc:80/9338741459/79615db6da37/920090
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE A FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE A FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920089
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE A HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE A HD
 http://line.protv.cc:80/9338741459/79615db6da37/920088
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE A
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE A
 http://line.protv.cc:80/9338741459/79615db6da37/920087
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE B FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE B FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920086
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE B HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE B HD
 http://line.protv.cc:80/9338741459/79615db6da37/920085
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE B
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN DIRETTA GOL SERIE B
 http://line.protv.cc:80/9338741459/79615db6da37/920084
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EURO SPORT 1 HD (BK)" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN EURO SPORT 1 HD (BK)
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EURO SPORT 1 HD (BK)" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN EURO SPORT 1 HD (BK)
 http://line.protv.cc:80/9338741459/79615db6da37/920083
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EURO SPORT 2 HD (BK)" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN EURO SPORT 2 HD (BK)
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EURO SPORT 2 HD (BK)" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN EURO SPORT 2 HD (BK)
 http://line.protv.cc:80/9338741459/79615db6da37/920082
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN MILAN HD (BK)" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN MILAN HD (BK)
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN MILAN HD (BK)" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN MILAN HD (BK)
 http://line.protv.cc:80/9338741459/79615db6da37/920080
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN NFL FHD (BK)" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN NFL FHD (BK)
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN NFL FHD (BK)" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN NFL FHD (BK)
 http://line.protv.cc:80/9338741459/79615db6da37/920079
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN NFL HD (BK)" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN NFL HD (BK)
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN NFL HD (BK)" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN NFL HD (BK)
 http://line.protv.cc:80/9338741459/79615db6da37/920078
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN NFL" tvg-logo="http://103.176.90.92/picons/920077.png" group-title="IT| DAZN",IT| DAZN NFL
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN NFL" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN NFL
 http://line.protv.cc:80/9338741459/79615db6da37/920077
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 1 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920076
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 1 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 1 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920075
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 1" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 1
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 1" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 1
 http://line.protv.cc:80/9338741459/79615db6da37/920074
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 2 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 2 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920073
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 2 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 2 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920072
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 2" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 2
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 2" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 2
 http://line.protv.cc:80/9338741459/79615db6da37/920071
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 3 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 3 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920070
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 3 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 3 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 3 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920069
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 3" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 3
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 3" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 3
 http://line.protv.cc:80/9338741459/79615db6da37/920068
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 4 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 4 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920067
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 4 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 4 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 4 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920066
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 4" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 4
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 4" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 4
 http://line.protv.cc:80/9338741459/79615db6da37/920065
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 5 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 5 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920064
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 5 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 5 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 5 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920063
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 5" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 5
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 5" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 5
 http://line.protv.cc:80/9338741459/79615db6da37/920062
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 6 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 6 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 6 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 6 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920061
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 6 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 6 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 6 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920060
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 6" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 6
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 6" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 6
 http://line.protv.cc:80/9338741459/79615db6da37/920059
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 7 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 7 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 7 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 7 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920058
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 7 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 7 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 7 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920057
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 7" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 7
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 7" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 7
 http://line.protv.cc:80/9338741459/79615db6da37/920056
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 8 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 8 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 8 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 8 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920055
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 8 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 8 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 8 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920054
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 8" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 8
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 8" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 8
 http://line.protv.cc:80/9338741459/79615db6da37/920053
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 9 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 9 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 9 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 9 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920052
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 9 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 9 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 9 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920051
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 9" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 9
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 9" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 9
 http://line.protv.cc:80/9338741459/79615db6da37/920050
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 10 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 10 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 10 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 10 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920049
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 10 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 10 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 10 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920048
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 10" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 10
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 10" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 10
 http://line.protv.cc:80/9338741459/79615db6da37/920047
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 11 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 11 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 11 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 11 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920046
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 11 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 11 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 11 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920045
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 11" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 11
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 11" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 11
 http://line.protv.cc:80/9338741459/79615db6da37/920044
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 12 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 12 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 12 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 12 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920043
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 12 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 12 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 12 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 12 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920042
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 12" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 12
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 12" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 12
 http://line.protv.cc:80/9338741459/79615db6da37/920041
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 13 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 13 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 13 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 13 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920040
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 13 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 13 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 13 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920039
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 13" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 13
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 13" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 13
 http://line.protv.cc:80/9338741459/79615db6da37/920038
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 14 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 14 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 14 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 14 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920037
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 14 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 14 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 14 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 14 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920036
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 14" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 14
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 14" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 14
 http://line.protv.cc:80/9338741459/79615db6da37/920035
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 15 FHD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 15 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 15 FHD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 15 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/920034
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 15 HD" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 15 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 15 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 15 HD
 http://line.protv.cc:80/9338741459/79615db6da37/920033
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 15" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DAZN WEB 15
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN WEB 15" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| DAZN WEB 15
 http://line.protv.cc:80/9338741459/79615db6da37/920032
 #EXTINF:-1 tvg-id="" tvg-name="IT| DIRETTA PRO ELEVEN SPORTS" tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DIRETTA PRO ELEVEN SPORTS
 http://line.protv.cc:80/9338741459/79615db6da37/920031
-#EXTINF:-1 tvg-id="" tvg-name="IT| VETRINA DAZN" tvg-logo="http://103.176.90.92/picons/920030.png" group-title="IT| DAZN",IT| VETRINA DAZN
+#EXTINF:-1 tvg-id="" tvg-name="IT| VETRINA DAZN" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN",IT| VETRINA DAZN
 http://line.protv.cc:80/9338741459/79615db6da37/920030
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN INTER HD" tvg-logo="http://103.176.90.92/picons/1630324.png" group-title="IT| DAZN PPV",IT: DAZN INTER HD
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN INTER HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN INTER HD
 http://line.protv.cc:80/9338741459/79615db6da37/1630324
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN MILAN TV HD" tvg-logo="http://103.176.90.92/picons/1630323.png" group-title="IT| DAZN PPV",IT: DAZN MILAN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN MILAN TV HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN MILAN TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/1630323
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN EUROSPORT 1 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN EUROSPORT 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1630322
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630321
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630320
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630319
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630318
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630317
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630316
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630315
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630314
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630313
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630312
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630311
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630310
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630309
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630308
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630307
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630306
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630305
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630304
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630303
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630302
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630301
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630300
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630299
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630298
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630297
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630296
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630295
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630294
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630293
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630292
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630291
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630290
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630289
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630288
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630287
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630286
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630285
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630284
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630283
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630282
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630281
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630280
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630279
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630278
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630277
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630276
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630275
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630274
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630273
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="IT| DAZN PPV",IT: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1630272
 #EXTINF:-1 tvg-id="" tvg-name="IT: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="IT| DISCOVERY+",IT: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1637173
@@ -1703,205 +1703,205 @@ http://line.protv.cc:80/9338741459/79615db6da37/1637126
 http://line.protv.cc:80/9338741459/79615db6da37/1637125
 #EXTINF:-1 tvg-id="" tvg-name="IT: D+ PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="IT| DISCOVERY+",IT: D+ PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1637124
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 1 - WWE - MONDAY NIGHT RAW IN DIRETTA | Mon 21 Apr 23:55 | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 1 - WWE - MONDAY NIGHT RAW IN DIRETTA | Mon 21 Apr 23:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 1 - WWE - NXT IN DIRETTA | Tue 22 Apr 23:55 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 1 - WWE - NXT IN DIRETTA | Tue 22 Apr 23:55 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793364
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793363
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793362
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793361
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 5 - FC SÜDTIROL VS. SSC BARI | Mon 21 Apr 10:15 | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 5 - FC SÜDTIROL VS. SSC BARI | Mon 21 Apr 10:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793360
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793359
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793358
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793357
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793356
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793355
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793354
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793353
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793352
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793351
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793350
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793349
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793348
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793347
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793346
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793345
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793344
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793343
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793342
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793341
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793340
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793339
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793338
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793337
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793336
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793335
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793334
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793333
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793332
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793331
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793330
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793329
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793328
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793327
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793326
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793325
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793324
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793323
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793322
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793321
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793320
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793319
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793318
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793317
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793316
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV",IT: PRIME PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1793315
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791208
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791207
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791206
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791205
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 5 - FC SÜDTIROL VS. SSC BARI | Mon 21 Apr 10:15 | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 5 - FC SÜDTIROL VS. SSC BARI | Mon 21 Apr 10:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791204
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791203
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791202
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791201
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791200
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791199
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791198
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791197
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791196
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791195
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791194
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791193
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791192
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791191
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791190
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791189
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791188
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791187
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791186
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791185
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791184
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791183
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791182
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791181
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791180
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791179
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791178
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791177
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791176
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791175
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791174
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791173
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791172
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791171
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791170
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791169
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791168
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791167
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791166
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791165
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791164
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791163
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791162
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791161
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791160
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/PRIME.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1791159
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| NOW SKY SPORT UNO ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORT-UNO.png" group-title="IT| NOW SPORT ᴴᴰ",IT| NOW SKY SPORT UNO ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686944
@@ -1919,7 +1919,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1686939
 http://line.protv.cc:80/9338741459/79615db6da37/1686938
 #EXTINF:-1 tvg-id="" tvg-name="IT| NOW SKY SPORT MAX ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORT-MAX.png" group-title="IT| NOW SPORT ᴴᴰ",IT| NOW SKY SPORT MAX ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686937
-#EXTINF:-1 tvg-id="" tvg-name="IT| NOW SKY SPORT NBA ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportnba.png" group-title="IT| NOW SPORT ᴴᴰ",IT| NOW SKY SPORT NBA ᴴᴰ ◉
+#EXTINF:-1 tvg-id="" tvg-name="IT| NOW SKY SPORT NBA ᴴᴰ ◉" tvg-logo="http://103.176.90.92/picons/nbatv.png" group-title="IT| NOW SPORT ᴴᴰ",IT| NOW SKY SPORT NBA ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686936
 #EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="IT| NOW SKY SPORT GOLF ᴴᴰ ◉" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORT-GOLF.png" group-title="IT| NOW SPORT ᴴᴰ",IT| NOW SKY SPORT GOLF ᴴᴰ ◉
 http://line.protv.cc:80/9338741459/79615db6da37/1686935
@@ -1961,7 +1961,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1686917
 http://line.protv.cc:80/9338741459/79615db6da37/1686916
 #EXTINF:-1 tvg-id="" tvg-name="IT| NOW SKY SPORT MAX ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORT-MAX.png" group-title="IT| NOW SPORT ᴿᴬᵂ",IT| NOW SKY SPORT MAX ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686915
-#EXTINF:-1 tvg-id="" tvg-name="IT| NOW SKY SPORT NBA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportnba.png" group-title="IT| NOW SPORT ᴿᴬᵂ",IT| NOW SKY SPORT NBA ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="IT| NOW SKY SPORT NBA ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/nbatv.png" group-title="IT| NOW SPORT ᴿᴬᵂ",IT| NOW SKY SPORT NBA ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686914
 #EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="IT| NOW SKY SPORT GOLF ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORT-GOLF.png" group-title="IT| NOW SPORT ᴿᴬᵂ",IT| NOW SKY SPORT GOLF ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1686913
@@ -2029,11 +2029,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/692423
 http://line.protv.cc:80/9338741459/79615db6da37/692422
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="IT| SKY SPORT MOTOGP SD" tvg-logo="http://103.176.90.92/picons/692421.png" group-title="IT| SPORT",IT| SKY SPORT MOTOGP SD
 http://line.protv.cc:80/9338741459/79615db6da37/692421
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA 4K" tvg-logo="http://103.176.90.92/picons/692420.png" group-title="IT| SPORT",IT| SKY SPORT NBA 4K
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA 4K" tvg-logo="http://103.176.90.92/picons/nbatv.png" group-title="IT| SPORT",IT| SKY SPORT NBA 4K
 http://line.protv.cc:80/9338741459/79615db6da37/692420
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA HD" tvg-logo="http://103.176.90.92/picons/692419.png" group-title="IT| SPORT",IT| SKY SPORT NBA HD
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA HD" tvg-logo="http://103.176.90.92/picons/nbatv.png" group-title="IT| SPORT",IT| SKY SPORT NBA HD
 http://line.protv.cc:80/9338741459/79615db6da37/692419
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA SD" tvg-logo="http://103.176.90.92/picons/692418.png" group-title="IT| SPORT",IT| SKY SPORT NBA SD
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="IT| SKY SPORT NBA SD" tvg-logo="http://103.176.90.92/picons/nbatv.png" group-title="IT| SPORT",IT| SKY SPORT NBA SD
 http://line.protv.cc:80/9338741459/79615db6da37/692418
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT SERIE A" tvg-logo="http://103.176.90.92/picons/898099.png" group-title="IT| SPORT",IT| SKY SPORT SERIE A
 http://line.protv.cc:80/9338741459/79615db6da37/898099
@@ -2741,35 +2741,35 @@ http://line.protv.cc:80/9338741459/79615db6da37/1187730
 http://line.protv.cc:80/9338741459/79615db6da37/1187729
 #EXTINF:-1 tvg-id="" tvg-name="IT| TOP CALCIO" tvg-logo="http://103.176.90.92/picons/841094.png" group-title="IT| SPORT",IT| TOP CALCIO
 http://line.protv.cc:80/9338741459/79615db6da37/841094
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ZONA-DAZN.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 4K" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 4K
 http://line.protv.cc:80/9338741459/79615db6da37/1273581
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 HD" tvg-logo="http://103.176.90.92/picons/1273580.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1273580
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 SD" tvg-logo="http://103.176.90.92/picons/1273579.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 1 SD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 1 SD
 http://line.protv.cc:80/9338741459/79615db6da37/1273579
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 2 4K" tvg-logo="http://103.176.90.92/picons/1273584.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 2 4K" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 2 4K
 http://line.protv.cc:80/9338741459/79615db6da37/1273584
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 2 HD" tvg-logo="http://103.176.90.92/picons/1273583.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 2 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1273583
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 2 SD" tvg-logo="http://103.176.90.92/picons/1273582.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 2 SD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 2 SD
 http://line.protv.cc:80/9338741459/79615db6da37/1273582
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 3 4K" tvg-logo="http://103.176.90.92/picons/1273587.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 3 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 3 4K" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 3 4K
 http://line.protv.cc:80/9338741459/79615db6da37/1273587
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 3 HD" tvg-logo="http://103.176.90.92/picons/1273586.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 3 HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 3 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1273586
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 3 SD" tvg-logo="http://103.176.90.92/picons/1273585.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SERIE A 3 SD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| ZONA DAZN SERIE A 3 SD
 http://line.protv.cc:80/9338741459/79615db6da37/1273585
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE A 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A 4K" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE A 4K
 http://line.protv.cc:80/9338741459/79615db6da37/1273578
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE A HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE A HD
 http://line.protv.cc:80/9338741459/79615db6da37/1273577
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A SD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE A SD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE A SD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE A SD
 http://line.protv.cc:80/9338741459/79615db6da37/1273576
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE B 4K
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B 4K" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE B 4K
 http://line.protv.cc:80/9338741459/79615db6da37/1273575
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE B HD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B HD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE B HD
 http://line.protv.cc:80/9338741459/79615db6da37/1273574
-#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B SD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE B SD
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN DIRETTA GOL SERIE B SD" tvg-logo="http://103.176.90.92/picons/daznppv.png" group-title="IT| SERIE A/B/C",IT| DAZN DIRETTA GOL SERIE B SD
 http://line.protv.cc:80/9338741459/79615db6da37/1273573
 #EXTINF:-1 tvg-id="" tvg-name="IT| KIOENE PADOVA -SUPERLEGA SERIE A MASCHILE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KIOENE-PADOVA.png" group-title="IT| SERIE A/B/C",IT| KIOENE PADOVA -SUPERLEGA SERIE A MASCHILE
 http://line.protv.cc:80/9338741459/79615db6da37/1273572

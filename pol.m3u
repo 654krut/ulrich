@@ -91,7 +91,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530243
 http://line.protv.cc:80/9338741459/79615db6da37/1530237
 #EXTINF:-1 tvg-id="TVP2.pl" tvg-name="PL-VIP| TVP 2 RAW" tvg-logo="http://103.176.90.92/picons/1530238.png" group-title="PL| POLAND VIP",PL-VIP| TVP 2 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530238
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL-VIP| TVP ABC RAW" tvg-logo="http://103.176.90.92/picons/1530240.png" group-title="PL| POLAND VIP",PL-VIP| TVP ABC RAW
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL-VIP| TVP ABC RAW" tvg-logo="http://103.176.90.92/picons/abc.png" group-title="PL| POLAND VIP",PL-VIP| TVP ABC RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530240
 #EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL-VIP| TVP HISTORIA RAW" tvg-logo="http://103.176.90.92/picons/1530241.png" group-title="PL| POLAND VIP",PL-VIP| TVP HISTORIA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530241
@@ -193,7 +193,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530113
 http://line.protv.cc:80/9338741459/79615db6da37/1530114
 #EXTINF:-1 tvg-id="" tvg-name="PL-VIP| AlLE INO+ RAW" tvg-logo="http://103.176.90.92/picons/1530116.png" group-title="PL| POLAND VIP",PL-VIP| AlLE INO+ RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530116
-#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL-VIP| AMC POLSKA RAW" tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PL| POLAND VIP",PL-VIP| AMC POLSKA RAW
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL-VIP| AMC POLSKA RAW" tvg-logo="http://103.176.90.92/picons/amcmehd.png" group-title="PL| POLAND VIP",PL-VIP| AMC POLSKA RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530117
 #EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="PL-VIP| ANIMAL PLANET RAW" tvg-logo="http://103.176.90.92/picons/1530118.png" group-title="PL| POLAND VIP",PL-VIP| ANIMAL PLANET RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530118
@@ -233,7 +233,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530149
 http://line.protv.cc:80/9338741459/79615db6da37/1530150
 #EXTINF:-1 tvg-id="" tvg-name="PL-VIP| DISCOVERY RAW" tvg-logo="http://103.176.90.92/picons/1530151.png" group-title="PL| POLAND VIP",PL-VIP| DISCOVERY RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530151
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PL-VIP| DISNEY CHANNEL RAW" tvg-logo="http://103.176.90.92/picons/1530153.png" group-title="PL| POLAND VIP",PL-VIP| DISNEY CHANNEL RAW
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PL-VIP| DISNEY CHANNEL RAW" tvg-logo="http://103.176.90.92/picons/disneych.png" group-title="PL| POLAND VIP",PL-VIP| DISNEY CHANNEL RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530153
 #EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="PL-VIP| DISNEY JUNIOR RAW" tvg-logo="http://103.176.90.92/picons/1530154.png" group-title="PL| POLAND VIP",PL-VIP| DISNEY JUNIOR RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530154
@@ -359,7 +359,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530256
 http://line.protv.cc:80/9338741459/79615db6da37/1530255
 #EXTINF:-1 tvg-id="TVP3.pl" tvg-name="PL-VIP|TVP 3 RAW" tvg-logo="http://103.176.90.92/picons/1530239.png" group-title="PL| POLAND VIP",PL-VIP|TVP 3 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530239
-#EXTINF:-1 tvg-id="" tvg-name="##### PL KANAŁY (NA) #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| KANAŁY (NA)",##### PL KANAŁY (NA) #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL KANAŁY (NA) #####" tvg-logo="" group-title="PL| KANAŁY (NA)",##### PL KANAŁY (NA) #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288923
 #EXTINF:-1 tvg-id="iTVN.pl" tvg-name="PL| ITVN HD (NA)" tvg-logo="http://103.176.90.92/picons/897006.png" group-title="PL| KANAŁY (NA)",PL| ITVN HD (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/897006
@@ -439,7 +439,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/882096
 http://line.protv.cc:80/9338741459/79615db6da37/882094
 #EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT PREMIUM 2 HD (NA)" tvg-logo="http://103.176.90.92/picons/882093.png" group-title="PL| KANAŁY (NA)",PL| POLSAT SPORT PREMIUM 2 HD (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/882093
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVP ABC (NA)" tvg-logo="http://103.176.90.92/picons/882107.png" group-title="PL| KANAŁY (NA)",PL| TVP ABC (NA)
+#EXTINF:-1 tvg-id="" tvg-name="PL| TVP ABC (NA)" tvg-logo="http://103.176.90.92/picons/abc.png" group-title="PL| KANAŁY (NA)",PL| TVP ABC (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/882107
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ 1 HD (NA)" tvg-logo="http://103.176.90.92/picons/882091.png" group-title="PL| KANAŁY (NA)",PL| CANAL+ 1 HD (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/882091
@@ -447,7 +447,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/882091
 http://line.protv.cc:80/9338741459/79615db6da37/882089
 #EXTINF:-1 tvg-id="" tvg-name="PL| KUCHNIA+ HD (NA)" tvg-logo="http://103.176.90.92/picons/882097.png" group-title="PL| KANAŁY (NA)",PL| KUCHNIA+ HD (NA)
 http://line.protv.cc:80/9338741459/79615db6da37/882097
-#EXTINF:-1 tvg-id="" tvg-name="##### PL OGÓLNOTEMATYCZNE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| OGÓLNOTEMATYCZNE",##### PL OGÓLNOTEMATYCZNE #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL OGÓLNOTEMATYCZNE #####" tvg-logo="" group-title="PL| OGÓLNOTEMATYCZNE",##### PL OGÓLNOTEMATYCZNE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288922
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PL| TVP 1 FHD" tvg-logo="http://103.176.90.92/picons/880520.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TVP 1 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880520
@@ -595,7 +595,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880242
 http://line.protv.cc:80/9338741459/79615db6da37/880241
 #EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="PL| TRWAM TV" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TRWAM-PL.png" group-title="PL| OGÓLNOTEMATYCZNE",PL| TRWAM TV
 http://line.protv.cc:80/9338741459/79615db6da37/884764
-#EXTINF:-1 tvg-id="" tvg-name="##### PL FILMOWE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| FILMOWE",##### PL FILMOWE #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL FILMOWE #####" tvg-logo="" group-title="PL| FILMOWE",##### PL FILMOWE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288921
 #EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="PL| CANAL+ PREMIUM FHD" tvg-logo="http://103.176.90.92/picons/880498.png" group-title="PL| FILMOWE",PL| CANAL+ PREMIUM FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880498
@@ -641,9 +641,9 @@ http://line.protv.cc:80/9338741459/79615db6da37/880333
 http://line.protv.cc:80/9338741459/79615db6da37/880492
 #EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL| 13 ULICA HD" tvg-logo="http://103.176.90.92/picons/880352.png" group-title="PL| FILMOWE",PL| 13 ULICA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880352
-#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL| AMC FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/AMC--PL.png" group-title="PL| FILMOWE",PL| AMC FHD
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL| AMC FHD" tvg-logo="http://103.176.90.92/picons/amcmehd.png" group-title="PL| FILMOWE",PL| AMC FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880433
-#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL| AMC HD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/AMC--PL.png" group-title="PL| FILMOWE",PL| AMC HD
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL| AMC HD" tvg-logo="http://103.176.90.92/picons/amcmehd.png" group-title="PL| FILMOWE",PL| AMC HD
 http://line.protv.cc:80/9338741459/79615db6da37/880293
 #EXTINF:-1 tvg-id="AleKino.pl" tvg-name="PL| ALE KINO+ FHD" tvg-logo="http://103.176.90.92/picons/880493.png" group-title="PL| FILMOWE",PL| ALE KINO+ FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880493
@@ -755,7 +755,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880196
 http://line.protv.cc:80/9338741459/79615db6da37/880195
 #EXTINF:-1 tvg-id="" tvg-name="PL| VOD 208" tvg-logo="http://103.176.90.92/picons/880194.png" group-title="PL| FILMOWE",PL| VOD 208
 http://line.protv.cc:80/9338741459/79615db6da37/880194
-#EXTINF:-1 tvg-id="" tvg-name="##### KANAŁY TVN PLAYER ᵁᴴᴰ/ᴴᴰ #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| KANAŁY TVN PLAYER",##### KANAŁY TVN PLAYER ᵁᴴᴰ/ᴴᴰ #####
+#EXTINF:-1 tvg-id="" tvg-name="##### KANAŁY TVN PLAYER ᵁᴴᴰ/ᴴᴰ #####" tvg-logo="" group-title="PL| KANAŁY TVN PLAYER",##### KANAŁY TVN PLAYER ᵁᴴᴰ/ᴴᴰ #####
 http://line.protv.cc:80/9338741459/79615db6da37/1433873
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN CZAS NA ŚLUB ᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN CZAS NA ŚLUB ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1649893
@@ -833,13 +833,13 @@ http://line.protv.cc:80/9338741459/79615db6da37/1496497
 http://line.protv.cc:80/9338741459/79615db6da37/1433902
 #EXTINF:-1 tvg-id="TVNŻycieJakBajce.pl" tvg-name="PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png" group-title="PL| KANAŁY TVN PLAYER",PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1433903
-#EXTINF:-1 tvg-id="" tvg-name="##### PL DLA DZIECI #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| DLA DZIECI",##### PL DLA DZIECI #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL DLA DZIECI #####" tvg-logo="" group-title="PL| DLA DZIECI",##### PL DLA DZIECI #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288920
 #EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="PL| DA VINCI LEARNING" tvg-logo="http://103.176.90.92/picons/880224.png" group-title="PL| DLA DZIECI",PL| DA VINCI LEARNING
 http://line.protv.cc:80/9338741459/79615db6da37/880224
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL| TVP ABC" tvg-logo="http://103.176.90.92/picons/880239.png" group-title="PL| DLA DZIECI",PL| TVP ABC
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL| TVP ABC" tvg-logo="http://103.176.90.92/picons/abc.png" group-title="PL| DLA DZIECI",PL| TVP ABC
 http://line.protv.cc:80/9338741459/79615db6da37/880239
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVP ABC 2 HD" tvg-logo="http://103.176.90.92/picons/1121740.png" group-title="PL| DLA DZIECI",PL| TVP ABC 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| TVP ABC 2 HD" tvg-logo="http://103.176.90.92/picons/abc.png" group-title="PL| DLA DZIECI",PL| TVP ABC 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121740
 #EXTINF:-1 tvg-id="" tvg-name="PL| DUCK TV HD" tvg-logo="http://103.176.90.92/picons/1121750.png" group-title="PL| DLA DZIECI",PL| DUCK TV HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121750
@@ -869,7 +869,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880412
 http://line.protv.cc:80/9338741459/79615db6da37/880272
 #EXTINF:-1 tvg-id="JimJam.pl" tvg-name="PL| POLSAT JIM JAM" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-JIM-JAM.png" group-title="PL| DLA DZIECI",PL| POLSAT JIM JAM
 http://line.protv.cc:80/9338741459/79615db6da37/880206
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PL| DISNEY CHANNEL HD" tvg-logo="http://103.176.90.92/picons/880285.png" group-title="PL| DLA DZIECI",PL| DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PL| DISNEY CHANNEL HD" tvg-logo="http://103.176.90.92/picons/disneych.png" group-title="PL| DLA DZIECI",PL| DISNEY CHANNEL HD
 http://line.protv.cc:80/9338741459/79615db6da37/880285
 #EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="PL| DISNEY JUNIOR" tvg-logo="http://103.176.90.92/picons/880219.png" group-title="PL| DLA DZIECI",PL| DISNEY JUNIOR
 http://line.protv.cc:80/9338741459/79615db6da37/880219
@@ -891,7 +891,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880274
 http://line.protv.cc:80/9338741459/79615db6da37/880432
 #EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="PL| CARTOON NETWORK HD" tvg-logo="http://103.176.90.92/picons/880292.png" group-title="PL| DLA DZIECI",PL| CARTOON NETWORK HD
 http://line.protv.cc:80/9338741459/79615db6da37/880292
-#EXTINF:-1 tvg-id="" tvg-name="##### PL DOKUMENTALNE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| DOKUMENTALNE",##### PL DOKUMENTALNE #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL DOKUMENTALNE #####" tvg-logo="" group-title="PL| DOKUMENTALNE",##### PL DOKUMENTALNE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288919
 #EXTINF:-1 tvg-id="LoveNature4K.pl" tvg-name="PL| LOVE NATURE 4K+" tvg-logo="http://103.176.90.92/picons/1131804.png" group-title="PL| DOKUMENTALNE",PL| LOVE NATURE 4K+
 http://line.protv.cc:80/9338741459/79615db6da37/1131804
@@ -1015,7 +1015,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880248
 http://line.protv.cc:80/9338741459/79615db6da37/880238
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVP HISTORIA 2 HD" tvg-logo="http://103.176.90.92/picons/1121743.png" group-title="PL| DOKUMENTALNE",PL| TVP HISTORIA 2 HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121743
-#EXTINF:-1 tvg-id="" tvg-name="##### PL SPORTOWE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| SPORTOWE",##### PL SPORTOWE #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL SPORTOWE #####" tvg-logo="" group-title="PL| SPORTOWE",##### PL SPORTOWE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288918
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="PL| ELEVEN SPORTS 1 4K/UHD" tvg-logo="http://103.176.90.92/picons/1498959.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K/UHD
 http://line.protv.cc:80/9338741459/79615db6da37/1498959
@@ -1143,7 +1143,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880279
 http://line.protv.cc:80/9338741459/79615db6da37/880413
 #EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="PL| MOTOWIZJA HD" tvg-logo="http://103.176.90.92/picons/880273.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880273
-#EXTINF:-1 tvg-id="" tvg-name="#### EURO SPORT OLYMPICS ####" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="PL| EUROSPORTS",#### EURO SPORT OLYMPICS ####
+#EXTINF:-1 tvg-id="" tvg-name="#### EURO SPORT OLYMPICS ####" tvg-logo="" group-title="PL| EUROSPORTS",#### EURO SPORT OLYMPICS ####
 http://line.protv.cc:80/9338741459/79615db6da37/1602004
 #EXTINF:-1 tvg-id="" tvg-name="PL| EUROSPORT UHD" tvg-logo="http://103.176.90.92/picons/1602078.png" group-title="PL| EUROSPORTS",PL| EUROSPORT UHD
 http://line.protv.cc:80/9338741459/79615db6da37/1602078
@@ -1165,15 +1165,15 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602011
 http://line.protv.cc:80/9338741459/79615db6da37/1602012
 #EXTINF:-1 tvg-id="" tvg-name="PL| EUROSPORT 9 FHD" tvg-logo="http://103.176.90.92/picons/1602013.png" group-title="PL| EUROSPORTS",PL| EUROSPORT 9 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
-#EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
+#EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL WASHINGTON - MONTREAL | Mon 21 Apr 23:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL WASHINGTON - MONTREAL | Mon 21 Apr 23:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NHL TORONTO - OTTAWA | Tue 22 Apr 23:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NHL TORONTO - OTTAWA | Tue 22 Apr 23:35 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL WINNIPEG - ST. LOUIS | Mon 21 Apr 23:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL WINNIPEG - ST. LOUIS | Mon 21 Apr 23:35 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL CAROLINA - NEW JERSEY | Tue 22 Apr 22:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL CAROLINA - NEW JERSEY | Tue 22 Apr 22:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - MAJOR LEAGUE BASEBALL TIGERS - PADRES | Mon 21 Apr 22:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - MAJOR LEAGUE BASEBALL TIGERS - PADRES | Mon 21 Apr 22:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - MAJOR LEAGUE BASEBALL NATIONALS - ORIOLES | Tue 22 Apr 22:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - MAJOR LEAGUE BASEBALL NATIONALS - ORIOLES | Tue 22 Apr 22:30 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NHL TAMPA BAY - FLORIDA | Wed 23 Apr 00:35 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NHL TAMPA BAY - FLORIDA | Wed 23 Apr 00:35 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592513
@@ -1267,7 +1267,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1592556
 http://line.protv.cc:80/9338741459/79615db6da37/1592557
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592558
-#EXTINF:-1 tvg-id="" tvg-name="##### PL INFORMACYJNE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| INFORMACYJNE",##### PL INFORMACYJNE #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL INFORMACYJNE #####" tvg-logo="" group-title="PL| INFORMACYJNE",##### PL INFORMACYJNE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288917
 #EXTINF:-1 tvg-id="" tvg-name="PL| TVN24 FHD" tvg-logo="http://103.176.90.92/picons/880512.png" group-title="PL| INFORMACYJNE",PL| TVN24 FHD
 http://line.protv.cc:80/9338741459/79615db6da37/880512
@@ -1309,7 +1309,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/880203
 http://line.protv.cc:80/9338741459/79615db6da37/880391
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="PL| POLSAT NEWS POLITYKA HD" tvg-logo="http://103.176.90.92/picons/880251.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS POLITYKA HD
 http://line.protv.cc:80/9338741459/79615db6da37/880251
-#EXTINF:-1 tvg-id="" tvg-name="##### PL MUZYCZNE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| MUZYCZNE",##### PL MUZYCZNE #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL MUZYCZNE #####" tvg-logo="" group-title="PL| MUZYCZNE",##### PL MUZYCZNE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288916
 #EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="PL| ESKA TV" tvg-logo="http://103.176.90.92/picons/880216.png" group-title="PL| MUZYCZNE",PL| ESKA TV
 http://line.protv.cc:80/9338741459/79615db6da37/880216
@@ -1371,7 +1371,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1121754
 http://line.protv.cc:80/9338741459/79615db6da37/1121752
 #EXTINF:-1 tvg-id="MezzoLive.pl" tvg-name="PL| MEZZO LIVE HD" tvg-logo="http://103.176.90.92/picons/1121753.png" group-title="PL| MUZYCZNE",PL| MEZZO LIVE HD
 http://line.protv.cc:80/9338741459/79615db6da37/1121753
-#EXTINF:-1 tvg-id="" tvg-name="##### PL REGIONALNE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| REGIONALNE",##### PL REGIONALNE #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL REGIONALNE #####" tvg-logo="" group-title="PL| REGIONALNE",##### PL REGIONALNE #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288915
 #EXTINF:-1 tvg-id="TVP3Białystok.pl" tvg-name="PL| TVP3 BIALYSTOK" tvg-logo="http://103.176.90.92/picons/936815.png" group-title="PL| REGIONALNE",PL| TVP3 BIALYSTOK
 http://line.protv.cc:80/9338741459/79615db6da37/936815
@@ -1403,7 +1403,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/936839
 http://line.protv.cc:80/9338741459/79615db6da37/936948
 #EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="PL| TVP3 WARSZAWA" tvg-logo="http://103.176.90.92/picons/936950.png" group-title="PL| REGIONALNE",PL| TVP3 WARSZAWA
 http://line.protv.cc:80/9338741459/79615db6da37/936950
-#EXTINF:-1 tvg-id="" tvg-name="##### PL VIAPLAY #####" tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="PL| VIAPLAY",##### PL VIAPLAY #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL VIAPLAY #####" tvg-logo="" group-title="PL| VIAPLAY",##### PL VIAPLAY #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288914
 #EXTINF:-1 tvg-id="" tvg-name="PL| PREMIER LEAGUE TOP EVENT FHD" tvg-logo="http://103.176.90.92/picons/1111763.png" group-title="PL| VIAPLAY",PL| PREMIER LEAGUE TOP EVENT FHD
 http://line.protv.cc:80/9338741459/79615db6da37/1111763
@@ -1517,7 +1517,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1111710
 http://line.protv.cc:80/9338741459/79615db6da37/1111709
 #EXTINF:-1 tvg-id="" tvg-name="PL| NFL HD" tvg-logo="http://103.176.90.92/picons/1111708.png" group-title="PL| VIAPLAY",PL| NFL HD
 http://line.protv.cc:80/9338741459/79615db6da37/1111708
-#EXTINF:-1 tvg-id="" tvg-name="##### PL WALKI PPV #####" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| WALKI PPV",##### PL WALKI PPV #####
+#EXTINF:-1 tvg-id="" tvg-name="##### PL WALKI PPV #####" tvg-logo="" group-title="PL| WALKI PPV",##### PL WALKI PPV #####
 http://line.protv.cc:80/9338741459/79615db6da37/1288912
 #EXTINF:-1 tvg-id="" tvg-name="PL| HIGH LEAGUE 6" tvg-logo="http://103.176.90.118/picons/logos/POLAND/HIGH-LEAGUE.png" group-title="PL| WALKI PPV",PL| HIGH LEAGUE 6
 http://line.protv.cc:80/9338741459/79615db6da37/1142450
@@ -1549,7 +1549,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1311423
 http://line.protv.cc:80/9338741459/79615db6da37/1293996
 #EXTINF:-1 tvg-id="" tvg-name="PL| WALKI 2 (LIVE EVENT ONLY)" tvg-logo="http://103.176.90.118/picons/logos/logos/WALKI.png" group-title="PL| WALKI PPV",PL| WALKI 2 (LIVE EVENT ONLY)
 http://line.protv.cc:80/9338741459/79615db6da37/1293995
-#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE ROZRYWKA ᴴᴰ ####" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-ONLINE-SPORT.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",#### CANAL+ ONLINE ROZRYWKA ᴴᴰ ####
+#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE ROZRYWKA ᴴᴰ ####" tvg-logo="" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",#### CANAL+ ONLINE ROZRYWKA ᴴᴰ ####
 http://line.protv.cc:80/9338741459/79615db6da37/1691151
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| TVP 1 ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691150.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP 1 ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691150
@@ -1675,7 +1675,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1691091
 http://line.protv.cc:80/9338741459/79615db6da37/1691090
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| DISCOVERY LIFE ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691089.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISCOVERY LIFE ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691089
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| DISNEY CHANNEL ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691088.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISNEY CHANNEL ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| DISNEY CHANNEL ᴴᴰ" tvg-logo="http://103.176.90.92/picons/disneych.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISNEY CHANNEL ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691088
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| DISNEY JUNIOR ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691087.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| DISNEY JUNIOR ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691087
@@ -1773,7 +1773,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1691042
 http://line.protv.cc:80/9338741459/79615db6da37/1691041
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691040.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TV4 ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691040
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TVP ABC 2 ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691039.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP ABC 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TVP ABC 2 ᴴᴰ" tvg-logo="http://103.176.90.92/picons/abc.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP ABC 2 ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691039
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| TVP HISTORIA 2 ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691038.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| TVP HISTORIA 2 ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691038
@@ -1823,7 +1823,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1691017
 http://line.protv.cc:80/9338741459/79615db6da37/1691016
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| ZOOM TV ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691015.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| ZOOM TV ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691015
-#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ ####" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",#### CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ ####
+#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ ####" tvg-logo="" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",#### CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ ####
 http://line.protv.cc:80/9338741459/79615db6da37/1697718
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PLAY+| TVP 1 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697717.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP 1 ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697717
@@ -1891,7 +1891,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697687
 http://line.protv.cc:80/9338741459/79615db6da37/1697686
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| TV4 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697685.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TV4 ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697685
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TVP ABC 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697684.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP ABC 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TVP ABC 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/abc.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP ABC 2 ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697684
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| TVP HISTORIA 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697683.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| TVP HISTORIA 2 ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697683
@@ -1993,7 +1993,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697636
 http://line.protv.cc:80/9338741459/79615db6da37/1697635
 #EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="PLAY+| DISCOVERY LIFE ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697634.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISCOVERY LIFE ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697634
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PLAY+| DISNEY CHANNEL ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697633.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISNEY CHANNEL ᴿᴬᵂ
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PLAY+| DISNEY CHANNEL ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/disneych.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISNEY CHANNEL ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697633
 #EXTINF:-1 tvg-id="DisneyJr.pl" tvg-name="PLAY+| DISNEY JUNIOR ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697632.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| DISNEY JUNIOR ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697632
@@ -2097,7 +2097,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697584
 http://line.protv.cc:80/9338741459/79615db6da37/1697583
 #EXTINF:-1 tvg-id="ZoomTv.pl" tvg-name="PLAY+| ZOOM TV ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697582.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| ZOOM TV ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697582
-#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE SPORT ᴴᴰ ####" tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-PLUS-ONLINE-SPORT.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",#### CANAL+ ONLINE SPORT ᴴᴰ ####
+#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE SPORT ᴴᴰ ####" tvg-logo="" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",#### CANAL+ ONLINE SPORT ᴴᴰ ####
 http://line.protv.cc:80/9338741459/79615db6da37/1691177
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EVENT 1 ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691176.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EVENT 1 ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691176
@@ -2149,7 +2149,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1691154
 http://line.protv.cc:80/9338741459/79615db6da37/1691153
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| FIGHT KLUB ᴴᴰ" tvg-logo="http://103.176.90.92/picons/1691152.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| FIGHT KLUB ᴴᴰ
 http://line.protv.cc:80/9338741459/79615db6da37/1691152
-#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####" tvg-logo="http://51.158.145.100/picons/logos/logos/POLAND.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####
+#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####" tvg-logo="" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####
 http://line.protv.cc:80/9338741459/79615db6da37/1697744
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EVENT 1 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697743.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EVENT 1 ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697743
@@ -2201,209 +2201,209 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697721
 http://line.protv.cc:80/9338741459/79615db6da37/1697720
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| FIGHT KLUB ᴿᴬᵂ" tvg-logo="http://103.176.90.92/picons/1697719.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| FIGHT KLUB ᴿᴬᵂ
 http://line.protv.cc:80/9338741459/79615db6da37/1697719
-#EXTINF:-1 tvg-id="" tvg-name="####### MAX PPV #######" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",####### MAX PPV #######
+#EXTINF:-1 tvg-id="" tvg-name="####### MAX PPV #######" tvg-logo="" group-title="PL| MAX PPV",####### MAX PPV #######
 http://line.protv.cc:80/9338741459/79615db6da37/1640751
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640750
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640749
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640748
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640747
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640746
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640745
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640744
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640743
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640742
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640741
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640740
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640739
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640738
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640737
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640736
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640735
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640734
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640733
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640732
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640731
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640730
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640729
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640728
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640727
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640726
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640725
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640724
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640723
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640722
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640721
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640720
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640719
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640718
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640717
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640716
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640715
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640714
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640713
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640712
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640711
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640710
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640709
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640708
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640707
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640706
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640705
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640704
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640703
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640702
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640701
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640700
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640699
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640698
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640697
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640696
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640695
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640694
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640693
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640692
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640691
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640690
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640689
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640688
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640687
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640686
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640685
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640684
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640683
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640682
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640681
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640680
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640679
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640678
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640677
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640676
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640675
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640674
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640673
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640672
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640671
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640670
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640669
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640668
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640667
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640666
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640665
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640664
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640663
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640662
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640661
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640660
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640659
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640658
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640657
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640656
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640655
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640654
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640653
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640652
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="PL| MAX PPV",PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.92/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640651
-#EXTINF:-1 tvg-id="" tvg-name="###### PL RADIO ######" tvg-logo="http://103.176.90.118/picons/logos/logos/PL-RADIO.png" group-title="PL| MUZYCZNE",###### PL RADIO ######
+#EXTINF:-1 tvg-id="" tvg-name="###### PL RADIO ######" tvg-logo="" group-title="PL| MUZYCZNE",###### PL RADIO ######
 http://line.protv.cc:80/9338741459/79615db6da37/882113
 #EXTINF:-1 tvg-id="" tvg-name="PL| ZŁOTE PRZEBOJE" tvg-logo="http://103.176.90.92/picons/953570.png" group-title="PL| MUZYCZNE",PL| ZŁOTE PRZEBOJE
 http://line.protv.cc:80/9338741459/79615db6da37/953570
