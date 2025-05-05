@@ -147,6 +147,10 @@ http://line.protv.cc:80/9338741459/79615db6da37/1530216
 http://line.protv.cc:80/9338741459/79615db6da37/1530213
 #EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="PL-VIP|  POLSAT SPORT PREMIUM PPV6 RAW" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv6.png" group-title="PL| POLAND VIP",PL-VIP|  POLSAT SPORT PREMIUM PPV6 RAW
 http://line.protv.cc:80/9338741459/79615db6da37/1530215
+#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| SKY SHOWTIME 1 RAW" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-SHOWTIM.png" group-title="PL| POLAND VIP",PL-VIP| SKY SHOWTIME 1 RAW
+http://line.protv.cc:80/9338741459/79615db6da37/1847051
+#EXTINF:-1 tvg-id="" tvg-name="PL-VIP| SKY SHOWTIME 2 RAW" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-SHOWTIM.png" group-title="PL| POLAND VIP",PL-VIP| SKY SHOWTIME 2 RAW
+http://line.protv.cc:80/9338741459/79615db6da37/1847052
 #EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ 1 UHD" tvg-logo="http://picons.cmshulk.com/picons/1828580.png" group-title="PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ 1 UHD
 http://line.protv.cc:80/9338741459/79615db6da37/1828580
 #EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="PL-VIP| CANAL+ 1 RAW" tvg-logo="http://picons.cmshulk.com/picons/1530127.png" group-title="PL| POLAND VIP",PL-VIP| CANAL+ 1 RAW
@@ -1167,11 +1171,11 @@ http://line.protv.cc:80/9338741459/79615db6da37/1602012
 http://line.protv.cc:80/9338741459/79615db6da37/1602013
 #EXTINF:-1 tvg-id="" tvg-name="##### VIAPLAY VIP EVENT #####" tvg-logo="" group-title="PL| VIAPLAY PPV VIP",##### VIAPLAY VIP EVENT #####
 http://line.protv.cc:80/9338741459/79615db6da37/1592508
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - MAJOR LEAGUE BASEBALL RANGERS - MARINERS | Sat 03 May 23:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - MAJOR LEAGUE BASEBALL RANGERS - MARINERS | Sat 03 May 23:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592509
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - NHL DALLAS - COLORADO | Sun 04 May 00:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - NHL DALLAS - COLORADO | Sun 04 May 00:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 2 - MAJOR LEAGUE BASEBALL BRAVES - DODGERS | Sun 04 May 23:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 2 - MAJOR LEAGUE BASEBALL BRAVES - DODGERS | Sun 04 May 23:00 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592510
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 3 - NHL WINNIPEG - ST. LOUIS | Sun 04 May 23:05 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 3 - NHL WINNIPEG - ST. LOUIS | Sun 04 May 23:05 | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592511
 #EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="PL| VIAPLAY PPV VIP",PL: VIAPLAY PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1592512
@@ -2205,7 +2209,7 @@ http://line.protv.cc:80/9338741459/79615db6da37/1697719
 http://line.protv.cc:80/9338741459/79615db6da37/1640751
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640750
-#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - MIAMI | 2. DZIEŃ | Sat 03 May 21:30 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - MIAMI | 2. DZIEŃ | Sat 03 May 21:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640749
 #EXTINF:-1 tvg-id="" tvg-name="PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/hbomax.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.protv.cc:80/9338741459/79615db6da37/1640748
